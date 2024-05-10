@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% from "components/macros.html" import form_errors %}
+{% from 'components/macros.html' import select_field, sighting_card %}
+
+
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/sighting.css') }}">
+{% endblock %}
+
+{% block title %}ALL SIGHTINGS{% endblock %}
+
+{% block content %}
+    <div class="sightings">
+        {% for sighting in sightings %}
+            {{ sighting_card(sighting=sighting) }}
+        {% endfor %}
+    </div>
+{% endblock %}

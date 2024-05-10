@@ -1,0 +1,29 @@
+{% macro cta_button (class='') %}
+    <a class="btn {{ class }}" href="{{ url_for('Produce.produce') }}">
+        <span>
+            <img src="{{ url_for('static', filename='images/icons/cart.svg') }}" alt="cart" class="icon">
+            Start shopping
+        </span>
+    </a>
+{% endmacro %}
+
+
+{% macro form_errors (errors=[]) %}
+    {% for error in errors %}
+        <span class="text--red">{{ error }}</span>
+    {% endfor %}
+{% endmacro %}
+
+
+
+
+{% macro sighting_card (sighting=None) %}
+    <div class="card">
+        <div class="card__info">
+            <p>Title: {{ sighting.title|format_data }}</p>
+            <p>Latitude: {{ sighting.latitude}}</p>
+            <p>Longitude: {{ sighting.longitude}}</p>
+        </div>
+
+    </div>
+{% endmacro %}

@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% from "components/macros.html" import cta_button %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+{% endblock %}
+
+
+{% block content %}
+    <div class="home">
+        <section class="home__hero">
+            <div class="hero__left">
+                <h1>
+                    Bigfoot is real no cap.
+                </h1>
+
+
+            </div>
+            <div class="hero__right">
+                <img src="{{ url_for('static', filename='images/hero.jpg') }}" alt="hero" class="hero__img">
+            </div>
+        </section>
+    </div>
+{% endblock %}
