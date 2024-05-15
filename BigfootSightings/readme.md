@@ -15,6 +15,19 @@ https://absalon.ku.dk/courses/72770/files/8290765?module_item_id=2330375
 Clone / download repository files and run the following to install the required packages (preferably within a venv):
 
     pip install -r requirements.txt
+-------------------------------------
+
+### For Ubuntu:
+
+We have experienced issues with installing psycopg2 on some Ubuntu distributions. If issues are encountered, try:
+
+sudo apt-get install build-essential
+sudo apt-get install python3-pip
+pip3 install psycopg2
+
+, and then rerun the pip install command above.
+
+------------------------------------
 
 Create a new database in pgAdmin (preferably named BigfootSightings) and add the following to your .env file 
 (NOTE: this file will likely be hidden. Normally .env should be a private file containing user secrets, in this
@@ -29,8 +42,18 @@ access for the TAs):
  Then, initiate the dabase by running while in the 'utils' directory:
  
     python3 init_db.py
+
+Set the FLASK\_APP envirorment variable to __\_\_init\_\_.py__: 
+
+macOS/Linux:
+
+	export FLASK_APP=__init__.py
+
+Windows:
+
+	set FLASK_APP=__init__.py
  	
-Finally, start serving the website with:
+Finally, start serving the website with (run from the same directory as the __\_\_init\_\_.py__ file):
 
     flask run
 
