@@ -21,9 +21,9 @@ Clone / download repository files and run the following to install the required 
 
 We have experienced issues with installing psycopg2 on some Ubuntu distributions. If issues are encountered, try:
 
-sudo apt-get install build-essential
-sudo apt-get install python3-pip
-pip3 install psycopg2
+	sudo apt-get install build-essential
+	sudo apt-get install python3-pip
+	pip3 install psycopg2
 
 , and then rerun the pip install command above.
 
