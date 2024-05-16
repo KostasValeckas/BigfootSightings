@@ -5,8 +5,8 @@ Authors: Andreas Hove Rising | fbr426, Victor Lynge Skogø | pld452,  Kostas Val
 This reposutory is a student project for the course 'Databases and Informations Systems' (DIS) at
 DIKU, University of Copenhagen, 2024.
 
-THIS REPOSITORY USES CODE FROM THE DIS PROJECT 'GreenGroceries' 
-AS A TEMPLATE: 
+This repository uses code from the DIS project 'GreenGroceries' 
+as a template: 
 
 https://absalon.ku.dk/courses/72770/files/8290765?module_item_id=2330375
 
