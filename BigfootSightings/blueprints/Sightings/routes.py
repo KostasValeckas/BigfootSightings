@@ -1,9 +1,9 @@
 from flask import render_template, request, Blueprint
 from flask_login import login_required, current_user
 
-from BigfootSightings.forms import AddSightingForm
+from BigfootSightings.forms import AddSightingForm, SearchSightingForm
 from BigfootSightings.models import Sighting
-from BigfootSightings.queries import insert_sighting, get_all_sightings
+from BigfootSightings.queries import insert_sighting, get_all_sightings, search_sightings
 
 Sightings = Blueprint('Sighting', __name__)
 
@@ -25,10 +25,19 @@ def add_sighting():
             insert_sighting(sighting)
     return render_template('pages/add-sighting.html', form=form)
 
-@Sightings.route("/all-sightings")
+@Sightings.route("/all-sightings", methods=['GET', 'POST'])
 def all_sightings():
-    
-    sightings = get_all_sightings()
 
-    return render_template('pages/all-sightings.html', sightings=sightings)
+    form = SearchSightingForm()
+
+    if request.method == 'POST':
+        if form.validate_on_submit():
+            sightings = search_sightings(form.search_text.data)
+    
+    else: sightings = get_all_sightings()
+
+    return render_template(
+        'pages/all-sightings.html',
+        sightings=sightings,
+        form = form)
 

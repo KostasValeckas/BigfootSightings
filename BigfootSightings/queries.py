@@ -1,5 +1,6 @@
 from BigfootSightings import db_cursor, conn
 from BigfootSightings.models import Sighting, User
+import re
 
 
 # INSERT QUERIES
@@ -36,6 +37,21 @@ def get_all_sightings():
     SELECT * FROM Sightings
     """
     db_cursor.execute(sql)
+    sightings = db_cursor.fetchall()
+    return sightings
+
+def search_sightings(search_text):
+
+    # Validate the search_text for acceptable characters
+    if not re.match("^[a-zA-Z0-9_ ]*$", search_text):
+        print("Invalid search text")
+        return []
+    
+    sql = """
+    SELECT * FROM Sightings
+    WHERE title ~%s
+    """
+    db_cursor.execute(sql, (search_text,))
     sightings = db_cursor.fetchall()
     return sightings
 

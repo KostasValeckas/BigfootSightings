@@ -1,3 +1,5 @@
+
+
 .sighting {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -19,4 +21,42 @@
 .card__action {
     display: grid;
     place-items: center;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: grid;
+    place-items: center;
+}
+
+.form-wrapper {
+    margin: auto;
+    min-height: 50vh;
+    width: 100%;
+    box-shadow: var(--box-shadow-depth);
+    border-radius: var(--border-radius);
+    padding: var(--margin-md);
+    text-align: center;
+}
+
+.form-wrapper .card {
+    margin: var(--margin-md) 0;
+}
+
+@media screen and (min-width: 40em) {
+    .form-wrapper {
+        max-width: 40vw;
+    }
+}
+
+@media screen and (min-width: 80em) {
+    .form-wrapper {
+        max-width: 30vw;
+    }
+}
+
+.form-wrapper .btn {
+    margin-top: var(--margin-xl);
 }

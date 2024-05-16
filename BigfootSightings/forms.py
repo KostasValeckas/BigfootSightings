@@ -58,3 +58,11 @@ class AddSightingForm(FlaskForm):
                             render_kw=dict(placeholder='Longitude'))
 
     submit = SubmitField('Add Sighting')
+
+
+class SearchSightingForm(FlaskForm):
+    search_text = StringField('Search Text',
+                            validators=[DataRequired(), Length(min=0, max=5000)],
+                            render_kw=dict(placeholder='Search Text'))
+    submit = SubmitField('Search Sighting')
+
