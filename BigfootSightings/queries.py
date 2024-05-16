@@ -49,7 +49,7 @@ def search_sightings(search_text):
     
     sql = """
     SELECT * FROM Sightings
-    WHERE title ~%s
+    WHERE title ~*%s
     """
     db_cursor.execute(sql, (search_text,))
     sightings = db_cursor.fetchall()
