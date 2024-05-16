@@ -26,8 +26,8 @@ We have experienced issues with installing psycopg2 on some Ubuntu distributions
 	pip3 install psycopg2
 
 , and then rerun the pip install command above (if the psycopg2 installation still throws an error 
-while installing the requirment list, but it has been installed with the above pip3 command
-remove it temporarely from the requirment file before running the intallation).
+while installing the requirment list, but it has been installed with the above pip3 command,
+remove it temporarely from the requirment file before running the installation).
 
 ------------------------------------
 
