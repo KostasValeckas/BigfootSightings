@@ -12,8 +12,8 @@ import app
 
 
 
-DATASET_PATH = "/home/kostasvaleckas/Documents/DIS/Project_Sketch/BigfootSightings/dataset/archive/bfro_locations.csv"
-
+SIGHTINGS_PATH = "/home/kostasvaleckas/Documents/DIS/Victor_cities_data/BigfootSightings-main/dataset/archive/bfro_locations.csv"
+CITIES_PATH = "/home/kostasvaleckas/Documents/DIS/Victor_cities_data/BigfootSightings-main/dataset/archive/Cities.csv"
 
 def get_label_name(string):
     return string.replace("_", " ").capitalize()
@@ -34,12 +34,20 @@ class ModelChoices:
         return [l for l in self.__dict__.values()]
 
 
-df = pd.read_csv(DATASET_PATH, sep=',', dtype=str)
+sightingsFile = pd.read_csv(SIGHTINGS_PATH, sep=',', dtype=str)
+citiesFile = pd.read_csv(CITIES_PATH, sep=';', dtype=str)
 
 print("DATA_READ:")
-print(df)
+print(sightingsFile)
+print("DATA_READ:")
+print(citiesFile)
 
-SightingNumber = ModelChoices(df.number.unique())
-SightingTitle = ModelChoices(df.title.unique())
-SightingLat = ModelChoices(df.latitude.unique())
-SightingLong = ModelChoices(df.longitude.unique())
+SightingNumber = ModelChoices(sightingsFile.number.unique())
+SightingTitle = ModelChoices(sightingsFile.title.unique())
+SightingLat = ModelChoices(sightingsFile.latitude)
+SightingLong = ModelChoices(sightingsFile.longitude)
+
+CityName = ModelChoices(citiesFile.cityName)
+StateID = ModelChoices(citiesFile.stateID)
+StateName = ModelChoices(citiesFile.stateName)
+Country = ModelChoices(citiesFile.country)
