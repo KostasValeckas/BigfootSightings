@@ -39,6 +39,10 @@ access for the TAs):
     DB_PASSWORD=<postgres_user_password>
     DB_NAME=BigfootSightings || <postgres_db_name>
     
+Go to the `choices.py` in the `utils` directory and update the absolute PATH's
+to the relevant files in the dataset folder. 
+!TODO: UPDATE THIS WHEN ALL DATA IS IN PLACE - POSSIBLY USE RELATIVE PATHS SO THIS IS NOT NEEDED
+    
  Then, initiate the dabase by running while in the 'utils' directory:
  
     python3 init_db.py

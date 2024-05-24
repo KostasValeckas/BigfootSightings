@@ -66,3 +66,5 @@ class SearchSightingForm(FlaskForm):
                             render_kw=dict(placeholder='Search Text'))
     submit = SubmitField('Search Sighting')
 
+
+class BackToMainForm(FlaskForm): submit = SubmitField('Main Menu')

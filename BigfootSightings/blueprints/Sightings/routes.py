@@ -1,11 +1,21 @@
-from flask import render_template, request, Blueprint
+from flask import render_template, redirect, url_for, request, Blueprint
 from flask_login import login_required, current_user
 
-from BigfootSightings.forms import AddSightingForm, SearchSightingForm
+from BigfootSightings.forms import AddSightingForm, SearchSightingForm, BackToMainForm
 from BigfootSightings.models import Sighting
 from BigfootSightings.queries import insert_sighting, get_all_sightings, search_sightings
 
 Sightings = Blueprint('Sighting', __name__)
+
+
+@Sightings.route("/backToMainFromAdd", methods=['GET', 'POST'])
+def backToMainFromAdd():
+    form = BackToMainForm()
+    if request.method == 'POST':
+            if form.validate_on_submit():
+                return redirect(url_for('Login.home'))
+
+    return render_template('pages/add-sighting-landing.html', form=form)
 
 
 
@@ -23,6 +33,10 @@ def add_sighting():
             )
             sighting = Sighting(sighting_data)
             insert_sighting(sighting)
+
+            next_page = request.args.get('next')
+            return redirect(next_page) if next_page else redirect(url_for('Sighting.backToMainFromAdd'))
+
     return render_template('pages/add-sighting.html', form=form)
 
 @Sightings.route("/all-sightings", methods=['GET', 'POST'])

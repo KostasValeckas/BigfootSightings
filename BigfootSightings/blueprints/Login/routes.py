@@ -1,7 +1,7 @@
 from flask import render_template, url_for, redirect, request, Blueprint
 from flask_login import login_user, current_user, logout_user
 
-from BigfootSightings.forms import UserLoginForm, UserSignupForm
+from BigfootSightings.forms import UserLoginForm, UserSignupForm, BackToMainForm
 from BigfootSightings.queries import get_user_by_user_name , insert_user
 from BigfootSightings.models import User
 
@@ -12,6 +12,24 @@ Login = Blueprint('Login', __name__)
 @Login.route("/home")
 def home():
     return render_template('pages/home.html')
+
+@Login.route("/backToMainFromSignup", methods=['GET', 'POST'])
+def backToMainFromSignup():
+    form = BackToMainForm()
+    if request.method == 'POST':
+            if form.validate_on_submit():
+                return redirect(url_for('Login.home'))
+
+    return render_template('pages/signup-landing.html', form=form)
+
+@Login.route("/backToMainFromLogin", methods=['GET', 'POST'])
+def backToMainFromLogin():
+    form = BackToMainForm()
+    if request.method == 'POST':
+            if form.validate_on_submit():
+                return redirect(url_for('Login.home'))
+
+    return render_template('pages/login-landing.html', form=form)
 
 
 @Login.route("/about")
@@ -35,7 +53,7 @@ def login():
             if user and user.password == form.password.data:
                 login_user(user, remember=True)
                 next_page = request.args.get('next')
-                return redirect(next_page) if next_page else redirect(url_for('Login.home'))
+                return redirect(next_page) if next_page else redirect(url_for('Login.backToMainFromLogin'))
     return render_template('pages/login.html', form=form)
 
 
@@ -57,7 +75,7 @@ def signup():
             if user:
                 login_user(user, remember=True)
                 next_page = request.args.get('next')
-                return redirect(next_page) if next_page else redirect(url_for('Login.home'))
+                return redirect(next_page) if next_page else redirect(url_for('Login.backToMainFromSignup'))
     return render_template('pages/signup.html', form=form)
 
 

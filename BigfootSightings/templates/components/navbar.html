@@ -5,12 +5,12 @@
             <a href="{{ url_for("Sighting.add_sighting") }}">Add Bigfoot sightings</a>
             <a href="{{ url_for("Sighting.all_sightings") }}">All Bigfoot sightings</a>
             {% if current_user.is_authenticated %}
+                <span class="text--gray">Logged in as: {{ current_user.user_name }}</span>
             {% endif %}
         </div>
 
         <div class="links-wrapper">
             {% if current_user.is_authenticated %}
-                <span class="text--gray">Logged in as: {{ current_user.user_name }}</span>
                 <a href="{{ url_for("Login.logout") }}">Logout</a>
             {% else %}
                 <a class="text--gray" href="{{ url_for("Login.signup") }}">Sign up</a>
