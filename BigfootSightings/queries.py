@@ -2,6 +2,20 @@ from BigfootSightings import db_cursor, conn
 from BigfootSightings.models import Sighting, User
 import re
 
+# MAX QUERY
+def max_report_nr():
+    sql = """
+    SELECT MAX(nr) FROM Sightings
+    """
+    db_cursor.execute(sql)
+    row = db_cursor.fetchone()
+    print(row)
+    if row:
+        max = row['max']
+        print("The maximum is:", max)
+    else:
+        print("Did not find a maximum")
+    return max
 
 # INSERT QUERIES
 def insert_sighting(sighting: Sighting):
@@ -9,8 +23,8 @@ def insert_sighting(sighting: Sighting):
     INSERT INTO Sightings(nr, title, longitude, latitude)
     VALUES (%s, %s, %s, %s)
     """
-    #TODO: FOR NOW - ALL NEW SIGHRTINGS WILL HAVE NR = -1, FIX THIS LATER (K.V.)
-    db_cursor.execute(sql, (-1, sighting.title,  sighting.latitude, sighting.longitude))
+    next_report_number = max_report_nr() + 1
+    db_cursor.execute(sql, (next_report_number, sighting.title,  sighting.latitude, sighting.longitude))
     conn.commit()
 
 def insert_user(user: User):
