@@ -2,7 +2,7 @@ import psycopg2
 import os
 
 from dotenv import load_dotenv
-from choices import sightingsFile, citiesFile
+from choices import sightingsFile, citiesFile, locationsFile, locatedAtFile
 
 load_dotenv()
 
@@ -26,6 +26,14 @@ if __name__ == '__main__':
         with open('cities.sql') as db_file:
             cur.execute(db_file.read())
             print("Cities file opened")
+        # Run locations.sql
+        with open('locations.sql') as db_file:
+            cur.execute(db_file.read())
+            print("Locations file opened")
+        # Run locatedAt.sql
+        with open('locatedAt.sql') as db_file:
+            cur.execute(db_file.read())
+            print("LocatatedAt file opened")
 
         # Import all sightings from the dataset
         all_sightings = list(
@@ -42,6 +50,22 @@ if __name__ == '__main__':
         )
         cityArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_cities)
         cur.execute("INSERT INTO Cities (cityName, stateID, stateName, country) VALUES " + cityArgs_str)
+
+        # Import all locations from the dataset
+        all_locations = list(
+            map(lambda x: tuple(x),
+                locationsFile[['lat', 'lng', 'stateID', 'country']].to_records(index=False))
+        )
+        locationArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_locations)
+        cur.execute("INSERT INTO Locations (lat, lng, stateID, country) VALUES " + locationArgs_str)
+
+        # Import all locatedAts from the dataset
+        all_locatedAts = list(
+            map(lambda x: tuple(x),
+                locatedAtFile[['cityName', 'stateID', 'lat', 'lng']].to_records(index=False))
+        )
+        locatedAtArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_locatedAts)
+        cur.execute("INSERT INTO Located_At (cityName, stateID, lat, lng) VALUES " + locatedAtArgs_str)
 
         conn.commit()
 
