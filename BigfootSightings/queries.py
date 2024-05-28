@@ -15,7 +15,10 @@ def max_report_nr():
         print("The maximum is:", max)
     else:
         print("Did not find a maximum")
+    if max is None:
+        max = 0    
     return max
+
 
 # INSERT QUERIES
 def insert_sighting(sighting: Sighting):

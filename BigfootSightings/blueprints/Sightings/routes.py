@@ -41,17 +41,16 @@ def add_sighting():
 
 @Sightings.route("/all-sightings", methods=['GET', 'POST'])
 def all_sightings():
-
     form = SearchSightingForm()
 
     if request.method == 'POST':
+
         if form.validate_on_submit():
+            if form.reset.data:
+                sightings = get_all_sightings()
+                return render_template('pages/all-sightings.html', sightings=sightings, form=form)
+            
             sightings = search_sightings(form.search_text.data)
-    
-    else: sightings = get_all_sightings()
-
-    return render_template(
-        'pages/all-sightings.html',
-        sightings=sightings,
-        form = form)
-
+    else:
+        sightings = get_all_sightings()
+    return render_template('pages/all-sightings.html', sightings=sightings, form=form)

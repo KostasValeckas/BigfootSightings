@@ -11,7 +11,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import app
 
 
-LOCAL_PATH = "C:/Users/victo/Desktop/Uni/FemteAar/DIS/BigfootSightings"
+LOCAL_PATH = "~/Documents/DIS/BigfootSightings"
 SIGHTINGS_PATH = LOCAL_PATH + "/dataset/archive/bfro_locations.csv"
 CITIES_PATH = LOCAL_PATH + "/dataset/archive/Cities.csv"
 LOCATIONS_PATH = LOCAL_PATH + "/dataset/archive/Locations.csv"

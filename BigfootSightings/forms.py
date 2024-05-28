@@ -5,6 +5,7 @@ from wtforms.validators import DataRequired, Length, ValidationError, NumberRang
 
 from BigfootSightings.queries import get_user_by_user_name
 from BigfootSightings.utils.choices import SightingNumber, SightingTitle, SightingLat, SightingLong
+from wtforms.validators import NumberRange
 
 
 class UserLoginForm(FlaskForm):
@@ -36,14 +37,14 @@ class UserSignupForm(FlaskForm):
                                     render_kw=dict(placeholder='Password'))
     submit = SubmitField('Sign up')
 
-    def validate_user_name(self, field):
+    def validate_username(self, field):
         user = get_user_by_user_name(self.username.data)
         if user:
-            raise ValidationError(f'User name "{self.username.data}" already in use.')
+            raise ValidationError('Username is already taken.')
 
-    def validate_password_repeat(self, field):
-        if not self.password.data == self.password_repeat.data:
-            raise ValidationError(f'Provided passwords do not match.')
+    def validate_password(self, field):
+        if self.password.data != self.password_repeat.data:
+            raise ValidationError('Passwords do not match.')
 
 
 class AddSightingForm(FlaskForm):
@@ -58,6 +59,21 @@ class AddSightingForm(FlaskForm):
                             render_kw=dict(placeholder='Longitude'))
 
     submit = SubmitField('Add Sighting')
+    def validate_latitude(self, field):
+        try:
+            latitude = float(field.data)
+        except ValueError:
+            raise ValidationError('Latitude must be a number.')
+        if latitude < -90 or latitude > 90:
+                raise ValidationError('Latitude must be between -90 and 90.')
+
+    def validate_longitude(self, field):
+        try:
+            longitude = float(field.data)
+        except ValueError:
+            raise ValidationError('Longitude must be a number.')
+        if longitude < -180 or longitude > 180:
+                raise ValidationError('Longitude must be between -180 and 180.')
 
 
 class SearchSightingForm(FlaskForm):
@@ -65,6 +81,7 @@ class SearchSightingForm(FlaskForm):
                             validators=[DataRequired(), Length(min=0, max=5000)],
                             render_kw=dict(placeholder='Search Text'))
     submit = SubmitField('Search Sighting')
+    reset = SubmitField('Show All Sightings')
 
 
 class BackToMainForm(FlaskForm): submit = SubmitField('Main Menu')

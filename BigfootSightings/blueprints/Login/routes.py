@@ -64,18 +64,27 @@ def signup():
     form = UserSignupForm()
     if request.method == 'POST':
         if form.validate_on_submit():
-            user_data = dict(username=form.username.data,
-                             password=form.password.data)
-            
-            user = User(user_data)
-            
-            insert_user(user)
 
             user = get_user_by_user_name(form.username.data)
-            if user:
-                login_user(user, remember=True)
-                next_page = request.args.get('next')
-                return redirect(next_page) if next_page else redirect(url_for('Login.backToMainFromSignup'))
+            
+            if (user is None and \
+                (form.password.data == form.password_repeat.data)):
+            
+                user_data = {
+                    'username': form.username.data,
+                    'password': form.password.data
+                }
+                
+                user = User(user_data)
+                
+                insert_user(user)
+
+                user = get_user_by_user_name(form.username.data)
+
+                if user:
+                    login_user(user, remember=True)
+                    next_page = request.args.get('next')
+                    return redirect(next_page) if next_page else redirect(url_for('Login.backToMainFromSignup'))
     return render_template('pages/signup.html', form=form)
 
 
