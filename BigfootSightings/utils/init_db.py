@@ -2,8 +2,7 @@ import psycopg2
 import os
 
 from dotenv import load_dotenv
-from choices import sightingsFile, citiesFile, locationsFile, locatedAtFile
-
+from choices import sightingsFile, happensAtFile, locationsFile
 load_dotenv()
 
 if __name__ == '__main__':
@@ -22,56 +21,38 @@ if __name__ == '__main__':
         with open('sightings.sql') as db_file:
             cur.execute(db_file.read())
             print("Sightings file opened")
-        # Run cities.sql
-        with open('cities.sql') as db_file:
+        # Run locatedAt.sql
+        with open('happensAt.sql') as db_file:
             cur.execute(db_file.read())
-            print("Cities file opened")
+            print("HappensAt file opened")
         # Run locations.sql
         with open('locations.sql') as db_file:
             cur.execute(db_file.read())
             print("Locations file opened")
-        # Run locatedAt.sql
-        with open('locatedAt.sql') as db_file:
-            cur.execute(db_file.read())
-            print("LocatatedAt file opened")
 
         # Import all sightings from the dataset
         all_sightings = list(
             map(lambda x: tuple(x),
-                sightingsFile[['number', 'title', 'latitude', 'longitude']].to_records(index=False))
+                sightingsFile[['number', 'title', 'timestamp']].to_records(index=False))
         )
-        sightingArgs_str = ','.join(cur.mogrify("(%s, 'timothyrenner', %s, %s, %s)", i).decode('utf-8') for i in all_sightings)
-        cur.execute("INSERT INTO Sightings (nr, username, title, latitude, longitude) VALUES " + sightingArgs_str)
-
-        # Import all cities from the dataset
-        all_cities = list(
-            map(lambda x: tuple(x),
-                citiesFile[['cityName', 'stateID', 'stateName', 'country']].to_records(index=False))
-        )
-        cityArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_cities)
-        cur.execute("INSERT INTO Cities (cityName, stateID, stateName, country) VALUES " + cityArgs_str)
+        sightingArgs_str = ','.join(cur.mogrify("(%s, %s, %s)", i).decode('utf-8') for i in all_sightings)
+        cur.execute("INSERT INTO Sightings (nr, title, t_stamp) VALUES " + sightingArgs_str)
 
         # Import all locations from the dataset
         all_locations = list(
             map(lambda x: tuple(x),
-                locationsFile[['lat', 'lng', 'stateID', 'country']].to_records(index=False))
+                locationsFile[['lat', 'lng', 'stateName', 'country']].to_records(index=False))
         )
         locationArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_locations)
-        cur.execute("INSERT INTO Locations (lat, lng, stateID, country) VALUES " + locationArgs_str)
+        cur.execute("INSERT INTO Locations (lat, lng, stateName, country) VALUES " + locationArgs_str)
 
-        # Import all locatedAts from the dataset
-        all_locatedAts = list(
+        # Import all happensAts from the dataset
+        all_happensAts = list(
             map(lambda x: tuple(x),
-                locatedAtFile[['cityName', 'stateID', 'lat', 'lng']].to_records(index=False))
+                happensAtFile[['number', 'lat', 'lng']].to_records(index=False))
         )
-        locatedAtArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_locatedAts)
-        cur.execute("INSERT INTO Located_At (cityName, stateID, lat, lng) VALUES " + locatedAtArgs_str)
-
-
-        # add a user for the initial databse timothyrenner from:
-        # https://data.world/timothyrenner/bfro-sightings-data
-        cur.execute("INSERT INTO Users(username, password) VALUES ('timothyrenner', '123')")
-
+        happensAtArgs_str = ','.join(cur.mogrify("(%s, %s, %s)", i).decode('utf-8') for i in all_happensAts)
+        cur.execute("INSERT INTO Happens_At (nr, lat, lng) VALUES " + happensAtArgs_str)
 
         conn.commit()
 

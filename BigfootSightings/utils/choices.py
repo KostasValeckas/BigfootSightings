@@ -10,12 +10,10 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import app
 
-
-LOCAL_PATH = "~/Documents/DIS/BigfootSightings"
-SIGHTINGS_PATH = LOCAL_PATH + "/dataset/archive/bfro_locations.csv"
-CITIES_PATH = LOCAL_PATH + "/dataset/archive/Cities.csv"
+LOCAL_PATH = "C:\\Users\\victo\\Desktop\\Uni\\FemteAar\\DIS/BigfootSightings"
+SIGHTINGS_PATH = LOCAL_PATH + "/dataset/archive/Sightings.csv"
+HAPPENS_AT_PATH = LOCAL_PATH + "/dataset/archive/HappensAt.csv"
 LOCATIONS_PATH = LOCAL_PATH + "/dataset/archive/Locations.csv"
-LOCATED_AT_PATH = LOCAL_PATH + "/dataset/archive/LocatedAt.csv"
 
 def get_label_name(string):
     return string.replace("_", " ").capitalize()
@@ -36,36 +34,27 @@ class ModelChoices:
         return [l for l in self.__dict__.values()]
 
 
-sightingsFile = pd.read_csv(SIGHTINGS_PATH, sep=',', dtype=str)
-citiesFile = pd.read_csv(CITIES_PATH, sep=';', dtype=str)
+sightingsFile = pd.read_csv(SIGHTINGS_PATH, sep=';', dtype=str)
 locationsFile = pd.read_csv(LOCATIONS_PATH, sep=';', dtype=str)
-locatedAtFile = pd.read_csv(LOCATED_AT_PATH, sep=';', dtype=str)
+happensAtFile = pd.read_csv(HAPPENS_AT_PATH, sep=';', dtype=str)
 
 print("DATA_READ:")
 print(sightingsFile)
 print("DATA_READ:")
-print(citiesFile)
-print("DATA_READ:")
 print(locationsFile)
 print("DATA_READ:")
-print(locatedAtFile)
+print(happensAtFile)
+
 
 SightingNumber = ModelChoices(sightingsFile.number.unique())
-SightingTitle = ModelChoices(sightingsFile.title.unique())
-SightingLat = ModelChoices(sightingsFile.latitude)
-SightingLong = ModelChoices(sightingsFile.longitude)
-
-CityName = ModelChoices(citiesFile.cityName)
-StateID = ModelChoices(citiesFile.stateID)
-StateName = ModelChoices(citiesFile.stateName)
-Country = ModelChoices(citiesFile.country)
+SightingTitle = ModelChoices(sightingsFile.title)
+SightingTime = ModelChoices(sightingsFile.timestamp)
 
 locationLat = ModelChoices(locationsFile.lat)
 locationLng = ModelChoices(locationsFile.lng)
-locationState = ModelChoices(locationsFile.stateID)
+locationState = ModelChoices(locationsFile.stateName)
 locationCountry = ModelChoices(locationsFile.country)
 
-locatedAtCityName=ModelChoices(locatedAtFile.cityName)
-locatedAtStateID=ModelChoices(locatedAtFile.stateID)
-locatedAtLng=ModelChoices(locatedAtFile.lng)
-locatedAtLat=ModelChoices(locatedAtFile.lat)
+happensAtNr = ModelChoices(happensAtFile.number)
+happensAtLat = ModelChoices(happensAtFile.lat)
+happensAtLng = ModelChoices(happensAtFile.lng)

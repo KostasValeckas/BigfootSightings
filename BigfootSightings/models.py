@@ -40,8 +40,9 @@ class User(UserMixin):
 
 class Sighting():
     def __init__(self, sighting_data: Dict):
+        self.nr = sighting_data.get('nr')
+        self.username = sighting_data.get('username')
         self.title = sighting_data.get('title')
-        self.latitude = sighting_data.get('latitude')
-        self.longitude = sighting_data.get('longitude')
+        self.timestamp = sighting_data.get('timestamp')
 
 

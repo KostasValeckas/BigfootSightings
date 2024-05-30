@@ -4,7 +4,7 @@ from wtforms import StringField, PasswordField, SubmitField, IntegerField, Selec
 from wtforms.validators import DataRequired, Length, ValidationError, NumberRange
 
 from BigfootSightings.queries import get_user_by_user_name
-from BigfootSightings.utils.choices import SightingNumber, SightingTitle, SightingLat, SightingLong
+from BigfootSightings.utils.choices import SightingNumber, SightingTitle, SightingTime
 from wtforms.validators import NumberRange
 
 

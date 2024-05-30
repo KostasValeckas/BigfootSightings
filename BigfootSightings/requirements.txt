@@ -11,6 +11,7 @@ Flask-Bcrypt==1.0.1
 Flask-Login==0.6.1
 Flask-WTF==1.0.1
 greenlet==3.0.3
+geopy==2.4.1
 idna==3.7
 importlib-metadata==4.11.3
 itsdangerous==2.1.2

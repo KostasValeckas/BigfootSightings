@@ -4,8 +4,7 @@ CREATE TABLE IF NOT EXISTS Sightings(
     nr int,
     username text,
     title text,
-    latitude float,
-    longitude float,
+    t_stamp timestamp,
 
     PRIMARY KEY (nr)
 );
