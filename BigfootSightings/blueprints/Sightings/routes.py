@@ -13,16 +13,16 @@ def backToMainFromAdd():
     form = BackToMainForm()
     if request.method == 'POST':
             if form.validate_on_submit():
-                return redirect(url_for('Login.home'))
+                return redirect(url_for('Login.login'))  # Change endpoint to 'Login.login'
 
     return render_template('pages/add-sighting-landing.html', form=form)
 
 
 
 @Sightings.route("/add-sighting", methods=['GET', 'POST'])
-
-#@login_required
+@login_required
 def add_sighting():
+    print("!!\n\n AT ADD SIGHTING \n\n!")
     form = AddSightingForm()
     if request.method == 'POST':
         if form.validate_on_submit():
@@ -32,7 +32,8 @@ def add_sighting():
                 longitude=form.longitude.data
             )
             sighting = Sighting(sighting_data)
-            insert_sighting(sighting)
+            username = current_user.username
+            insert_sighting(username, sighting)
 
             next_page = request.args.get('next')
             return redirect(next_page) if next_page else redirect(url_for('Sighting.backToMainFromAdd'))

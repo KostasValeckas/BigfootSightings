@@ -21,7 +21,7 @@ conn = psycopg2.connect(
 db_cursor = conn.cursor(cursor_factory=RealDictCursor)
 
 login_manager = LoginManager(app)
-login_manager.login_view = 'login'
+login_manager.login_view = 'Login.login'
 login_manager.login_message_category = 'info'
 
 from BigfootSightings import filters

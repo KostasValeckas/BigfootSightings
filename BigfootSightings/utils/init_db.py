@@ -40,8 +40,8 @@ if __name__ == '__main__':
             map(lambda x: tuple(x),
                 sightingsFile[['number', 'title', 'latitude', 'longitude']].to_records(index=False))
         )
-        sightingArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_sightings)
-        cur.execute("INSERT INTO Sightings (nr, title, latitude, longitude) VALUES " + sightingArgs_str)
+        sightingArgs_str = ','.join(cur.mogrify("(%s, 'timothyrenner', %s, %s, %s)", i).decode('utf-8') for i in all_sightings)
+        cur.execute("INSERT INTO Sightings (nr, username, title, latitude, longitude) VALUES " + sightingArgs_str)
 
         # Import all cities from the dataset
         all_cities = list(
@@ -66,6 +66,12 @@ if __name__ == '__main__':
         )
         locatedAtArgs_str = ','.join(cur.mogrify("(%s, %s, %s, %s)", i).decode('utf-8') for i in all_locatedAts)
         cur.execute("INSERT INTO Located_At (cityName, stateID, lat, lng) VALUES " + locatedAtArgs_str)
+
+
+        # add a user for the initial databse timothyrenner from:
+        # https://data.world/timothyrenner/bfro-sightings-data
+        cur.execute("INSERT INTO Users(username, password) VALUES ('timothyrenner', '123')")
+
 
         conn.commit()
 
