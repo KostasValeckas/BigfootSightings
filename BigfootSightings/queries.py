@@ -21,13 +21,13 @@ def max_report_nr():
 
 
 # INSERT QUERIES
-def insert_sighting(sighting: Sighting):
+def insert_sighting(username: str, sighting: Sighting):
     sql = """
-    INSERT INTO Sightings(nr, title, longitude, latitude)
-    VALUES (%s, %s, %s, %s)
+    INSERT INTO Sightings(nr, username, title, longitude, latitude)
+    VALUES (%s, %s, %s, %s, %s)
     """
     next_report_number = max_report_nr() + 1
-    db_cursor.execute(sql, (next_report_number, sighting.title,  sighting.latitude, sighting.longitude))
+    db_cursor.execute(sql, (next_report_number, username, sighting.title,  sighting.latitude, sighting.longitude))
     conn.commit()
 
 def insert_user(user: User):

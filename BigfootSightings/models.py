@@ -8,20 +8,33 @@ from BigfootSightings import login_manager, db_cursor, conn, app
 
 @login_manager.user_loader
 def load_user(username):
-    user_sql = sql.SQL("""
+    sql = """
     SELECT * FROM Users
     WHERE username = %s
-    """).format(sql.Identifier('username'))
+    """
+    db_cursor.execute(sql, (username,))
+    user = User(db_cursor.fetchone()) if db_cursor.rowcount > 0 else None
+    print("fetched used: ", user)
+    return user
 
-    db_cursor.execute(user_sql, username)
-    return User(db_cursor.fetchone()) if db_cursor.rowcount > 0 else None
 
-
-class User():
+class User(UserMixin):
     def __init__(self, user_data: Dict):
         self.username = user_data.get('username')
         self.password = user_data.get('password')
-        self.is_active = False
+        self.is_active = user_data.get('is_active', True)
+
+    def get_id(self):
+        return self.username
+
+    def is_authenticated(self):
+        return self.is_active
+
+    def is_active(self):
+        return self.is_active
+
+    def is_anonymous(self):
+        return False
 
 
 

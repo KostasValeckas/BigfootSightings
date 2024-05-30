@@ -49,11 +49,17 @@ def login():
     form = UserLoginForm()
     if request.method == 'POST':
         if form.validate_on_submit():
-            user = get_user_by_user_name(form.username.data)
-            if user and user.password == form.password.data:
+            username = form.username.data
+            password = form.password.data
+            user = get_user_by_user_name(username)
+            if user and password == form.password.data:
+                print("pre-login: ", user.is_authenticated())
                 login_user(user, remember=True)
+                print("post-login: ", user.is_authenticated())
                 next_page = request.args.get('next')
+                print(next_page)
                 return redirect(next_page) if next_page else redirect(url_for('Login.backToMainFromLogin'))
+    print("\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n")
     return render_template('pages/login.html', form=form)
 
 
