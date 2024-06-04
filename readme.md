@@ -78,7 +78,7 @@ of unexpected search input.
 
 In a case where an evaluator does not suceed to launch the website, we have also made a short video presentation at this link:
 
-[Link to video in this repository](https://github.com/KostasValeckas/BigfootSightings/blob/main/bigfoot_demo)
+[Link to video in this repository](https://github.com/KostasValeckas/BigfootSightings/blob/main/bigfoot_demo.mp4)
 
 ## Notes on assigment formalia
 
