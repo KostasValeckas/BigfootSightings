@@ -33,24 +33,24 @@ We have experienced issues with installing psycopg2 on some Ubuntu distributions
 Create a new database in pgAdmin (or whatever you use for your postgreSQL DB managment) preferably named BigfootSightings and add the following to your .env file 
 (NOTE: this file will likely be hidden. Normally .env should be a private file containing user secrets, in this
 case we have kept it inside the project files for easy
-access for the TAs):
+access for the assigment evaluators):
 
     SECRET_KEY=<secret_key>
     DB_USERNAME=postgres || <postgres_user_name>
     DB_PASSWORD=<postgres_user_password>
     DB_NAME=BigfootSightings || <postgres_db_name>
     
- Then, initiate the dabase by adding the local path to the repository in the `init_db.py` script in the `utils` directoy, and then when in utils directory, run:
+ Then, initiate the dabase by adding the local path to the repository in the `init_db.py` script in the `utils` directory, and then when in utils directory, run:
  
     python3 init_db.py
 
 Set the FLASK\_APP envirorment variable to __\_\_init\_\_.py__ (this you might need to do before every new session): 
 
-macOS/Linux:
+macOS/Linux (bash):
 
 	export FLASK_APP=__init__.py
 
-Windows:
+Windows (do this from cmd rather than PowerShell due to priviledges):
 
 	set FLASK_APP=__init__.py
  	
