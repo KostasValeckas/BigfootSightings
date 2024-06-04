@@ -2,13 +2,14 @@
 
 Authors: Andreas Hove Rising | fbr426, Victor Lynge Skogø | pld452,  Kostas Valeckas | cpf125 
 
-This reposutory is a student project for the course 'Databases and Informations Systems' (DIS) at
+This repository is a student project for the course 'Databases and Informations Systems' (DIS) at
 DIKU, University of Copenhagen, 2024.
 
 This repository uses code from the DIS project 'GreenGroceries' 
-as a template: 
+as a template (link only available for course participants): 
 
 https://absalon.ku.dk/courses/72770/files/8290765?module_item_id=2330375
+
 
 ## Initialization ✔
 
@@ -29,7 +30,7 @@ We have experienced issues with installing psycopg2 on some Ubuntu distributions
 
 ------------------------------------
 
-Create a new database in pgAdmin (preferably named BigfootSightings) and add the following to your .env file 
+Create a new database in pgAdmin (or whatever you use for your postgreSQL DB managment) preferably named BigfootSightings and add the following to your .env file 
 (NOTE: this file will likely be hidden. Normally .env should be a private file containing user secrets, in this
 case we have kept it inside the project files for easy
 access for the TAs):
@@ -39,15 +40,11 @@ access for the TAs):
     DB_PASSWORD=<postgres_user_password>
     DB_NAME=BigfootSightings || <postgres_db_name>
     
-Go to the `choices.py` in the `utils` directory and update the absolute PATH's
-to the relevant files in the dataset folder. 
-!TODO: UPDATE THIS WHEN ALL DATA IS IN PLACE - POSSIBLY USE RELATIVE PATHS SO THIS IS NOT NEEDED
-    
- Then, initiate the dabase by running while in the 'utils' directory:
+ Then, initiate the dabase by adding the local path to the repository in the `init_db.py` script in the `utils` directoy, and then when in utils directory, run:
  
     python3 init_db.py
 
-Set the FLASK\_APP envirorment variable to __\_\_init\_\_.py__: 
+Set the FLASK\_APP envirorment variable to __\_\_init\_\_.py__ (this you might need to do before every new session): 
 
 macOS/Linux:
 
@@ -59,48 +56,50 @@ Windows:
  	
 Finally, start serving the website with (run from the same directory as the __\_\_init\_\_.py__ file):
 
-    flask run
+  flask run
 
-## Folder setup 📁
+Open you web-browser, and visit:
+  http://127.0.0.1:5000
 
-The app is divided into multiple folders similar to the structure of the example project, with a few tweaks:
+This procedure to launch the website has been tested on Windows 10 and Ubuntu 22.04.4 LTS, but not on any macOS distributions.
 
-- __blueprints__: Contains all the separate blueprints of the app (submodules of the app the store different parts of
-  the functionality)
-- __dataset__: Contains the csv file used to import the produce data
-- __static__: Contains static files like images, css and js files (in this case javascript was not needed in the
-  frontend)
-- __templates__: This is the template folder of the app that stores all html files that are displayed in the user
-  browser
-- __utils__: Contains the sql files and script that generate the postgresql database. Also contains a script that
-  generates custom choices objects for flask forms used in SelectFields taken from the dataset.
 
-At the root folder of the app (./BigfootSightings) six more scripts are present with the following roles:
+## How to use the website
 
-- __\_\_init\_\_.py__: Initializes the flask app and creates a connection to the database (and a cursor object for
-  future queries)
-- __app.py__: Runs the app created by \_\_init__.py
-- __filters.py__: Implements custom template filters for nicer formatting of data in the frontend
-- __forms.py__: Implements forms used to save data from users (similar to the example project)
-- __models.py__: Implements custom classes for each of the database tables to store data in a clean OOP manner (again,
-  similar to the example project, but our models inherit the dict class for faster and more readable lookups)
-- __queries.py__: Implements functions for each needed query to the database used inside the app (similar to the
-  functional part of the models.py file within the example project)
+You can view and search any bigfoot sightings without a user. 
 
-## Routes 📌
+To register a bigfoot sighting, you need to sign up for a user (right upper corner).
+After sign-up, you will be logged in automatically. Your user will be stored
+in the database, and can be re-used.
 
-Both implemented blueprints come with a __routes.py__ file that initialize a __Blueprint__ object and define _routes_
-for the app.
+The website should be somewhat stable - but the search functionality is not
+tested extensively. It is very likely the website would crash for a combination
+of unexpected search input.
 
-- __Login__:
-    - __/home__: Home page
-    - __/about__: About page
-    - __/style-guide__: Style guide (displays all html elements used, just for fun and css debugging)
-    - __/login__: User login page (for simplicity in debugging, password hashing was omitted even though the example
-      project made it pretty clear and easy to implement with bcrypt)
-    - __/signup__: User signup (creation) page
-    - __/logout__: Logs user out and sends back to login page
+In a case where an evaluator does not suceed to launch the website, we have also made a short video presentation at this link:
 
-- __Sightings__:
-    - __/add-sighting__: Page where users can add Bigfoot sightings
-    - __/all-sightings__: Page where all registered Bigfoot sightings are displayed.
+https://sid.erda.dk/share_redirect/a8isfhiyCT
+
+## Notes on assigment formalia
+
+You can find SQL queries being used in `queries.py`.
+
+You can find regex being used in both `utils/init_db.py` (in cleaning up data), and in search queries in `queries.py`.
+
+
+## Disclaimer
+
+This is a student project, focused on very limited functionality.
+Should you be a github by-stander that has found this code by accident, please: 
+DO ***NOT*** HOST THIS ON A OPEN PORT. THE WEBSITE HAS MANY SAFETY FLAWS - 
+it is made with assumption that this website would be localhosted in a closed network. 
+
+BigfootSightings is a fun idea based on a dataset from https://data.world/timothyrenner/bfro-sightings-data - it is all done in satirical fashion. The authors of this project
+support evidence-based science.
+
+
+## Graphics
+
+Any images have been AI-generated by: https://deepai.org/machine-learning-model/text2img
+
+

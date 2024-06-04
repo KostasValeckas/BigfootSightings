@@ -1,0 +1,3669 @@
+"id","latitude_rounded","longitude_rounded","country","state_name","city"
+1,"61.5","-142.9","United States","Alaska",NULL
+2,"55.2","-132.8","United States","Alaska",NULL
+3,"62.9","-141.6","United States","Alaska",NULL
+4,"61.1","-149.8","United States","Alaska",NULL
+5,"62.8","-141.3","United States","Alaska",NULL
+6,"64.9","-147.8","United States","Alaska",NULL
+7,"62.0","-145.3","United States","Alaska",NULL
+8,"32.3","-85.2","United States","Alabama",NULL
+9,"33.3","-87.3","United States","Alabama",NULL
+10,"35.0","-86.5","United States","Alabama",NULL
+11,"34.5","-86.7","United States","Alabama",NULL
+12,"34.9","-87.0","United States","Alabama",NULL
+13,"34.8","-87.5","United States","Alabama",NULL
+14,"34.9","-87.1","United States","Alabama",NULL
+15,"33.1","-88.2","United States","Alabama",NULL
+16,"31.5","-88.1","United States","Alabama",NULL
+17,"34.0","-87.5","United States","Alabama",NULL
+18,"31.6","-88.0","United States","Alabama",NULL
+19,"34.5","-86.6","United States","Alabama",NULL
+20,"34.7","-87.0","United States","Alabama",NULL
+21,"31.2","-87.1","United States","Alabama",NULL
+22,"33.1","-88.1","United States","Alabama",NULL
+23,"33.2","-87.4","United States","Alabama",NULL
+24,"34.7","-86.5","United States","Alabama","Huntsville"
+25,"32.6","-85.4","United States","Alabama",NULL
+26,"33.4","-86.6","United States","Alabama",NULL
+27,"33.6","-86.5","United States","Alabama",NULL
+28,"33.8","-86.8","United States","Alabama",NULL
+29,"32.3","-87.2","United States","Alabama",NULL
+30,"31.0","-87.0","United States","Alabama",NULL
+31,"32.4","-85.7","United States","Alabama",NULL
+32,"33.4","-85.6","United States","Alabama",NULL
+33,"34.3","-86.2","United States","Alabama",NULL
+34,"32.2","-86.6","United States","Alabama",NULL
+35,"33.4","-86.2","United States","Alabama",NULL
+36,"34.7","-86.7","United States","Alabama","Huntsville"
+37,"30.7","-87.9","United States","Alabama",NULL
+38,"32.8","-86.5","United States","Alabama",NULL
+39,"31.9","-85.4","United States","Alabama",NULL
+40,"33.9","-87.5","United States","Alabama",NULL
+41,"34.7","-87.8","United States","Alabama",NULL
+42,"31.1","-87.1","United States","Alabama",NULL
+43,"31.3","-86.5","United States","Alabama",NULL
+44,"33.4","-88.1","United States","Alabama",NULL
+45,"31.3","-88.3","United States","Alabama",NULL
+46,"33.8","-85.5","United States","Alabama",NULL
+47,"34.3","-86.5","United States","Alabama",NULL
+48,"34.3","-86.9","United States","Alabama",NULL
+49,"32.5","-86.4","United States","Alabama",NULL
+50,"33.6","-87.0","United States","Alabama",NULL
+51,"32.9","-86.0","United States","Alabama",NULL
+52,"33.4","-87.7","United States","Alabama",NULL
+53,"31.7","-85.2","United States","Alabama",NULL
+54,"34.0","-87.0","United States","Alabama",NULL
+55,"34.1","-85.2","United States","Georgia",NULL
+56,"31.2","-85.2","United States","Alabama",NULL
+57,"31.5","-85.8","United States","Alabama",NULL
+58,"33.9","-86.8","United States","Alabama",NULL
+59,"31.2","-88.3","United States","Alabama",NULL
+60,"33.6","-85.4","United States","Alabama",NULL
+61,"33.7","-85.5","United States","Alabama",NULL
+62,"34.6","-92.3","United States","Arkansas",NULL
+63,"36.2","-92.4","United States","Arkansas",NULL
+64,"36.3","-92.4","United States","Arkansas",NULL
+65,"34.1","-93.0","United States","Arkansas",NULL
+66,"34.2","-93.1","United States","Arkansas",NULL
+67,"33.8","-94.4","United States","Arkansas",NULL
+68,"34.8","-91.7","United States","Arkansas",NULL
+69,"36.1","-90.5","United States","Arkansas",NULL
+70,"33.8","-92.0","United States","Arkansas",NULL
+71,"36.0","-93.8","United States","Arkansas",NULL
+72,"35.4","-93.2","United States","Arkansas",NULL
+73,"33.9","-93.2","United States","Arkansas",NULL
+74,"33.3","-93.9","United States","Arkansas",NULL
+75,"36.2","-91.1","United States","Arkansas",NULL
+76,"34.6","-92.6","United States","Arkansas",NULL
+77,"36.4","-91.9","United States","Arkansas",NULL
+78,"36.2","-94.2","United States","Arkansas","Springdale"
+79,"34.7","-94.5","United States","Arkansas",NULL
+80,"36.2","-94.4","United States","Arkansas",NULL
+81,"35.6","-91.5","United States","Arkansas",NULL
+82,"36.3","-93.9","United States","Arkansas","Rogers"
+83,"34.9","-91.1","United States","Arkansas",NULL
+84,"35.3","-93.1","United States","Arkansas","Russellville"
+85,"33.2","-93.9","United States","Arkansas",NULL
+86,"34.5","-92.4","United States","Arkansas",NULL
+87,"35.1","-94.4","United States","Arkansas",NULL
+88,"33.8","-91.3","United States","Arkansas",NULL
+89,"36.4","-93.7","United States","Arkansas",NULL
+90,"35.4","-91.5","United States","Arkansas",NULL
+91,"33.1","-92.6","United States","Arkansas",NULL
+92,"34.9","-92.1","United States","Arkansas",NULL
+93,"36.3","-93.8","United States","Arkansas",NULL
+94,"33.3","-92.6","United States","Arkansas",NULL
+95,"34.3","-93.2","United States","Arkansas",NULL
+96,"35.3","-93.8","United States","Arkansas",NULL
+97,"35.0","-90.3","United States","Arkansas",NULL
+98,"34.4","-94.4","United States","Arkansas",NULL
+99,"34.4","-93.1","United States","Arkansas","Hot Springs"
+100,"33.1","-93.9","United States","Arkansas",NULL
+101,"35.4","-94.2","United States","Arkansas",NULL
+102,"36.3","-92.6","United States","Arkansas",NULL
+103,"34.7","-92.8","United States","Arkansas",NULL
+104,"33.3","-91.2","United States","Arkansas",NULL
+105,"33.3","-94.0","United States","Arkansas",NULL
+106,"36.1","-92.5","United States","Arkansas",NULL
+107,"36.3","-91.5","United States","Arkansas",NULL
+108,"34.9","-92.4","United States","Arkansas",NULL
+109,"36.4","-92.3","United States","Arkansas",NULL
+110,"35.7","-91.5","United States","Arkansas",NULL
+111,"35.3","-91.6","United States","Arkansas",NULL
+112,"35.3","-91.5","United States","Arkansas",NULL
+113,"34.4","-94.1","United States","Arkansas",NULL
+114,"34.9","-92.3","United States","Arkansas",NULL
+115,"34.2","-92.6","United States","Arkansas",NULL
+116,"35.7","-90.1","United States","Arkansas",NULL
+117,"35.2","-93.2","United States","Arkansas",NULL
+118,"36.0","-93.2","United States","Arkansas",NULL
+119,"36.3","-93.4","United States","Arkansas",NULL
+120,"33.7","-93.6","United States","Arkansas",NULL
+121,"34.2","-91.1","United States","Arkansas",NULL
+122,"33.4","-94.0","United States","Arkansas","Texarkana"
+123,"32.0","-110.2","United States","Arizona",NULL
+124,"34.9","-110.8","United States","Arizona",NULL
+125,"36.1","-109.4","United States","Arizona",NULL
+126,"34.4","-111.5","United States","Arizona",NULL
+127,"33.6","-109.3","United States","Arizona",NULL
+128,"36.5","-109.3","United States","Arizona",NULL
+129,"35.7","-111.9","United States","Arizona",NULL
+130,"34.3","-109.6","United States","Arizona",NULL
+131,"32.8","-109.7","United States","Arizona",NULL
+132,"34.6","-109.4","United States","Arizona",NULL
+133,"33.9","-111.7","United States","Arizona",NULL
+134,"34.0","-110.4","United States","Arizona",NULL
+135,"33.4","-112.6","United States","Arizona",NULL
+136,"34.3","-111.1","United States","Arizona",NULL
+137,"35.2","-111.9","United States","Arizona",NULL
+138,"34.1","-110.2","United States","Arizona",NULL
+139,"34.6","-112.5","United States","Arizona",NULL
+140,"34.0","-110.0","United States","Arizona",NULL
+141,"33.0","-112.7","United States","Arizona",NULL
+142,"34.3","-110.1","United States","Arizona","Show Low"
+143,"35.2","-109.2","United States","Arizona",NULL
+144,"37.4","-119.6","United States","California",NULL
+145,"38.9","-120.0","United States","California",NULL
+146,"39.0","-120.1","United States","California",NULL
+147,"40.8","-124.2","United States","California","Eureka"
+148,"38.3","-119.8","United States","California",NULL
+149,"40.3","-121.9","United States","California",NULL
+150,"37.2","-119.2","United States","California",NULL
+151,"38.2","-119.9","United States","California",NULL
+152,"41.4","-120.7","United States","California",NULL
+153,"38.9","-120.2","United States","California",NULL
+154,"38.9","-120.1","United States","California",NULL
+155,"37.4","-119.0","United States","California",NULL
+156,"38.1","-120.2","United States","California",NULL
+157,"36.1","-118.8","United States","California",NULL
+158,"38.2","-120.0","United States","California",NULL
+159,"41.5","-122.4","United States","California",NULL
+160,"41.4","-122.4","United States","California",NULL
+161,"38.0","-119.3","United States","California",NULL
+162,"40.6","-122.7","United States","California",NULL
+163,"38.0","-120.2","United States","California",NULL
+164,"36.1","-118.1","United States","California",NULL
+165,"38.3","-119.9","United States","California",NULL
+166,"41.8","-123.0","United States","California",NULL
+167,"41.4","-123.1","United States","California",NULL
+168,"38.3","-122.6","United States","California",NULL
+169,"39.2","-120.9","United States","California",NULL
+170,"37.9","-119.3","United States","California",NULL
+171,"33.3","-116.9","United States","California",NULL
+172,"41.2","-122.3","United States","California",NULL
+173,"39.3","-120.3","United States","California",NULL
+174,"40.9","-121.6","United States","California",NULL
+175,"39.7","-123.5","United States","California",NULL
+176,"40.3","-123.9","United States","California",NULL
+177,"36.2","-121.5","United States","California",NULL
+178,"40.9","-122.4","United States","California",NULL
+179,"39.9","-122.2","United States","California",NULL
+180,"39.3","-121.0","United States","California",NULL
+181,"39.2","-123.8","United States","California",NULL
+182,"37.6","-119.0","United States","California",NULL
+183,"38.7","-120.6","United States","California",NULL
+184,"39.2","-121.6","United States","California",NULL
+185,"40.5","-124.0","United States","California",NULL
+186,"36.0","-118.7","United States","California",NULL
+187,"37.0","-121.7","United States","California",NULL
+188,"40.8","-122.2","United States","California",NULL
+189,"40.9","-123.5","United States","California",NULL
+190,"38.9","-120.6","United States","California",NULL
+191,"36.8","-120.2","United States","California",NULL
+192,"40.8","-122.3","United States","California",NULL
+193,"35.6","-121.3","United States",NULL,NULL
+194,"36.4","-121.7","United States","California",NULL
+195,"41.8","-123.3","United States","California",NULL
+196,"38.3","-119.5","United States","California",NULL
+197,"39.3","-121.1","United States","California",NULL
+198,"41.6","-123.8","United States","California",NULL
+199,"40.7","-123.3","United States","California",NULL
+200,"37.4","-121.5","United States","California",NULL
+201,"39.5","-120.4","United States","California",NULL
+202,"40.7","-122.8","United States","California",NULL
+203,"37.6","-118.9","United States","California",NULL
+204,"41.2","-124.1","United States","California",NULL
+205,"40.7","-122.7","United States","California",NULL
+206,"38.5","-121.7","United States","California",NULL
+207,"41.8","-123.2","United States","California",NULL
+208,"34.6","-118.4","United States","California",NULL
+209,"41.3","-123.1","United States","California",NULL
+210,"39.8","-123.2","United States","California",NULL
+211,"37.9","-119.0","United States","California",NULL
+212,"39.5","-123.4","United States","California",NULL
+213,"34.6","-119.3","United States","California",NULL
+214,"34.0","-116.5","United States","California",NULL
+215,"36.7","-118.4","United States","California",NULL
+216,"37.5","-121.1","United States","California",NULL
+217,"38.8","-123.1","United States","California",NULL
+218,"36.8","-118.1","United States","California",NULL
+219,"34.7","-119.9","United States","California",NULL
+220,"42.0","-123.2","United States","California",NULL
+221,"38.8","-120.2","United States","California",NULL
+222,"39.7","-121.2","United States","California",NULL
+223,"34.8","-118.6","United States","California",NULL
+224,"41.7","-123.4","United States","California",NULL
+225,"35.7","-120.5","United States","California",NULL
+226,"38.2","-121.0","United States","California",NULL
+227,"41.8","-122.6","United States","California",NULL
+228,"38.5","-119.6","United States","California",NULL
+229,"34.3","-117.3","United States","California",NULL
+230,"36.8","-119.0","United States","California",NULL
+231,"37.6","-121.8","United States","California","Livermore"
+232,"41.9","-123.8","United States","California",NULL
+233,"40.6","-121.8","United States","California",NULL
+234,"40.0","-121.0","United States","California",NULL
+235,"37.2","-118.6","United States","California",NULL
+236,"50.4","-114.4","Canada","Alberta",NULL
+237,"50.1","-114.2","Canada","Alberta",NULL
+238,"55.3","-114.4","Canada","Alberta",NULL
+239,"53.6","-114.1","Canada","Alberta",NULL
+240,"52.5","-115.9","Canada","Alberta",NULL
+241,"56.1","-117.2","Canada","Alberta",NULL
+242,"53.9","-113.1","Canada","Alberta",NULL
+243,"50.0","-110.6","Canada","Alberta","Medicine Hat"
+244,"49.0","-114.0","Canada","Alberta",NULL
+245,"54.4","-119.4","Canada","Alberta",NULL
+246,"50.8","-116.0","Canada","British Columbia","Area G (Forster Creek/Mount Assiniboine)"
+247,"49.3","-121.3","Canada","British Columbia","Area B (South Fraser Canyon/Sunshine Valley)"
+248,"53.1","-119.7","Canada","British Columbia","Area H (Robson Valley/Canoe)"
+249,"56.3","-121.3","Canada","British Columbia","Area B (Finlay Valley/Beatton Valley)"
+250,"50.8","-122.2","Canada","British Columbia","Area A (Upper Bridge River Valley)"
+251,"59.6","-123.1","Canada","British Columbia",NULL
+252,"49.9","-123.2","Canada","British Columbia","Area D (Elaho/Garibaldi)"
+253,"49.5","-123.9","Canada","British Columbia","Area B (Halfmoon Bay)"
+254,"53.6","-120.5","Canada","British Columbia","Area H (Robson Valley/Canoe)"
+255,"54.2","-122.0","Canada","British Columbia","Area F (Willow River/Upper Fraser)"
+256,"49.6","-121.4","Canada","British Columbia","Area B (South Fraser Canyon/Sunshine Valley)"
+257,"49.1","-119.9","Canada","British Columbia","Area G (Upper Similkameen/Hedley)"
+258,"49.4","-122.1","Canada","British Columbia","Area C (Sasquatch Country)"
+259,"49.2","-121.5","Canada","British Columbia","Area E (Chilliwack River Valley)"
+260,"49.2","-121.9","Canada","British Columbia","Kent"
+261,"49.3","-117.9","Canada","British Columbia","Area J (Lower Arrow/Columbia)"
+262,"51.1","-118.4","Canada","British Columbia","Area B (Shelter Bay/Mica Creek)"
+263,"48.8","-124.3","Canada","British Columbia","Area F (Cowichan Lake South / Skutz Falls)"
+264,"48.6","-123.6","Canada","British Columbia","Area B (Shawnigan Lake)"
+265,"49.3","-125.4","Canada","British Columbia","Area C (Long Beach)"
+266,"49.1","-122.6","Canada","British Columbia",NULL
+267,"49.7","-119.8","Canada","British Columbia","West Central Okanagan Electoral Area"
+268,"50.3","-115.6","Canada","British Columbia","Area F (Columbia Lake/Windermere Lake)"
+269,"48.4","-123.4","Canada","British Columbia","Juan de Fuca Electoral Area"
+270,"50.6","-118.2","Canada","British Columbia","Area E (Cherryville/East Creighton)"
+271,"50.9","-127.7","Canada","British Columbia","Area B (Quatsino Sound/Cape Scott)"
+272,"49.4","-124.7","Canada","British Columbia","Area H (Lighthouse Country)"
+273,"49.4","-116.5","Canada","British Columbia","Area B (Goat River Valley)"
+274,"49.2","-118.0","Canada","British Columbia","Area B (Lower Columbia/Old Glory)"
+275,"49.4","-121.8","Canada","British Columbia","Area C (Sasquatch Country)"
+276,"56.0","-129.2","Canada","British Columbia","Area A (Nass Valley/Bell Irving)"
+277,"49.9","-117.4","Canada","British Columbia","Area H (The Slocan Valley)"
+278,"50.2","-98.0","Canada","Manitoba",NULL
+279,"50.6","-96.2","Canada","Manitoba",NULL
+280,"53.0","-99.1","Canada","Manitoba",NULL
+281,"54.2","-97.6","Canada","Manitoba",NULL
+282,"50.9","-100.9","Canada","Manitoba",NULL
+283,"54.0","-101.3","Canada","Manitoba",NULL
+284,"45.7","-67.1","Canada","New Brunswick / Nouveau-Brunswick",NULL
+285,"46.0","-64.5","Canada","New Brunswick / Nouveau-Brunswick",NULL
+286,"43.2","-79.6","Canada","Ontario",NULL
+287,"45.0","-79.1","Canada","Ontario",NULL
+288,"44.9","-79.8","Canada","Ontario","Georgian Bay Township"
+289,"49.2","-81.0","Canada","Ontario",NULL
+290,"51.0","-93.9","Canada","Ontario",NULL
+291,"43.6","-80.6","Canada","Ontario","Mapleton"
+292,"48.0","-79.9","Canada","Ontario","Unorganized West Timiskaming"
+293,"44.5","-75.6","United States","New York",NULL
+294,"48.4","-92.0","Canada","Ontario","Unorganized Rainy River"
+295,"49.4","-94.0","Canada","Ontario","Sioux Narrows-Nestor Falls Township"
+296,"48.6","-93.5","Canada","Ontario","Alberton Township"
+297,"52.7","-94.5","Canada","Ontario","Unorganized Kenora District"
+298,"48.5","-79.8","Canada","Ontario","Unorganized North Cochrane"
+299,"44.6","-76.4","Canada","Ontario","South Frontenac"
+300,"44.2","-80.0","Canada","Ontario","Mulmur"
+301,"44.3","-80.7","Canada","Ontario","West Grey"
+302,"60.4","-134.5","Canada","Yukon",NULL
+303,"60.7","-135.1","Canada","Yukon","Whitehorse"
+304,"37.6","-105.5","United States","Colorado",NULL
+305,"39.7","-105.8","United States","Colorado",NULL
+306,"39.1","-107.0","United States","Colorado",NULL
+307,"40.8","-106.0","United States","Colorado",NULL
+308,"38.9","-105.1","United States","Colorado",NULL
+309,"39.2","-105.1","United States","Colorado",NULL
+310,"38.5","-107.9","United States","Colorado","Montrose"
+311,"37.3","-106.5","United States","Colorado",NULL
+312,"39.4","-105.0","United States","Colorado",NULL
+313,"39.7","-106.8","United States","Colorado",NULL
+314,"38.9","-105.0","United States","Colorado",NULL
+315,"38.5","-105.0","United States","Colorado",NULL
+316,"39.2","-106.4","United States","Colorado",NULL
+317,"39.3","-106.4","United States","Colorado",NULL
+318,"40.6","-105.4","United States","Colorado",NULL
+319,"40.5","-108.5","United States","Colorado",NULL
+320,"37.8","-107.8","United States","Colorado",NULL
+321,"38.8","-105.2","United States","Colorado",NULL
+322,"40.5","-105.9","United States","Colorado",NULL
+323,"39.2","-106.3","United States","Colorado",NULL
+324,"37.5","-108.2","United States","Colorado",NULL
+325,"38.4","-105.1","United States","Colorado",NULL
+326,"38.7","-104.9","United States","Colorado",NULL
+327,"39.3","-106.2","United States","Colorado",NULL
+328,"39.3","-107.1","United States","Colorado",NULL
+329,"40.5","-106.7","United States","Colorado",NULL
+330,"39.1","-105.2","United States","Colorado",NULL
+331,"37.0","-106.9","United States","Colorado",NULL
+332,"37.1","-104.4","United States","Colorado",NULL
+333,"38.6","-106.6","United States","Colorado",NULL
+334,"39.1","-106.4","United States","Colorado",NULL
+335,"39.5","-106.6","United States","Colorado",NULL
+336,"39.3","-105.4","United States","Colorado",NULL
+337,"38.9","-107.7","United States","Colorado",NULL
+338,"38.8","-105.1","United States","Colorado",NULL
+339,"40.0","-105.3","United States","Colorado","Boulder"
+340,"39.0","-105.2","United States","Colorado",NULL
+341,"37.3","-108.3","United States","Colorado",NULL
+342,"39.2","-108.0","United States","Colorado",NULL
+343,"38.1","-105.1","United States","Colorado",NULL
+344,"40.2","-105.4","United States","Colorado",NULL
+345,"38.6","-104.9","United States","Colorado",NULL
+346,"39.7","-106.2","United States","Colorado",NULL
+347,"37.8","-107.7","United States","Colorado",NULL
+348,"39.4","-105.8","United States","Colorado",NULL
+349,"39.1","-106.5","United States","Colorado",NULL
+350,"40.8","-105.6","United States","Colorado",NULL
+351,"37.4","-106.5","United States","Colorado",NULL
+352,"38.8","-106.2","United States","Colorado",NULL
+353,"37.7","-107.7","United States","Colorado",NULL
+354,"39.4","-105.5","United States","Colorado",NULL
+355,"39.4","-107.1","United States","Colorado",NULL
+356,"39.8","-106.3","United States","Colorado",NULL
+357,"39.4","-105.3","United States","Colorado",NULL
+358,"39.5","-105.4","United States","Colorado",NULL
+359,"39.4","-106.1","United States","Colorado",NULL
+360,"41.4","-73.2","United States","Connecticut",NULL
+361,"41.5","-73.4","United States","Connecticut",NULL
+362,"41.4","-72.9","United States","Connecticut",NULL
+363,"41.4","-72.6","United States","Connecticut",NULL
+364,"41.6","-71.9","United States","Connecticut",NULL
+365,"31.0","-85.6","United States","Florida",NULL
+366,"30.7","-84.6","United States","Florida",NULL
+367,"26.6","-80.2","United States","Florida",NULL
+368,"27.0","-82.0","United States","Florida","Punta Gorda"
+369,"30.2","-81.5","United States","Florida","Jacksonville"
+370,"28.4","-80.9","United States","Florida",NULL
+371,"26.3","-80.2","United States","Florida",NULL
+372,"26.1","-80.2","United States","Florida",NULL
+373,"30.1","-81.8","United States","Florida",NULL
+374,"26.2","-81.8","United States","Florida",NULL
+375,"26.1","-80.8","United States","Florida",NULL
+376,"25.9","-81.3","United States","Florida",NULL
+377,"29.7","-83.0","United States","Florida",NULL
+378,"28.5","-82.5","United States","Florida",NULL
+379,"30.9","-85.2","United States","Florida",NULL
+380,"29.1","-81.6","United States","Florida",NULL
+381,"29.1","-82.1","United States","Florida",NULL
+382,"29.2","-81.9","United States","Florida",NULL
+383,"30.5","-86.5","United States","Florida",NULL
+384,"28.0","-81.1","United States","Florida",NULL
+385,"28.1","-81.1","United States","Florida",NULL
+386,"28.0","-81.2","United States","Florida",NULL
+387,"28.4","-82.6","United States","Florida",NULL
+388,"28.9","-80.9","United States","Florida",NULL
+389,"30.8","-87.0","United States","Florida",NULL
+390,"29.9","-81.3","United States","Florida","Saint Augustine"
+391,"29.7","-82.0","United States","Florida",NULL
+392,"26.6","-81.9","United States","Florida","Fort Myers"
+393,"27.7","-82.5","United States","Florida",NULL
+394,"28.7","-81.5","United States","Florida",NULL
+395,"29.4","-82.6","United States","Florida",NULL
+396,"29.8","-82.4","United States","Florida",NULL
+397,"29.5","-81.1","United States","Florida",NULL
+398,"26.0","-81.1","United States","Florida",NULL
+399,"29.8","-81.7","United States","Florida",NULL
+400,"27.0","-80.1","United States","Florida",NULL
+401,"30.5","-84.2","United States","Florida","Tallahassee"
+402,"31.0","-87.2","United States","Florida",NULL
+403,"30.8","-85.8","United States","Florida",NULL
+404,"28.6","-82.5","United States","Florida",NULL
+405,"27.4","-80.8","United States","Florida",NULL
+406,"30.0","-81.8","United States","Florida",NULL
+407,"30.5","-81.4","United States","Florida","Jacksonville"
+408,"30.6","-86.7","United States","Florida",NULL
+409,"30.5","-85.6","United States","Florida",NULL
+410,"29.1","-81.9","United States","Florida",NULL
+411,"31.0","-86.0","United States","Florida",NULL
+412,"29.6","-82.9","United States","Florida",NULL
+413,"27.3","-82.5","United States","Florida",NULL
+414,"26.6","-80.6","United States","Florida",NULL
+415,"28.0","-81.9","United States","Florida","Lakeland"
+416,"27.1","-82.5","United States","Florida","Venice"
+417,"27.9","-82.0","United States","Florida",NULL
+418,"29.1","-82.4","United States","Florida",NULL
+419,"28.0","-82.4","United States","Florida","Tampa"
+420,"30.6","-84.6","United States","Florida",NULL
+421,"27.4","-81.4","United States","Florida",NULL
+422,"28.8","-81.7","United States","Florida",NULL
+423,"29.2","-82.7","United States","Florida",NULL
+424,"25.1","-80.9","United States","Florida",NULL
+425,"28.3","-82.4","United States","Florida",NULL
+426,"26.0","-81.2","United States","Florida",NULL
+427,"30.3","-82.9","United States","Florida",NULL
+428,"30.3","-81.8","United States","Florida","Jacksonville"
+429,"30.1","-81.9","United States","Florida",NULL
+430,"30.0","-81.9","United States","Florida",NULL
+431,"28.8","-81.9","United States","Florida","Leesburg"
+432,"25.5","-80.4","United States","Florida",NULL
+433,"29.4","-81.8","United States","Florida",NULL
+434,"29.3","-81.7","United States","Florida",NULL
+435,"29.9","-85.4","United States","Florida",NULL
+436,"28.9","-81.8","United States","Florida","Leesburg"
+437,"27.8","-82.0","United States","Florida",NULL
+438,"26.0","-81.5","United States","Florida",NULL
+439,"28.2","-82.8","United States","Florida",NULL
+440,"28.1","-82.2","United States","Florida",NULL
+441,"28.3","-82.7","United States","Florida",NULL
+442,"28.4","-82.0","United States","Florida",NULL
+443,"29.6","-82.3","United States","Florida",NULL
+444,"29.5","-82.7","United States","Florida",NULL
+445,"28.5","-82.0","United States","Florida",NULL
+446,"29.9","-81.9","United States","Florida",NULL
+447,"29.4","-82.4","United States","Florida",NULL
+448,"30.7","-86.8","United States","Florida",NULL
+449,"28.9","-80.8","United States","Florida",NULL
+450,"28.8","-82.4","United States","Florida",NULL
+451,"28.3","-80.7","United States","Florida",NULL
+452,"29.4","-81.9","United States","Florida",NULL
+453,"28.5","-80.8","United States","Florida",NULL
+454,"26.8","-80.2","United States","Florida","West Palm Beach"
+455,"29.8","-81.2","United States","Florida","Saint Augustine"
+456,"30.7","-85.2","United States","Florida",NULL
+457,"29.3","-81.5","United States","Florida",NULL
+458,"28.9","-81.5","United States","Florida",NULL
+459,"27.8","-80.6","United States","Florida",NULL
+460,"28.5","-81.2","United States","Florida",NULL
+461,"29.2","-82.0","United States","Florida",NULL
+462,"28.2","-80.8","United States","Florida",NULL
+463,"29.1","-81.5","United States","Florida",NULL
+464,"26.9","-81.7","United States","Florida",NULL
+465,"29.5","-81.7","United States","Florida",NULL
+466,"25.4","-80.6","United States","Florida",NULL
+467,"25.8","-80.6","United States","Florida",NULL
+468,"29.0","-81.6","United States","Florida",NULL
+469,"28.6","-81.1","United States","Florida",NULL
+470,"26.7","-81.8","United States","Florida",NULL
+471,"30.7","-82.0","United States","Georgia",NULL
+472,"29.3","-81.1","United States","Florida",NULL
+473,"30.5","-84.9","United States","Florida",NULL
+474,"30.4","-84.0","United States","Florida",NULL
+475,"29.4","-82.8","United States","Florida",NULL
+476,"27.7","-82.4","United States","Florida",NULL
+477,"29.7","-82.4","United States","Florida","Gainesville"
+478,"28.1","-82.4","United States","Florida","Tampa"
+479,"26.1","-80.3","United States","Florida",NULL
+480,"27.0","-82.1","United States","Florida",NULL
+481,"27.2","-82.0","United States","Florida",NULL
+482,"28.1","-82.7","United States","Florida",NULL
+483,"25.5","-80.5","United States","Florida","Homestead"
+484,"30.4","-83.2","United States","Florida",NULL
+485,"29.2","-83.0","United States","Florida",NULL
+486,"27.4","-82.2","United States","Florida",NULL
+487,"28.4","-81.2","United States","Florida",NULL
+488,"30.7","-86.6","United States","Florida",NULL
+489,"30.6","-86.5","United States","Florida",NULL
+490,"27.0","-82.4","United States","Florida",NULL
+491,"33.3","-85.1","United States","Georgia",NULL
+492,"34.0","-85.0","United States","Georgia",NULL
+493,"34.3","-84.6","United States","Georgia",NULL
+494,"33.4","-82.2","United States","Georgia","Augusta"
+495,"34.6","-83.4","United States","Georgia",NULL
+496,"32.1","-85.0","United States","Georgia",NULL
+497,"31.9","-81.9","United States","Georgia",NULL
+498,"34.7","-84.2","United States","Georgia",NULL
+499,"30.7","-83.4","United States","Georgia",NULL
+500,"31.8","-81.7","United States","Georgia",NULL
+501,"33.7","-84.5","United States","Georgia","Atlanta"
+502,"33.5","-84.9","United States","Georgia",NULL
+503,"34.7","-83.7","United States","Georgia",NULL
+504,"31.1","-81.4","United States","Georgia","Brunswick"
+505,"32.4","-82.2","United States","Georgia",NULL
+506,"33.3","-84.3","United States","Georgia",NULL
+507,"34.7","-83.5","United States","Georgia",NULL
+508,"31.2","-82.1","United States","Georgia",NULL
+509,"31.2","-83.1","United States","Georgia",NULL
+510,"33.5","-84.8","United States","Georgia",NULL
+511,"32.0","-81.4","United States","Georgia",NULL
+512,"33.8","-84.8","United States","Georgia",NULL
+513,"33.8","-85.0","United States","Georgia",NULL
+514,"31.4","-84.1","United States","Georgia",NULL
+515,"34.1","-84.7","United States","Georgia",NULL
+516,"34.5","-84.5","United States","Georgia",NULL
+517,"34.4","-85.3","United States","Georgia",NULL
+518,"34.6","-83.8","United States","Georgia",NULL
+519,"34.4","-84.4","United States","Georgia",NULL
+520,"31.2","-83.3","United States","Georgia",NULL
+521,"34.8","-84.6","United States","Georgia",NULL
+522,"34.1","-82.9","United States","Georgia",NULL
+523,"34.3","-84.5","United States","Georgia",NULL
+524,"33.5","-84.5","United States","Georgia",NULL
+525,"33.3","-84.7","United States","Georgia",NULL
+526,"30.8","-82.6","United States","Georgia",NULL
+527,"31.5","-81.6","United States","Georgia",NULL
+528,"34.8","-84.7","United States","Georgia",NULL
+529,"31.2","-83.7","United States","Georgia",NULL
+530,"32.9","-83.6","United States","Georgia","Macon"
+531,"32.0","-81.6","United States","Georgia",NULL
+532,"34.8","-83.8","United States","Georgia",NULL
+533,"34.8","-83.9","United States","Georgia",NULL
+534,"34.2","-85.2","United States","Georgia",NULL
+535,"33.0","-85.0","United States","Georgia",NULL
+536,"33.3","-83.9","United States","Georgia",NULL
+537,"32.2","-84.1","United States","Georgia",NULL
+538,"31.4","-83.1","United States","Georgia",NULL
+539,"33.5","-83.6","United States","Georgia",NULL
+540,"34.4","-83.9","United States","Georgia","Gainesville"
+541,"34.0","-84.8","United States","Georgia",NULL
+542,"33.9","-84.8","United States","Georgia",NULL
+543,"33.8","-85.1","United States","Georgia",NULL
+544,"32.3","-83.2","United States","Georgia",NULL
+545,"34.9","-83.3","United States","Georgia",NULL
+546,"31.1","-83.2","United States","Georgia",NULL
+547,"33.4","-84.5","United States","Georgia",NULL
+548,"32.6","-81.8","United States","Georgia",NULL
+549,"34.7","-85.5","United States","Georgia",NULL
+550,"41.4","-92.9","United States","Iowa",NULL
+551,"42.5","-93.8","United States","Iowa",NULL
+552,"41.6","-94.0","United States","Iowa",NULL
+553,"43.1","-91.4","United States","Iowa",NULL
+554,"42.9","-94.4","United States","Iowa",NULL
+555,"41.0","-91.8","United States","Iowa",NULL
+556,"41.6","-93.6","United States","Iowa","Des Moines"
+557,"42.5","-96.4","United States","Iowa","Sioux City"
+558,"40.6","-93.8","United States","Iowa",NULL
+559,"43.2","-92.8","United States","Iowa",NULL
+560,"42.7","-94.2","United States","Iowa",NULL
+561,"42.0","-94.4","United States","Iowa",NULL
+562,"42.7","-93.2","United States","Iowa",NULL
+563,"42.8","-91.8","United States","Iowa",NULL
+564,"42.3","-91.7","United States","Iowa",NULL
+565,"40.8","-93.9","United States","Iowa",NULL
+566,"41.5","-94.0","United States","Iowa",NULL
+567,"42.4","-90.7","United States","Iowa",NULL
+568,"41.5","-91.7","United States","Iowa",NULL
+569,"42.6","-90.8","United States","Iowa",NULL
+570,"42.0","-93.9","United States","Iowa",NULL
+571,"42.3","-90.9","United States","Iowa",NULL
+572,"41.5","-93.4","United States","Iowa",NULL
+573,"42.5","-111.1","United States","Idaho",NULL
+574,"48.0","-116.8","United States","Idaho",NULL
+575,"45.1","-115.8","United States","Idaho",NULL
+576,"44.9","-116.1","United States","Idaho",NULL
+577,"44.9","-116.4","United States","Idaho",NULL
+578,"42.8","-116.2","United States","Idaho",NULL
+579,"48.4","-116.7","United States","Idaho",NULL
+580,"46.0","-116.9","United States","Idaho",NULL
+581,"44.8","-115.9","United States","Idaho",NULL
+582,"44.3","-114.8","United States","Idaho",NULL
+583,"44.4","-115.6","United States","Idaho",NULL
+584,"47.7","-116.9","United States","Idaho",NULL
+585,"48.1","-116.1","United States","Idaho",NULL
+586,"44.1","-112.5","United States","Idaho",NULL
+587,"44.6","-116.1","United States","Idaho",NULL
+588,"46.8","-116.8","United States","Idaho",NULL
+589,"43.4","-114.8","United States","Idaho",NULL
+590,"43.4","-111.8","United States","Idaho",NULL
+591,"48.3","-116.1","United States","Idaho",NULL
+592,"42.2","-114.3","United States","Idaho",NULL
+593,"46.9","-115.6","United States","Idaho",NULL
+594,"47.5","-116.0","United States","Idaho",NULL
+595,"48.6","-116.9","United States","Idaho",NULL
+596,"48.5","-116.4","United States","Idaho",NULL
+597,"44.3","-115.9","United States","Idaho",NULL
+598,"46.2","-141.0",NULL,NULL,NULL
+599,"44.4","-112.3","United States","Idaho",NULL
+600,"48.2","-117.0","United States","Idaho",NULL
+601,"47.0","-116.9","United States","Idaho",NULL
+602,"45.0","-116.1","United States","Idaho",NULL
+603,"48.5","-116.6","United States","Idaho",NULL
+604,"47.0","-116.1","United States","Idaho",NULL
+605,"44.7","-116.1","United States","Idaho",NULL
+606,"44.1","-113.0","United States","Idaho",NULL
+607,"47.6","-116.3","United States","Idaho",NULL
+608,"39.3","-90.6","United States","Illinois",NULL
+609,"39.0","-89.1","United States","Illinois",NULL
+610,"37.3","-88.7","United States","Illinois",NULL
+611,"40.5","-91.0","United States","Illinois",NULL
+612,"40.8","-91.1","United States","Illinois",NULL
+613,"41.3","-90.0","United States","Illinois",NULL
+614,"41.8","-89.7","United States","Illinois",NULL
+615,"39.1","-89.6","United States","Illinois",NULL
+616,"38.9","-90.2","United States","Illinois",NULL
+617,"40.5","-90.1","United States","Illinois",NULL
+618,"38.7","-89.1","United States","Illinois",NULL
+619,"37.9","-88.9","United States","Illinois",NULL
+620,"41.3","-88.6","United States","Illinois",NULL
+621,"41.3","-88.5","United States","Illinois",NULL
+622,"42.1","-88.2","United States","Illinois",NULL
+623,"40.3","-87.5","United States","Indiana",NULL
+624,"38.5","-89.5","United States","Illinois",NULL
+625,"40.3","-90.5","United States","Illinois",NULL
+626,"39.9","-89.5","United States","Illinois",NULL
+627,"42.2","-89.8","United States","Illinois",NULL
+628,"42.2","-89.0","United States","Illinois",NULL
+629,"39.8","-88.9","United States","Illinois",NULL
+630,"38.9","-89.6","United States","Illinois",NULL
+631,"39.1","-90.0","United States","Illinois",NULL
+632,"40.9","-90.9","United States","Illinois",NULL
+633,"41.6","-90.4","United States","Illinois",NULL
+634,"39.6","-90.6","United States","Illinois",NULL
+635,"37.3","-89.0","United States","Illinois",NULL
+636,"38.6","-89.3","United States","Illinois",NULL
+637,"38.7","-89.8","United States","Illinois",NULL
+638,"39.3","-89.5","United States","Illinois",NULL
+639,"39.0","-90.1","United States","Illinois",NULL
+640,"41.2","-87.6","United States","Illinois",NULL
+641,"41.2","-89.3","United States","Illinois",NULL
+642,"40.2","-88.7","United States","Illinois",NULL
+643,"39.9","-89.9","United States","Illinois",NULL
+644,"40.8","-89.7","United States","Illinois",NULL
+645,"39.6","-90.2","United States","Illinois",NULL
+646,"38.8","-90.0","United States","Illinois","Edwardsville"
+647,"39.7","-90.2","United States","Illinois",NULL
+648,"39.5","-90.2","United States","Illinois",NULL
+649,"39.8","-89.5","United States","Illinois",NULL
+650,"40.6","-90.0","United States","Illinois",NULL
+651,"39.5","-89.3","United States","Illinois",NULL
+652,"41.8","-87.8","United States","Illinois",NULL
+653,"37.6","-88.4","United States","Illinois",NULL
+654,"39.0","-90.4","United States","Illinois",NULL
+655,"41.8","-90.1","United States","Illinois",NULL
+656,"41.4","-88.7","United States","Illinois",NULL
+657,"40.1","-89.4","United States","Illinois",NULL
+658,"39.8","-88.2","United States","Illinois",NULL
+659,"38.7","-87.7","United States","Illinois",NULL
+660,"40.6","-89.9","United States","Illinois",NULL
+661,"41.0","-90.2","United States","Illinois",NULL
+662,"42.2","-88.3","United States","Illinois",NULL
+663,"41.6","-88.5","United States","Illinois",NULL
+664,"38.5","-90.2","United States","Illinois",NULL
+665,"39.8","-89.6","United States","Illinois",NULL
+666,"38.1","-89.0","United States","Illinois",NULL
+667,"37.2","-89.4","United States","Illinois",NULL
+668,"37.7","-89.5","United States","Illinois",NULL
+669,"40.5","-90.8","United States","Illinois",NULL
+670,"41.3","-89.0","United States","Illinois",NULL
+671,"39.9","-89.0","United States","Illinois","Decatur"
+672,"39.4","-90.0","United States","Illinois",NULL
+673,"38.4","-87.8","United States","Illinois",NULL
+674,"41.5","-87.8","United States","Illinois",NULL
+675,"40.7","-89.6","United States","Illinois",NULL
+676,"40.3","-90.6","United States","Illinois",NULL
+677,"40.3","-88.1","United States","Illinois",NULL
+678,"39.9","-91.0","United States","Illinois",NULL
+679,"41.4","-87.6","United States","Illinois",NULL
+680,"39.2","-88.6","United States","Illinois",NULL
+681,"37.9","-89.0","United States","Illinois",NULL
+682,"38.4","-87.9","United States","Illinois",NULL
+683,"39.3","-90.1","United States","Illinois",NULL
+684,"37.6","-89.2","United States","Illinois",NULL
+685,"41.7","-89.8","United States","Illinois",NULL
+686,"41.1","-90.2","United States","Illinois",NULL
+687,"42.0","-87.9","United States","Illinois","Chicago"
+688,"41.3","-88.9","United States","Illinois",NULL
+689,"40.9","-90.4","United States","Illinois",NULL
+690,"39.5","-88.7","United States","Illinois",NULL
+691,"40.6","-90.4","United States","Illinois",NULL
+692,"41.3","-88.2","United States","Illinois",NULL
+693,"39.0","-89.7","United States","Illinois",NULL
+694,"37.9","-88.4","United States","Illinois",NULL
+695,"37.9","-89.2","United States","Illinois",NULL
+696,"37.4","-89.3","United States","Illinois",NULL
+697,"38.4","-89.9","United States","Illinois",NULL
+698,"40.7","-89.5","United States","Illinois",NULL
+699,"39.4","-89.9","United States","Illinois",NULL
+700,"38.3","-89.4","United States","Illinois",NULL
+701,"37.6","-89.4","United States","Illinois",NULL
+702,"40.1","-90.2","United States","Illinois",NULL
+703,"40.2","-86.2","United States","Indiana",NULL
+704,"41.3","-85.7","United States","Indiana",NULL
+705,"41.1","-86.6","United States","Indiana",NULL
+706,"39.4","-85.6","United States","Indiana",NULL
+707,"39.4","-85.8","United States","Indiana",NULL
+708,"40.0","-86.1","United States","Indiana",NULL
+709,"39.5","-86.2","United States","Indiana",NULL
+710,"39.4","-86.1","United States","Indiana",NULL
+711,"38.0","-87.3","United States","Indiana",NULL
+712,"39.9","-87.2","United States","Indiana",NULL
+713,"39.0","-86.6","United States","Indiana",NULL
+714,"39.3","-86.5","United States","Indiana",NULL
+715,"38.1","-86.6","United States","Indiana",NULL
+716,"39.2","-85.0","United States","Indiana",NULL
+717,"38.7","-86.3","United States","Indiana",NULL
+718,"40.5","-85.7","United States","Indiana","Marion"
+719,"40.8","-85.4","United States","Indiana",NULL
+720,"39.5","-85.5","United States","Indiana",NULL
+721,"39.2","-86.2","United States","Indiana",NULL
+722,"37.8","-87.1","United States","Indiana",NULL
+723,"38.6","-86.8","United States","Indiana",NULL
+724,"39.2","-86.3","United States","Indiana",NULL
+725,"37.8","-94.7","United States","Kansas",NULL
+726,"39.1","-97.0","United States","Kansas",NULL
+727,"37.1","-95.1","United States","Kansas",NULL
+728,"38.6","-94.7","United States","Kansas",NULL
+729,"39.1","-96.8","United States","Kansas",NULL
+730,"37.5","-97.6","United States","Kansas",NULL
+731,"37.6","-97.4","United States","Kansas","Wichita"
+732,"39.3","-95.8","United States","Kansas",NULL
+733,"37.2","-95.7","United States","Kansas",NULL
+734,"38.9","-95.3","United States","Kansas","Lawrence"
+735,"37.1","-97.3","United States","Kansas",NULL
+736,"38.4","-95.6","United States","Kansas",NULL
+737,"39.1","-95.7","United States","Kansas","Topeka"
+738,"38.6","-96.4","United States","Kansas",NULL
+739,"39.7","-97.3","United States","Kansas",NULL
+740,"37.6","-98.4","United States","Kansas",NULL
+741,"39.2","-95.4","United States","Kansas",NULL
+742,"37.3","-97.2","United States","Kansas",NULL
+743,"37.4","-97.5","United States","Kansas",NULL
+744,"38.2","-97.4","United States","Kansas",NULL
+745,"39.1","-99.3","United States","Kansas",NULL
+746,"39.9","-94.5","United States","Missouri",NULL
+747,"39.3","-98.3","United States","Kansas",NULL
+748,"38.5","-89.9","United States","Illinois",NULL
+749,"39.4","-94.9","United States","Missouri",NULL
+750,"37.6","-97.9","United States","Kansas",NULL
+751,"36.8","-88.4","United States","Kentucky",NULL
+752,"37.8","-83.7","United States","Kentucky",NULL
+753,"37.3","-84.9","United States","Kentucky",NULL
+754,"38.0","-85.0","United States","Kentucky",NULL
+755,"38.5","-82.8","United States","Kentucky",NULL
+756,"37.9","-82.9","United States","Kentucky",NULL
+757,"37.8","-82.7","United States","Kentucky",NULL
+758,"36.9","-89.0","United States","Kentucky",NULL
+759,"36.8","-83.7","United States","Kentucky",NULL
+760,"37.3","-87.9","United States","Kentucky",NULL
+761,"37.5","-84.3","United States","Kentucky",NULL
+762,"37.9","-84.2","United States","Kentucky",NULL
+763,"38.5","-83.9","United States","Kentucky",NULL
+764,"38.4","-85.0","United States","Kentucky",NULL
+765,"36.9","-87.0","United States","Kentucky",NULL
+766,"37.1","-87.0","United States","Kentucky",NULL
+767,"38.5","-83.8","United States","Kentucky",NULL
+768,"38.6","-83.8","United States","Kentucky",NULL
+769,"37.6","-84.3","United States","Kentucky",NULL
+770,"37.4","-83.3","United States","Kentucky",NULL
+771,"37.3","-82.7","United States","Kentucky",NULL
+772,"38.4","-82.6","United States","Kentucky","Ashland"
+773,"37.8","-82.4","United States","Kentucky",NULL
+774,"36.7","-84.3","United States","Kentucky",NULL
+775,"38.6","-83.3","United States","Kentucky",NULL
+776,"38.0","-82.8","United States","Kentucky",NULL
+777,"37.8","-83.8","United States","Kentucky",NULL
+887,"44.8","-85.0","United States","Michigan",NULL
+778,"38.5","-84.6","United States","Kentucky",NULL
+779,"36.9","-83.0","United States","Kentucky",NULL
+780,"37.8","-88.0","United States","Kentucky",NULL
+781,"36.8","-88.2","United States","Kentucky",NULL
+782,"36.8","-87.9","United States","Kentucky",NULL
+783,"37.1","-84.0","United States","Kentucky",NULL
+784,"37.3","-87.5","United States","Kentucky",NULL
+785,"37.6","-87.3","United States","Kentucky",NULL
+786,"36.7","-83.9","United States","Kentucky",NULL
+787,"37.5","-83.9","United States","Kentucky",NULL
+788,"38.1","-83.5","United States","Kentucky",NULL
+789,"38.9","-84.7","United States","Kentucky",NULL
+790,"37.8","-84.1","United States","Kentucky",NULL
+791,"36.7","-86.5","United States","Kentucky",NULL
+792,"37.8","-83.1","United States","Kentucky",NULL
+793,"37.6","-87.0","United States","Kentucky",NULL
+794,"37.6","-84.5","United States","Kentucky",NULL
+795,"37.4","-82.5","United States","Kentucky",NULL
+796,"38.1","-84.9","United States","Kentucky",NULL
+797,"37.5","-82.5","United States","Kentucky","Pikeville"
+798,"38.1","-82.7","United States","Kentucky",NULL
+799,"38.0","-86.1","United States","Kentucky",NULL
+800,"39.1","-84.8","United States","Kentucky",NULL
+801,"38.0","-84.9","United States","Kentucky",NULL
+802,"38.3","-83.4","United States","Kentucky",NULL
+803,"36.8","-83.4","United States","Kentucky",NULL
+804,"37.0","-83.6","United States","Kentucky",NULL
+805,"37.7","-86.9","United States","Kentucky",NULL
+806,"38.3","-82.5","United States","West Virginia",NULL
+807,"37.5","-86.1","United States","Kentucky",NULL
+808,"37.3","-84.3","United States","Kentucky",NULL
+809,"30.2","-90.8","United States","Louisiana",NULL
+810,"32.8","-93.9","United States","Louisiana",NULL
+811,"31.7","-92.3","United States","Louisiana",NULL
+812,"31.4","-92.4","United States","Louisiana",NULL
+813,"31.1","-92.5","United States","Louisiana",NULL
+814,"31.3","-92.4","United States","Louisiana",NULL
+815,"32.8","-92.4","United States","Louisiana",NULL
+816,"31.1","-93.3","United States","Louisiana",NULL
+817,"31.5","-92.3","United States","Louisiana",NULL
+818,"31.6","-93.1","United States","Louisiana",NULL
+819,"31.4","-92.3","United States","Louisiana",NULL
+820,"30.5","-91.0","United States","Louisiana",NULL
+821,"30.3","-92.6","United States","Louisiana",NULL
+822,"31.6","-93.5","United States","Louisiana",NULL
+823,"32.0","-92.9","United States","Louisiana",NULL
+824,"32.9","-93.5","United States","Louisiana",NULL
+825,"32.0","-91.1","United States","Louisiana",NULL
+826,"31.4","-92.5","United States","Louisiana",NULL
+827,"30.7","-91.8","United States","Louisiana",NULL
+828,"29.5","-90.6","United States","Louisiana",NULL
+829,"42.7","-71.9","United States","Massachusetts",NULL
+830,"42.0","-71.6","United States","Massachusetts",NULL
+831,"41.7","-71.0","United States","Massachusetts",NULL
+832,"42.1","-71.4","United States","Massachusetts",NULL
+833,"42.7","-73.2","United States","Massachusetts",NULL
+834,"39.1","-76.8","United States","Maryland",NULL
+835,"39.7","-76.3","United States","Maryland",NULL
+836,"44.3","-70.6","United States","Maine",NULL
+837,"43.7","-84.6","United States","Michigan",NULL
+838,"43.3","-82.5","United States","Michigan",NULL
+839,"43.6","-84.4","United States","Michigan",NULL
+840,"46.6","-87.7","United States","Michigan",NULL
+841,"43.8","-84.2","United States","Michigan",NULL
+842,"42.3","-83.6","United States","Michigan",NULL
+843,"43.6","-84.7","United States","Michigan",NULL
+844,"42.4","-85.6","United States","Michigan",NULL
+845,"43.2","-85.3","United States","Michigan",NULL
+846,"44.4","-84.8","United States","Michigan",NULL
+847,"42.9","-86.2","United States","Michigan",NULL
+848,"43.4","-83.2","United States","Michigan",NULL
+849,"43.9","-83.3","United States","Michigan",NULL
+850,"46.5","-87.4","United States","Michigan",NULL
+851,"41.9","-84.4","United States","Michigan",NULL
+852,"43.9","-83.9","United States","Michigan",NULL
+853,"42.4","-83.6","United States","Michigan",NULL
+854,"44.5","-85.8","United States","Michigan",NULL
+855,"42.3","-85.1","United States","Michigan",NULL
+856,"44.4","-84.1","United States","Michigan",NULL
+857,"42.0","-84.8","United States","Michigan",NULL
+858,"44.3","-84.7","United States","Michigan",NULL
+859,"46.5","-88.2","United States","Michigan",NULL
+860,"46.0","-88.0","United States","Michigan",NULL
+861,"46.1","-87.5","United States","Michigan",NULL
+862,"45.9","-84.9","United States","Michigan",NULL
+863,"46.0","-87.3","United States","Michigan",NULL
+864,"42.3","-84.7","United States","Michigan",NULL
+865,"46.3","-86.0","United States","Michigan",NULL
+866,"46.6","-85.6","United States","Michigan",NULL
+867,"44.4","-84.4","United States","Michigan",NULL
+868,"43.2","-85.4","United States","Michigan",NULL
+869,"46.3","-86.5","United States","Michigan",NULL
+870,"42.7","-84.0","United States","Michigan",NULL
+871,"44.7","-84.7","United States","Michigan",NULL
+872,"46.6","-88.3","United States","Michigan",NULL
+873,"46.2","-86.0","United States","Michigan",NULL
+874,"46.0","-86.1","United States","Michigan",NULL
+875,"44.6","-85.9","United States","Michigan",NULL
+876,"45.1","-84.4","United States","Michigan",NULL
+877,"44.8","-84.1","United States","Michigan",NULL
+878,"44.6","-83.8","United States","Michigan",NULL
+879,"44.2","-84.6","United States","Michigan",NULL
+880,"44.5","-84.1","United States","Michigan",NULL
+881,"43.9","-84.4","United States","Michigan",NULL
+882,"43.5","-85.1","United States","Michigan",NULL
+883,"43.1","-85.0","United States","Michigan",NULL
+884,"44.9","-84.2","United States","Michigan",NULL
+885,"44.6","-84.0","United States","Michigan",NULL
+886,"46.4","-84.9","United States","Michigan",NULL
+888,"45.4","-84.6","United States","Michigan",NULL
+889,"42.1","-84.2","United States","Michigan",NULL
+890,"45.4","-83.9","United States","Michigan",NULL
+891,"44.5","-85.1","United States","Michigan",NULL
+892,"45.9","-87.0","United States","Michigan",NULL
+893,"44.2","-86.1","United States","Michigan",NULL
+894,"45.0","-85.0","United States","Michigan",NULL
+895,"46.6","-87.5","United States","Michigan",NULL
+896,"46.2","-86.2","United States","Michigan",NULL
+897,"41.9","-84.3","United States","Michigan",NULL
+898,"43.7","-86.5","United States","Michigan",NULL
+899,"45.4","-83.5","United States","Michigan",NULL
+900,"44.1","-85.2","United States","Michigan",NULL
+901,"44.1","-85.9","United States","Michigan",NULL
+902,"42.2","-85.7","United States","Michigan",NULL
+903,"44.3","-83.9","United States","Michigan",NULL
+904,"44.4","-86.2","United States","Michigan",NULL
+905,"44.5","-85.5","United States","Michigan",NULL
+906,"46.3","-89.9","United States","Michigan",NULL
+907,"43.4","-84.9","United States","Michigan",NULL
+908,"43.4","-82.5","United States","Michigan",NULL
+909,"43.8","-92.4","United States","Minnesota",NULL
+910,"47.3","-93.0","United States","Minnesota",NULL
+911,"47.6","-92.5","United States","Minnesota",NULL
+912,"45.2","-93.1","United States","Minnesota",NULL
+913,"46.5","-95.1","United States","Minnesota",NULL
+914,"47.4","-95.0","United States","Minnesota",NULL
+915,"47.5","-93.3","United States","Minnesota",NULL
+916,"47.5","-93.0","United States","Minnesota","Hibbing"
+917,"47.4","-92.0","United States","Minnesota",NULL
+918,"45.8","-94.3","United States","Minnesota",NULL
+919,"47.8","-92.9","United States","Minnesota",NULL
+920,"46.9","-92.8","United States","Minnesota",NULL
+921,"47.9","-92.0","United States","Minnesota",NULL
+922,"47.5","-93.6","United States","Minnesota",NULL
+923,"37.9","-91.4","United States","Missouri",NULL
+924,"38.0","-93.0","United States","Missouri",NULL
+925,"39.8","-91.7","United States","Missouri",NULL
+926,"36.6","-91.2","United States","Missouri",NULL
+927,"39.3","-91.1","United States","Missouri",NULL
+928,"39.4","-91.1","United States","Missouri",NULL
+929,"37.8","-92.2","United States","Missouri",NULL
+930,"38.1","-93.6","United States","Missouri",NULL
+931,"38.0","-93.9","United States","Missouri",NULL
+932,"37.9","-90.0","United States","Missouri",NULL
+933,"38.0","-90.8","United States","Missouri",NULL
+934,"38.7","-90.7","United States","Missouri",NULL
+935,"37.1","-93.1","United States","Missouri",NULL
+936,"37.1","-93.7","United States","Missouri",NULL
+937,"38.8","-92.6","United States","Missouri",NULL
+938,"37.7","-92.2","United States","Missouri",NULL
+939,"36.6","-92.4","United States","Missouri",NULL
+940,"37.1","-93.4","United States","Missouri",NULL
+941,"38.3","-92.8","United States","Missouri",NULL
+942,"38.3","-91.6","United States","Missouri",NULL
+943,"39.8","-92.9","United States","Missouri",NULL
+944,"38.3","-92.4","United States","Missouri",NULL
+945,"37.3","-93.6","United States","Missouri",NULL
+946,"36.8","-93.8","United States","Missouri",NULL
+947,"38.6","-92.0","United States","Missouri",NULL
+948,"38.7","-90.5","United States","Missouri",NULL
+949,"37.1","-93.9","United States","Missouri",NULL
+950,"36.7","-91.0","United States","Missouri",NULL
+951,"36.7","-93.7","United States","Missouri",NULL
+952,"36.0","-89.7","United States","Tennessee",NULL
+953,"38.2","-90.4","United States","Missouri",NULL
+954,"39.9","-94.9","United States","Missouri",NULL
+955,"37.3","-89.6","United States","Missouri","Cape Girardeau"
+956,"36.9","-92.8","United States","Missouri",NULL
+957,"37.7","-93.7","United States","Missouri",NULL
+958,"37.2","-89.6","United States","Missouri",NULL
+959,"37.9","-93.8","United States","Missouri",NULL
+960,"37.0","-92.1","United States","Missouri",NULL
+961,"37.8","-90.8","United States","Missouri",NULL
+962,"36.1","-90.0","United States","Missouri",NULL
+963,"38.2","-91.2","United States","Missouri",NULL
+964,"38.9","-92.4","United States","Missouri","Columbia"
+965,"36.9","-89.9","United States","Missouri",NULL
+966,"37.0","-94.5","United States","Missouri",NULL
+967,"38.2","-90.7","United States","Missouri",NULL
+968,"36.5","-94.6","United States","Missouri",NULL
+969,"38.6","-92.1","United States","Missouri",NULL
+970,"36.8","-92.3","United States","Missouri",NULL
+971,"39.0","-94.2","United States","Missouri",NULL
+972,"37.9","-94.1","United States","Missouri",NULL
+973,"37.8","-94.6","United States","Missouri",NULL
+974,"37.4","-91.3","United States","Missouri",NULL
+975,"37.4","-90.2","United States","Missouri",NULL
+976,"36.4","-93.1","United States","Arkansas",NULL
+977,"38.5","-94.2","United States","Missouri",NULL
+978,"39.3","-94.6","United States","Missouri","Kansas City"
+979,"38.6","-94.1","United States","Missouri",NULL
+980,"36.7","-93.3","United States","Missouri","Branson"
+981,"40.4","-94.0","United States","Missouri",NULL
+982,"38.4","-92.4","United States","Missouri",NULL
+983,"39.6","-94.4","United States","Missouri",NULL
+984,"37.3","-90.8","United States","Missouri",NULL
+985,"36.5","-91.2","United States","Arkansas",NULL
+986,"38.9","-92.3","United States","Missouri","Columbia"
+987,"39.5","-94.3","United States","Missouri",NULL
+988,"37.4","-91.6","United States","Missouri",NULL
+989,"39.2","-94.3","United States","Missouri",NULL
+990,"37.7","-90.2","United States","Missouri",NULL
+991,"37.8","-92.0","United States","Missouri",NULL
+992,"39.4","-94.4","United States","Missouri",NULL
+993,"39.1","-93.4","United States","Missouri",NULL
+994,"38.2","-90.6","United States","Missouri",NULL
+995,"38.5","-92.2","United States","Missouri",NULL
+1208,"41.2","-81.6","United States","Ohio",NULL
+996,"38.4","-94.3","United States","Missouri",NULL
+997,"38.4","-94.4","United States","Missouri",NULL
+998,"37.0","-89.3","United States","Missouri",NULL
+999,"38.5","-94.1","United States","Missouri",NULL
+1000,"37.6","-93.3","United States","Missouri",NULL
+1001,"37.5","-92.5","United States","Missouri",NULL
+1002,"37.1","-90.3","United States","Missouri",NULL
+1003,"31.2","-90.7","United States","Mississippi",NULL
+1004,"33.1","-89.6","United States","Mississippi",NULL
+1005,"30.2","-89.6","United States","Mississippi",NULL
+1006,"32.3","-88.7","United States","Mississippi","Meridian"
+1007,"33.5","-88.4","United States","Mississippi","Columbus"
+1008,"34.3","-89.8","United States","Mississippi",NULL
+1009,"31.0","-89.0","United States","Mississippi",NULL
+1010,"33.6","-90.8","United States","Mississippi",NULL
+1011,"31.4","-91.1","United States","Mississippi",NULL
+1012,"32.2","-88.9","United States","Mississippi",NULL
+1013,"34.6","-88.2","United States","Mississippi",NULL
+1014,"32.0","-88.8","United States","Mississippi",NULL
+1015,"32.4","-90.2","United States","Mississippi",NULL
+1016,"45.2","-111.1","United States","Montana",NULL
+1017,"48.4","-113.1","United States","Montana",NULL
+1018,"47.0","-112.7","United States","Montana",NULL
+1019,"46.8","-111.9","United States","Montana",NULL
+1020,"47.0","-113.8","United States","Montana",NULL
+1021,"46.0","-110.3","United States","Montana",NULL
+1022,"47.7","-104.2","United States","Montana",NULL
+1023,"45.7","-110.8","United States","Montana",NULL
+1024,"46.8","-112.7","United States","Montana",NULL
+1025,"47.1","-111.9","United States","Montana",NULL
+1026,"47.6","-115.4","United States","Montana",NULL
+1027,"47.1","-114.1","United States","Montana",NULL
+1028,"46.0","-113.1","United States","Montana",NULL
+1029,"45.0","-106.8","United States","Montana",NULL
+1030,"45.8","-114.0","United States","Montana",NULL
+1031,"46.0","-112.5","United States","Montana","Butte"
+1032,"47.7","-108.7","United States","Montana",NULL
+1033,"46.8","-110.8","United States","Montana",NULL
+1034,"45.4","-113.0","United States","Montana",NULL
+1035,"48.0","-114.0","United States","Montana",NULL
+1036,"47.3","-114.5","United States","Montana",NULL
+1037,"47.4","-115.7","United States","Montana",NULL
+1038,"34.7","-77.3","United States","North Carolina",NULL
+1039,"35.3","-82.4","United States","North Carolina",NULL
+1040,"35.2","-83.3","United States","North Carolina",NULL
+1041,"36.4","-76.3","United States","North Carolina",NULL
+1042,"35.2","-80.3","United States","North Carolina",NULL
+1043,"36.1","-80.8","United States","North Carolina",NULL
+1044,"35.5","-78.4","United States","North Carolina",NULL
+1045,"35.2","-78.6","United States","North Carolina",NULL
+1046,"36.2","-78.1","United States","North Carolina",NULL
+1047,"35.9","-80.6","United States","North Carolina",NULL
+1048,"36.3","-79.0","United States","North Carolina",NULL
+1049,"35.4","-80.1","United States","North Carolina",NULL
+1050,"34.5","-77.5","United States","North Carolina",NULL
+1051,"35.6","-81.6","United States","North Carolina",NULL
+1052,"35.9","-82.8","United States","North Carolina",NULL
+1053,"36.0","-76.9","United States","North Carolina",NULL
+1054,"35.5","-82.3","United States","North Carolina",NULL
+1055,"35.6","-82.3","United States","North Carolina",NULL
+1056,"35.3","-79.8","United States","North Carolina",NULL
+1057,"35.8","-80.4","United States","North Carolina",NULL
+1058,"34.4","-77.2","United States",NULL,NULL
+1059,"36.0","-77.9","United States","North Carolina",NULL
+1060,"36.3","-81.3","United States","North Carolina",NULL
+1061,"35.9","-81.9","United States","North Carolina",NULL
+1062,"35.2","-79.2","United States","North Carolina",NULL
+1063,"35.9","-82.1","United States","North Carolina",NULL
+1064,"35.8","-82.2","United States","North Carolina",NULL
+1065,"35.4","-82.6","United States","North Carolina",NULL
+1066,"35.9","-81.0","United States","North Carolina",NULL
+1067,"34.8","-77.9","United States","North Carolina",NULL
+1068,"34.5","-79.3","United States","North Carolina",NULL
+1069,"35.2","-82.5","United States","North Carolina",NULL
+1070,"35.3","-83.5","United States","North Carolina",NULL
+1071,"35.2","-80.0","United States","North Carolina",NULL
+1072,"36.0","-81.1","United States","North Carolina",NULL
+1073,"35.5","-83.2","United States","North Carolina",NULL
+1074,"36.1","-79.2","United States","North Carolina",NULL
+1075,"48.3","-101.3","United States","North Dakota","Minot"
+1076,"47.7","-102.7","United States","North Dakota",NULL
+1077,"47.7","-101.9","United States","North Dakota",NULL
+1078,"40.1","-96.7","United States","Nebraska",NULL
+1079,"42.8","-98.0","United States","South Dakota",NULL
+1080,"40.8","-96.7","United States","Nebraska","Lincoln"
+1081,"41.1","-95.9","United States","Nebraska","Bellevue"
+1082,"41.2","-95.9","United States","Nebraska","Omaha"
+1083,"41.6","-98.2","United States","Nebraska",NULL
+1084,"42.9","-100.6","United States","Nebraska",NULL
+1085,"42.6","-103.4","United States","Nebraska",NULL
+1086,"43.4","-72.3","United States","New Hampshire","Claremont"
+1087,"40.5","-74.5","United States","New Jersey","New Brunswick"
+1088,"40.7","-74.6","United States","New Jersey","Mendham Township"
+1089,"40.9","-74.3","United States","New Jersey",NULL
+1090,"41.1","-74.3","United States","New Jersey",NULL
+1091,"40.2","-74.7","United States","New Jersey",NULL
+1092,"41.0","-74.3","United States","New Jersey",NULL
+1093,"39.8","-74.4","United States","New Jersey",NULL
+1094,"39.6","-74.4","United States","New Jersey",NULL
+1095,"41.1","-74.6","United States","New Jersey",NULL
+1096,"40.8","-74.9","United States","New Jersey",NULL
+1097,"41.0","-74.6","United States","New Jersey","Jefferson Township"
+1098,"41.1","-74.8","United States","New Jersey",NULL
+1099,"39.7","-75.4","United States","New Jersey",NULL
+1100,"41.2","-74.9","United States","New Jersey","Walpack Township"
+1101,"40.0","-74.4","United States","New Jersey",NULL
+1102,"39.8","-74.5","United States","New Jersey",NULL
+1103,"40.5","-74.8","United States","New Jersey",NULL
+1104,"40.2","-74.1","United States","New Jersey",NULL
+1105,"33.3","-105.7","United States","New Mexico",NULL
+1106,"36.1","-108.9","United States","New Mexico",NULL
+1107,"36.0","-106.9","United States","New Mexico",NULL
+1108,"33.2","-105.8","United States","New Mexico",NULL
+1109,"35.6","-108.9","United States","New Mexico",NULL
+1110,"37.0","-104.5","United States","Colorado",NULL
+1111,"36.7","-107.4","United States","New Mexico",NULL
+1112,"36.7","-107.6","United States","New Mexico",NULL
+1113,"36.4","-109.1","United States","Arizona",NULL
+1114,"36.8","-108.8","United States","New Mexico",NULL
+1115,"35.6","-108.0","United States","New Mexico",NULL
+1116,"36.7","-106.0","United States","New Mexico",NULL
+1117,"35.4","-108.2","United States","New Mexico",NULL
+1118,"36.1","-108.8","United States","Arizona",NULL
+1119,"35.5","-105.3","United States","New Mexico",NULL
+1120,"33.8","-106.9","United States","New Mexico",NULL
+1121,"39.3","-119.7","United States","Nevada",NULL
+1122,"39.7","-119.7","United States","Nevada",NULL
+1123,"39.0","-119.8","United States","Nevada",NULL
+1124,"37.9","-118.3","United States","Nevada",NULL
+1125,"42.3","-76.8","United States","New York",NULL
+1126,"42.6","-77.4","United States","New York",NULL
+1127,"42.4","-75.0","United States","New York",NULL
+1128,"42.1","-75.6","United States","New York",NULL
+1129,"44.3","-74.1","United States","New York",NULL
+1130,"43.3","-78.2","United States","New York",NULL
+1131,"42.1","-77.9","United States","New York",NULL
+1132,"41.5","-73.7","United States","New York",NULL
+1133,"42.3","-75.4","United States","New York",NULL
+1134,"43.2","-78.5","United States","New York",NULL
+1135,"42.2","-78.8","United States","New York",NULL
+1136,"42.3","-77.6","United States","New York",NULL
+1137,"42.6","-74.9","United States","New York",NULL
+1138,"43.2","-78.3","United States","New York",NULL
+1139,"41.9","-73.9","United States","New York",NULL
+1140,"43.3","-76.9","United States","New York",NULL
+1141,"41.3","-73.7","United States","New York",NULL
+1142,"41.9","-73.6","United States","New York",NULL
+1143,"43.5","-74.2","United States","New York",NULL
+1144,"43.6","-73.3","United States","New York",NULL
+1145,"42.1","-78.7","United States","New York",NULL
+1146,"41.3","-74.1","United States","New York",NULL
+1147,"44.2","-73.9","United States","New York",NULL
+1148,"43.6","-73.4","United States","New York",NULL
+1149,"42.3","-77.3","United States","New York",NULL
+1150,"42.1","-77.2","United States","New York",NULL
+1151,"44.5","-73.5","United States","New York",NULL
+1152,"41.0","-81.1","United States","Ohio",NULL
+1153,"39.9","-81.3","United States","Ohio",NULL
+1154,"39.6","-82.4","United States","Ohio",NULL
+1155,"40.2","-84.2","United States","Ohio",NULL
+1156,"40.2","-83.0","United States","Ohio",NULL
+1157,"41.7","-80.9","United States","Ohio",NULL
+1158,"40.4","-80.8","United States","Ohio",NULL
+1159,"40.4","-82.7","United States","Ohio",NULL
+1160,"39.9","-84.0","United States","Ohio",NULL
+1161,"39.9","-83.9","United States","Ohio",NULL
+1162,"40.8","-81.3","United States","Ohio",NULL
+1163,"39.8","-82.3","United States","Ohio",NULL
+1164,"40.7","-80.6","United States","Ohio",NULL
+1165,"40.7","-81.4","United States","Ohio",NULL
+1166,"41.3","-84.4","United States","Ohio",NULL
+1167,"40.3","-81.5","United States","Ohio",NULL
+1168,"39.4","-81.7","United States","Ohio",NULL
+1169,"41.4","-81.3","United States","Ohio",NULL
+1170,"40.5","-82.8","United States","Ohio",NULL
+1171,"41.5","-81.4","United States","Ohio",NULL
+1172,"38.7","-83.4","United States","Ohio",NULL
+1173,"40.7","-84.1","United States","Ohio","Lima"
+1174,"40.8","-82.3","United States","Ohio",NULL
+1175,"40.6","-82.2","United States","Ohio",NULL
+1176,"41.3","-81.3","United States","Ohio",NULL
+1177,"38.8","-82.5","United States","Ohio",NULL
+1178,"38.8","-82.6","United States","Ohio",NULL
+1179,"39.4","-82.5","United States","Ohio",NULL
+1180,"39.5","-81.5","United States","Ohio",NULL
+1181,"38.8","-83.3","United States","Ohio",NULL
+1182,"41.8","-80.9","United States","Ohio",NULL
+1183,"39.5","-82.2","United States","Ohio",NULL
+1184,"40.8","-80.6","United States","Ohio",NULL
+1185,"39.3","-81.9","United States","Ohio",NULL
+1186,"40.7","-81.5","United States","Ohio",NULL
+1187,"39.7","-84.1","United States","Ohio",NULL
+1188,"41.3","-84.5","United States","Ohio",NULL
+1189,"39.9","-83.0","United States","Ohio","Columbus"
+1190,"40.2","-81.6","United States","Ohio",NULL
+1191,"39.4","-84.8","United States","Ohio",NULL
+1192,"41.7","-81.1","United States","Ohio",NULL
+1193,"40.6","-83.6","United States","Ohio",NULL
+1194,"41.5","-81.1","United States","Ohio",NULL
+1195,"41.8","-80.6","United States","Ohio",NULL
+1196,"40.4","-80.7","United States","Ohio",NULL
+1197,"40.3","-80.8","United States","Ohio",NULL
+1198,"40.0","-82.7","United States","Ohio",NULL
+1199,"41.1","-81.0","United States","Ohio",NULL
+1200,"39.2","-83.3","United States","Ohio",NULL
+1201,"39.7","-84.6","United States","Ohio",NULL
+1202,"40.6","-82.5","United States","Ohio",NULL
+1203,"38.8","-83.1","United States","Ohio",NULL
+1204,"40.7","-81.1","United States","Ohio",NULL
+1205,"41.4","-80.8","United States","Ohio",NULL
+1206,"40.8","-81.2","United States","Ohio",NULL
+1207,"38.8","-82.9","United States","Ohio",NULL
+1209,"40.0","-83.6","United States","Ohio",NULL
+1210,"40.6","-82.3","United States","Ohio",NULL
+1211,"39.1","-83.0","United States","Ohio",NULL
+1212,"38.7","-83.0","United States","Ohio",NULL
+1213,"39.6","-82.1","United States","Ohio",NULL
+1214,"41.0","-82.0","United States","Ohio",NULL
+1215,"39.9","-82.0","United States","Ohio",NULL
+1216,"39.5","-84.5","United States","Ohio",NULL
+1217,"40.9","-82.3","United States","Ohio",NULL
+1218,"39.5","-83.1","United States","Ohio",NULL
+1219,"39.5","-81.4","United States","Ohio",NULL
+1220,"41.1","-81.2","United States","Ohio",NULL
+1221,"40.9","-82.4","United States","Ohio",NULL
+1222,"41.1","-81.4","United States","Ohio",NULL
+1223,"40.8","-84.2","United States","Ohio",NULL
+1224,"39.9","-84.1","United States","Ohio","Huber Heights"
+1225,"39.4","-82.2","United States","Ohio",NULL
+1226,"39.2","-83.1","United States","Ohio",NULL
+1227,"39.7","-82.7","United States","Ohio",NULL
+1228,"38.5","-82.7","United States","Ohio",NULL
+1229,"41.1","-82.0","United States","Ohio",NULL
+1230,"39.2","-82.5","United States","Ohio",NULL
+1231,"39.1","-82.4","United States","Ohio",NULL
+1232,"40.1","-81.7","United States","Ohio",NULL
+1233,"40.1","-82.3","United States","Ohio",NULL
+1234,"39.5","-82.3","United States","Ohio",NULL
+1235,"40.7","-81.2","United States","Ohio",NULL
+1236,"40.7","-83.9","United States","Ohio",NULL
+1237,"40.5","-81.3","United States","Ohio",NULL
+1238,"41.0","-81.8","United States","Ohio",NULL
+1239,"41.1","-81.8","United States","Ohio",NULL
+1240,"41.4","-81.2","United States","Ohio",NULL
+1241,"41.4","-80.9","United States","Ohio",NULL
+1242,"40.1","-81.5","United States","Ohio",NULL
+1243,"39.9","-81.6","United States","Ohio",NULL
+1244,"40.6","-82.8","United States","Ohio",NULL
+1245,"40.0","-83.5","United States","Ohio",NULL
+1246,"41.6","-81.2","United States","Ohio","Chardon"
+1247,"40.3","-83.1","United States","Ohio","Delaware"
+1248,"40.5","-82.9","United States","Ohio",NULL
+1249,"38.6","-82.7","United States","Ohio",NULL
+1250,"40.1","-83.0","United States","Ohio","Columbus"
+1251,"41.3","-81.6","United States","Ohio",NULL
+1252,"41.1","-80.5","United States","Pennsylvania","Mahoning Township"
+1253,"40.1","-81.6","United States","Ohio",NULL
+1254,"38.8","-83.8","United States","Ohio",NULL
+1255,"39.6","-84.4","United States","Ohio",NULL
+1256,"41.1","-80.8","United States","Ohio",NULL
+1257,"40.4","-81.3","United States","Ohio",NULL
+1258,"41.0","-81.0","United States","Ohio",NULL
+1259,"41.2","-81.1","United States","Ohio",NULL
+1260,"38.9","-82.1","United States","Ohio",NULL
+1261,"40.5","-81.4","United States","Ohio","New Philadelphia"
+1262,"41.8","-81.0","United States","Ohio","Geneva"
+1263,"40.3","-81.6","United States","Ohio",NULL
+1264,"40.6","-80.5","United States","Ohio",NULL
+1265,"40.0","-84.0","United States","Ohio",NULL
+1266,"40.3","-81.2","United States","Ohio",NULL
+1267,"40.4","-81.1","United States","Ohio",NULL
+1268,"40.0","-81.1","United States","Ohio",NULL
+1269,"39.1","-84.2","United States","Ohio",NULL
+1270,"40.0","-80.9","United States","Ohio",NULL
+1271,"41.4","-82.1","United States","Ohio","Elyria"
+1272,"40.9","-80.8","United States","Ohio",NULL
+1273,"39.0","-82.9","United States","Ohio",NULL
+1274,"41.3","-83.1","United States","Ohio",NULL
+1275,"40.9","-80.7","United States","Ohio",NULL
+1276,"39.1","-82.8","United States","Ohio",NULL
+1277,"39.0","-84.1","United States","Ohio",NULL
+1278,"40.3","-80.9","United States","Ohio",NULL
+1279,"39.6","-82.8","United States","Ohio",NULL
+1280,"39.6","-82.3","United States","Ohio",NULL
+1281,"40.7","-82.3","United States","Ohio",NULL
+1282,"34.3","-96.3","United States","Oklahoma",NULL
+1283,"35.7","-95.7","United States","Oklahoma",NULL
+1284,"33.9","-96.8","United States","Oklahoma",NULL
+1285,"35.7","-97.5","United States","Oklahoma",NULL
+1286,"34.4","-95.0","United States","Oklahoma",NULL
+1287,"34.4","-94.7","United States","Oklahoma",NULL
+1288,"35.0","-98.3","United States","Oklahoma",NULL
+1289,"34.6","-94.8","United States","Oklahoma",NULL
+1290,"34.8","-94.7","United States","Oklahoma",NULL
+1291,"34.5","-97.0","United States","Oklahoma",NULL
+1292,"35.9","-94.8","United States","Oklahoma",NULL
+1293,"36.0","-97.1","United States","Oklahoma",NULL
+1294,"35.5","-98.6","United States","Oklahoma",NULL
+1295,"34.9","-96.7","United States","Oklahoma",NULL
+1296,"35.1","-98.3","United States","Oklahoma",NULL
+1297,"35.6","-97.5","United States","Oklahoma","Edmond"
+1298,"36.0","-97.0","United States","Oklahoma",NULL
+1299,"34.6","-94.6","United States","Oklahoma",NULL
+1300,"36.9","-95.8","United States","Oklahoma",NULL
+1301,"35.9","-97.0","United States","Oklahoma",NULL
+1302,"35.3","-96.0","United States","Oklahoma",NULL
+1303,"35.3","-98.1","United States","Oklahoma",NULL
+1304,"34.1","-95.6","United States","Oklahoma",NULL
+1305,"35.3","-96.6","United States","Oklahoma",NULL
+1306,"36.2","-95.7","United States","Oklahoma",NULL
+1307,"35.3","-97.3","United States","Oklahoma","Norman"
+1308,"35.4","-97.2","United States","Oklahoma","Oklahoma City"
+1309,"34.7","-94.7","United States","Oklahoma",NULL
+1310,"35.8","-95.6","United States","Oklahoma",NULL
+1311,"34.9","-95.3","United States","Oklahoma",NULL
+1312,"35.2","-97.6","United States","Oklahoma",NULL
+1313,"35.3","-99.2","United States","Oklahoma",NULL
+1314,"33.8","-97.1","United States","Oklahoma",NULL
+1315,"34.6","-98.6","United States","Oklahoma",NULL
+1316,"34.8","-95.7","United States","Oklahoma",NULL
+1317,"35.7","-97.0","United States","Oklahoma",NULL
+1318,"35.4","-96.0","United States","Oklahoma",NULL
+1319,"34.2","-96.2","United States","Oklahoma",NULL
+1320,"35.3","-95.9","United States","Oklahoma",NULL
+1321,"36.6","-96.1","United States","Oklahoma",NULL
+1322,"36.0","-96.4","United States","Oklahoma",NULL
+1323,"34.2","-96.6","United States","Oklahoma",NULL
+1324,"34.8","-98.6","United States","Oklahoma",NULL
+1325,"36.4","-94.8","United States","Oklahoma",NULL
+1326,"36.1","-95.8","United States","Oklahoma","Tulsa"
+1327,"35.0","-94.7","United States","Oklahoma",NULL
+1328,"34.4","-99.0","United States","Oklahoma",NULL
+1329,"36.9","-94.7","United States","Oklahoma",NULL
+1330,"35.3","-95.1","United States","Oklahoma",NULL
+1331,"34.0","-94.4","United States","Arkansas",NULL
+1332,"35.5","-97.7","United States","Oklahoma","Oklahoma City"
+1333,"45.7","-121.9","United States","Oregon",NULL
+1334,"45.6","-123.3","United States","Oregon",NULL
+1335,"45.6","-122.9","United States","Oregon","Portland"
+1336,"45.1","-123.7","United States","Oregon",NULL
+1337,"44.6","-123.4","United States","Oregon",NULL
+1338,"45.4","-122.4","United States","Oregon",NULL
+1339,"44.3","-122.0","United States","Oregon",NULL
+1340,"45.6","-123.5","United States","Oregon",NULL
+1341,"45.3","-118.3","United States","Oregon",NULL
+1342,"45.6","-123.4","United States","Oregon",NULL
+1343,"45.1","-122.5","United States","Oregon",NULL
+1344,"45.8","-118.0","United States","Oregon",NULL
+1345,"40.1","-124.2","United States","California",NULL
+1346,"46.0","-118.1","United States","Oregon",NULL
+1347,"44.4","-118.9","United States","Oregon",NULL
+1348,"45.5","-118.4","United States","Oregon",NULL
+1349,"42.8","-124.5","United States","Oregon",NULL
+1350,"45.5","-123.0","United States","Oregon",NULL
+1351,"45.8","-123.9","United States","Oregon",NULL
+1352,"44.9","-122.6","United States","Oregon",NULL
+1353,"42.1","-124.3","United States","Oregon",NULL
+1354,"45.4","-121.6","United States","Oregon",NULL
+1355,"43.2","-123.2","United States","Oregon",NULL
+1356,"43.5","-123.9","United States","Oregon",NULL
+1357,"45.3","-121.9","United States","Oregon",NULL
+1358,"45.6","-122.2","United States","Oregon",NULL
+1359,"42.4","-123.4","United States","Oregon",NULL
+1360,"44.2","-122.1","United States","Oregon",NULL
+1361,"45.6","-121.9","United States","Oregon",NULL
+1362,"45.5","-118.9","United States","Oregon",NULL
+1363,"44.2","-124.0","United States","Oregon",NULL
+1364,"44.4","-121.7","United States","Oregon",NULL
+1365,"44.2","-121.5","United States","Oregon",NULL
+1366,"43.6","-121.9","United States","Oregon",NULL
+1367,"43.6","-122.1","United States","Oregon",NULL
+1368,"44.8","-118.4","United States","Oregon",NULL
+1369,"45.5","-122.3","United States","Oregon",NULL
+1370,"42.9","-122.2","United States","Oregon",NULL
+1371,"43.3","-123.2","United States","Oregon",NULL
+1372,"42.2","-123.6","United States","Oregon",NULL
+1373,"43.3","-124.1","United States","Oregon",NULL
+1374,"42.6","-122.5","United States","Oregon",NULL
+1375,"45.3","-121.7","United States","Oregon",NULL
+1376,"43.4","-122.2","United States","Oregon",NULL
+1377,"43.1","-122.1","United States","Oregon",NULL
+1378,"43.5","-123.3","United States","Oregon",NULL
+1379,"45.0","-118.4","United States","Oregon",NULL
+1380,"44.8","-121.2","United States","Oregon",NULL
+1381,"45.0","-117.2","United States","Oregon",NULL
+1382,"45.6","-118.6","United States","Oregon",NULL
+1383,"46.2","-124.0","United States","Oregon",NULL
+1384,"43.9","-124.1","United States","Oregon",NULL
+1385,"42.2","-123.5","United States","Oregon",NULL
+1386,"44.8","-122.1","United States","Oregon",NULL
+1387,"44.6","-121.6","United States","Oregon",NULL
+1388,"43.3","-122.2","United States","Oregon",NULL
+1389,"45.1","-124.0","United States","Oregon",NULL
+1390,"42.3","-124.2","United States","Oregon",NULL
+1391,"45.7","-118.6","United States","Oregon",NULL
+1392,"43.2","-123.6","United States","Oregon",NULL
+1393,"42.0","-123.3","United States","Oregon",NULL
+1394,"45.3","-121.8","United States","Oregon",NULL
+1395,"45.0","-122.0","United States","Oregon",NULL
+1396,"45.0","-122.2","United States","Oregon",NULL
+1397,"45.8","-121.7","United States","Washington",NULL
+1398,"44.4","-122.1","United States","Oregon",NULL
+1399,"43.5","-121.9","United States","Oregon",NULL
+1400,"43.0","-124.4","United States","Oregon",NULL
+1401,"45.4","-118.1","United States","Oregon",NULL
+1402,"45.9","-123.2","United States","Oregon",NULL
+1403,"45.5","-121.5","United States","Oregon",NULL
+1404,"45.5","-123.1","United States","Oregon",NULL
+1405,"42.1","-122.3","United States","Oregon",NULL
+1406,"41.8","-77.9","United States","Pennsylvania","Sweden Township"
+1407,"42.0","-78.7","United States","Pennsylvania",NULL
+1408,"40.1","-79.6","United States","Pennsylvania","Bullskin Township"
+1409,"41.0","-78.4","United States","Pennsylvania","Lawrence Township"
+1410,"40.4","-79.9","United States","Pennsylvania",NULL
+1411,"41.9","-80.5","United States","Ohio","Conneaut"
+1412,"41.4","-76.8","United States","Pennsylvania","Plunketts Creek Township"
+1413,"39.8","-77.3","United States","Pennsylvania","Cumberland Township"
+1414,"40.6","-79.9","United States","Pennsylvania",NULL
+1415,"40.5","-79.7","United States","Pennsylvania","Upper Burrell Township"
+1416,"40.6","-80.0","United States","Pennsylvania",NULL
+1417,"40.5","-79.8","United States","Pennsylvania",NULL
+1418,"40.4","-78.9","United States","Pennsylvania","East Taylor Township"
+1419,"40.4","-75.1","United States","Pennsylvania","Plumstead Township"
+1420,"40.5","-80.3","United States","Pennsylvania",NULL
+1421,"40.4","-75.4","United States","Pennsylvania","West Rockhill"
+1422,"40.3","-79.2","United States","Pennsylvania","Fairfield Township"
+1423,"41.1","-75.2","United States","Pennsylvania","Price Township"
+1424,"41.1","-78.6","United States","Pennsylvania","Union Township"
+1425,"40.3","-78.9","United States","Pennsylvania",NULL
+1426,"41.0","-74.5","United States","New Jersey","Jefferson Township"
+1427,"40.1","-74.9","United States","Pennsylvania","Bristol Township"
+1428,"41.2","-80.3","United States","Pennsylvania",NULL
+1429,"41.0","-80.5","United States","Pennsylvania","Mahoning Township"
+1430,"41.5","-78.9","United States","Pennsylvania","Highland Township"
+1431,"40.8","-75.3","United States","Pennsylvania","Bushkill Township"
+1432,"41.9","-77.6","United States","Pennsylvania","Harrison Township"
+1433,"40.5","-78.8","United States","Pennsylvania","Jackson Township"
+1434,"41.5","-71.5","United States","Rhode Island",NULL
+1435,"41.4","-71.7","United States","Rhode Island",NULL
+1436,"42.0","-71.7","United States","Rhode Island",NULL
+1437,"36.9","-79.7","United States","Virginia",NULL
+1438,"34.6","-80.4","United States","South Carolina",NULL
+1439,"33.7","-78.9","United States","South Carolina","Myrtle Beach"
+1440,"33.0","-81.6","United States","Georgia",NULL
+1441,"34.7","-83.1","United States","South Carolina",NULL
+1442,"33.0","-80.2","United States","South Carolina",NULL
+1443,"34.4","-80.1","United States","South Carolina",NULL
+1444,"34.5","-82.4","United States","South Carolina",NULL
+1445,"33.1","-80.3","United States","South Carolina",NULL
+1446,"33.2","-81.4","United States","South Carolina",NULL
+1447,"34.1","-79.1","United States","South Carolina",NULL
+1448,"34.5","-81.7","United States","South Carolina",NULL
+1449,"34.5","-82.6","United States","South Carolina",NULL
+1450,"35.0","-81.6","United States","South Carolina",NULL
+1451,"33.1","-79.8","United States","South Carolina",NULL
+1452,"32.4","-80.4","United States","South Carolina",NULL
+1453,"43.4","-102.4","United States","South Dakota",NULL
+1454,"43.4","-101.7","United States","South Dakota",NULL
+1455,"43.9","-103.5","United States","South Dakota",NULL
+1456,"43.4","-99.2","United States","South Dakota",NULL
+1457,"35.3","-84.3","United States","Tennessee",NULL
+1458,"35.5","-89.6","United States","Tennessee",NULL
+1459,"35.1","-86.5","United States","Tennessee",NULL
+1460,"36.1","-89.5","United States","Tennessee",NULL
+1461,"35.2","-87.2","United States","Tennessee",NULL
+1462,"35.9","-87.3","United States","Tennessee",NULL
+1463,"35.1","-84.3","United States","North Carolina",NULL
+1464,"36.0","-86.5","United States","Tennessee",NULL
+1465,"35.6","-84.0","United States","Tennessee",NULL
+1466,"36.1","-87.4","United States","Tennessee",NULL
+1467,"35.2","-84.5","United States","Tennessee",NULL
+1468,"35.4","-84.0","United States","Tennessee",NULL
+1469,"35.7","-86.7","United States","Tennessee",NULL
+1470,"35.7","-83.5","United States","Tennessee",NULL
+1471,"36.1","-87.5","United States","Tennessee",NULL
+1472,"35.5","-83.3","United States","North Carolina","Painttown Community ᎠᏂᏬᏘ"
+1473,"36.3","-89.3","United States","Tennessee",NULL
+1474,"36.3","-86.6","United States","Tennessee",NULL
+1475,"36.6","-86.5","United States","Tennessee",NULL
+1476,"36.2","-84.7","United States","Tennessee",NULL
+1477,"36.3","-86.2","United States","Tennessee",NULL
+1478,"36.0","-84.9","United States","Tennessee",NULL
+1479,"35.3","-85.1","United States","Tennessee",NULL
+1480,"36.2","-82.4","United States","Tennessee",NULL
+1481,"36.3","-84.3","United States","Tennessee",NULL
+1482,"36.2","-89.0","United States","Tennessee",NULL
+1483,"36.0","-89.2","United States","Tennessee",NULL
+1484,"35.2","-87.4","United States","Tennessee",NULL
+1485,"32.7","-98.0","United States","Texas",NULL
+1486,"36.0","-100.5","United States","Texas",NULL
+1487,"32.1","-95.3","United States","Texas",NULL
+1488,"31.3","-94.8","United States","Texas","Lufkin"
+1489,"32.1","-97.5","United States","Texas",NULL
+1490,"32.8","-95.5","United States","Texas",NULL
+1491,"30.8","-95.4","United States","Texas",NULL
+1492,"30.6","-95.5","United States","Texas",NULL
+1493,"32.6","-94.9","United States","Texas",NULL
+1494,"33.3","-97.8","United States","Texas",NULL
+1495,"31.9","-95.0","United States","Texas",NULL
+1496,"33.5","-97.0","United States","Texas",NULL
+1497,"32.7","-94.3","United States","Texas",NULL
+1498,"31.4","-95.5","United States","Texas",NULL
+1499,"31.1","-98.1","United States","Texas",NULL
+1500,"30.2","-95.6","United States","Texas",NULL
+1501,"31.3","-102.7","United States","Texas",NULL
+1502,"30.7","-94.9","United States","Texas",NULL
+1503,"33.7","-95.1","United States","Texas",NULL
+1504,"33.6","-95.2","United States","Texas",NULL
+1505,"31.9","-94.6","United States","Texas",NULL
+1506,"33.2","-99.2","United States","Texas",NULL
+1507,"30.5","-95.6","United States","Texas",NULL
+1508,"33.5","-95.8","United States","Texas",NULL
+1509,"32.6","-95.8","United States","Texas",NULL
+1510,"32.3","-95.0","United States","Texas",NULL
+1511,"30.8","-103.7","United States","Texas",NULL
+1512,"33.1","-98.3","United States","Texas",NULL
+1513,"33.8","-95.2","United States","Texas",NULL
+1514,"32.7","-94.6","United States","Texas",NULL
+1515,"33.5","-95.9","United States","Texas",NULL
+1516,"32.2","-97.5","United States","Texas",NULL
+1517,"32.4","-94.9","United States","Texas",NULL
+1518,"30.8","-94.4","United States","Texas",NULL
+1519,"33.3","-95.8","United States","Texas",NULL
+1520,"32.9","-96.1","United States","Texas",NULL
+1521,"32.0","-94.4","United States","Texas",NULL
+1522,"31.1","-102.4","United States","Texas",NULL
+1523,"33.2","-96.0","United States","Texas",NULL
+1524,"32.3","-94.7","United States","Texas",NULL
+1525,"33.7","-96.8","United States","Texas","Sadler"
+1526,"33.8","-95.8","United States","Texas",NULL
+1527,"31.5","-100.4","United States","Texas","San Angelo"
+1528,"33.6","-95.9","United States","Texas",NULL
+1529,"33.3","-94.4","United States","Texas",NULL
+1530,"32.8","-94.2","United States","Texas",NULL
+1531,"33.7","-95.3","United States","Texas",NULL
+1532,"32.6","-94.2","United States","Texas",NULL
+1533,"32.6","-94.5","United States","Texas",NULL
+1534,"32.7","-95.6","United States","Texas",NULL
+1535,"30.3","-94.8","United States","Texas",NULL
+1536,"30.4","-98.1","United States","Texas",NULL
+1537,"32.1","-94.2","United States","Texas",NULL
+1538,"30.1","-94.8","United States","Texas",NULL
+1539,"30.1","-94.9","United States","Texas",NULL
+1540,"32.5","-94.9","United States","Texas","Clarksville City"
+1541,"33.1","-94.3","United States","Texas",NULL
+1542,"29.9","-94.8","United States","Texas",NULL
+1543,"30.5","-95.1","United States","Texas",NULL
+1544,"29.2","-96.3","United States","Texas",NULL
+1545,"29.4","-96.2","United States","Texas",NULL
+1546,"29.0","-96.7","United States","Texas",NULL
+1547,"32.2","-101.4","United States","Texas",NULL
+1548,"30.7","-93.6","United States","Texas",NULL
+1549,"32.2","-95.2","United States","Texas",NULL
+1550,"32.8","-97.8","United States","Texas","Weatherford"
+1551,"30.4","-94.9","United States","Texas",NULL
+1552,"32.0","-94.7","United States","Texas",NULL
+1553,"33.0","-94.7","United States","Texas",NULL
+1554,"32.2","-95.6","United States","Texas",NULL
+1555,"32.0","-94.1","United States","Texas",NULL
+1556,"30.0","-94.8","United States","Texas",NULL
+1557,"29.0","-96.0","United States","Texas",NULL
+1558,"30.6","-95.6","United States","Texas",NULL
+1559,"30.4","-95.0","United States","Texas",NULL
+1560,"30.4","-93.9","United States","Texas",NULL
+1561,"30.6","-95.3","United States","Texas",NULL
+1562,"30.3","-95.3","United States","Texas",NULL
+1563,"32.0","-98.1","United States","Texas",NULL
+1564,"30.7","-94.7","United States","Texas",NULL
+1565,"31.0","-94.5","United States","Texas",NULL
+1566,"30.8","-94.0","United States","Texas",NULL
+1567,"30.8","-93.7","United States","Texas",NULL
+1568,"32.8","-98.3","United States","Texas",NULL
+1569,"31.6","-95.7","United States","Texas",NULL
+1570,"32.9","-95.5","United States","Texas",NULL
+1571,"33.4","-95.2","United States","Texas",NULL
+1572,"31.2","-95.6","United States","Texas",NULL
+1573,"30.1","-93.8","United States","Texas",NULL
+1574,"34.9","-101.7","United States","Texas",NULL
+1575,"29.6","-98.7","United States","Texas",NULL
+1576,"31.8","-95.4","United States","Texas",NULL
+1577,"30.3","-95.1","United States","Texas",NULL
+1578,"31.2","-94.5","United States","Texas",NULL
+1579,"31.9","-96.1","United States","Texas",NULL
+1580,"30.4","-95.1","United States","Texas",NULL
+1581,"32.4","-96.6","United States","Texas",NULL
+1582,"32.4","-96.7","United States","Texas",NULL
+1583,"30.3","-95.2","United States","Texas",NULL
+1584,"32.2","-95.4","United States","Texas",NULL
+1585,"32.7","-97.6","United States","Texas","Aledo"
+1586,"32.2","-95.1","United States","Texas",NULL
+1587,"29.3","-97.8","United States","Texas",NULL
+1588,"29.5","-98.2","United States","Texas",NULL
+1589,"33.4","-96.0","United States","Texas",NULL
+1590,"33.7","-98.2","United States","Texas",NULL
+1591,"30.4","-97.3","United States","Texas",NULL
+1592,"33.3","-98.3","United States","Texas",NULL
+1593,"35.9","-100.7","United States","Texas",NULL
+1594,"31.6","-95.4","United States","Texas",NULL
+1595,"32.3","-95.5","United States","Texas",NULL
+1596,"30.5","-97.7","United States","Texas","Round Rock"
+1597,"33.2","-94.1","United States","Texas",NULL
+1598,"30.2","-94.3","United States","Texas",NULL
+1599,"34.0","-94.3","United States","Arkansas",NULL
+1600,"31.2","-94.2","United States","Texas",NULL
+1601,"32.6","-97.8","United States","Texas","Weatherford"
+1602,"33.0","-94.4","United States","Texas",NULL
+1603,"30.8","-97.9","United States","Texas",NULL
+1604,"37.8","-111.3","United States","Utah",NULL
+1605,"40.4","-111.7","United States","Utah",NULL
+1606,"40.0","-110.9","United States","Utah",NULL
+1607,"41.5","-111.8","United States","Utah",NULL
+1608,"40.5","-109.9","United States","Utah",NULL
+1609,"38.2","-112.3","United States","Utah",NULL
+1610,"41.4","-111.5","United States","Utah",NULL
+1611,"38.0","-112.5","United States","Utah",NULL
+1612,"40.0","-111.5","United States","Utah",NULL
+1613,"41.5","-111.5","United States","Utah",NULL
+1614,"40.9","-111.1","United States","Utah",NULL
+1615,"40.9","-109.5","United States","Utah",NULL
+1616,"37.2","-113.7","United States","Utah",NULL
+1617,"41.7","-112.0","United States","Utah",NULL
+1618,"42.0","-111.5","United States","Utah",NULL
+1619,"40.9","-111.8","United States","Utah",NULL
+1620,"40.3","-111.3","United States","Utah",NULL
+1621,"38.5","-77.4","United States","Virginia",NULL
+1622,"38.1","-79.8","United States","Virginia",NULL
+1623,"37.3","-80.8","United States","Virginia",NULL
+1624,"38.4","-78.5","United States","Virginia",NULL
+1625,"37.0","-80.4","United States","Virginia",NULL
+1626,"37.2","-81.1","United States","Virginia",NULL
+1627,"37.2","-80.1","United States","Virginia",NULL
+1628,"37.7","-76.7","United States","Virginia",NULL
+1629,"38.0","-78.0","United States","Virginia",NULL
+1630,"36.6","-78.6","United States","Virginia",NULL
+1631,"37.6","-79.1","United States","Virginia",NULL
+1632,"37.1","-79.8","United States","Virginia",NULL
+1633,"37.4","-77.6","United States","Virginia",NULL
+1634,"36.7","-81.0","United States","Virginia",NULL
+1635,"37.5","-79.6","United States","Virginia",NULL
+1636,"37.4","-80.5","United States","Virginia",NULL
+1637,"38.7","-77.2","United States","Virginia",NULL
+1638,"36.7","-80.5","United States","Virginia",NULL
+1639,"38.7","-78.3","United States","Virginia",NULL
+1640,"37.0","-77.9","United States","Virginia",NULL
+1641,"39.0","-78.6","United States","Virginia",NULL
+1642,"38.5","-77.3","United States","Virginia",NULL
+1643,"36.6","-79.4","United States","Virginia","Danville"
+1644,"39.1","-77.7","United States","Virginia",NULL
+1645,"36.6","-81.5","United States","Virginia",NULL
+1646,"37.2","-77.4","United States","Virginia",NULL
+1647,"39.0","-78.2","United States","Virginia",NULL
+1648,"38.9","-78.5","United States","Virginia",NULL
+1649,"37.4","-79.6","United States","Virginia",NULL
+1650,"35.9","-80.7","United States","North Carolina",NULL
+1651,"37.0","-81.1","United States","Virginia",NULL
+1652,"37.3","-79.9","United States","Virginia",NULL
+1653,"37.3","-76.7","United States","Virginia",NULL
+1654,"38.6","-77.5","United States","Virginia",NULL
+1655,"37.1","-76.8","United States","Virginia","Surry"
+1656,"36.8","-81.4","United States","Virginia",NULL
+1657,"43.5","-72.7","United States","Vermont",NULL
+1658,"46.1","-122.6","United States","Washington",NULL
+1659,"47.3","-121.3","United States","Washington",NULL
+1660,"47.0","-122.3","United States","Washington",NULL
+1661,"46.3","-121.5","United States","Washington",NULL
+1662,"48.7","-117.8","United States","Washington",NULL
+1663,"48.2","-124.7","United States","Washington",NULL
+1664,"45.9","-122.4","United States","Washington",NULL
+1665,"46.4","-117.9","United States","Washington",NULL
+1666,"46.5","-118.0","United States","Washington",NULL
+1667,"46.2","-123.1","United States","Washington",NULL
+1668,"47.7","-122.9","United States","Washington",NULL
+1669,"47.0","-123.4","United States","Washington",NULL
+1670,"47.4","-121.4","United States","Washington",NULL
+1671,"47.3","-123.6","United States","Washington",NULL
+1672,"47.2","-123.9","United States","Washington",NULL
+1673,"45.8","-121.6","United States","Washington",NULL
+1674,"47.9","-122.0","United States","Washington",NULL
+1675,"46.8","-123.9","United States","Washington",NULL
+1676,"47.9","-123.4","United States","Washington",NULL
+1677,"48.8","-117.8","United States","Washington",NULL
+1678,"47.4","-123.9","United States","Washington",NULL
+1679,"47.0","-123.5","United States","Washington",NULL
+1680,"47.3","-121.9","United States","Washington",NULL
+1681,"47.3","-122.2","United States","Washington",NULL
+1682,"47.2","-121.8","United States","Washington",NULL
+1683,"47.5","-122.3","United States","Washington","Seattle"
+1684,"47.8","-122.7","United States","Washington",NULL
+1685,"45.8","-121.2","United States","Washington",NULL
+1686,"47.1","-123.1","United States","Washington",NULL
+1687,"48.1","-123.3","United States","Washington",NULL
+1688,"48.0","-122.0","United States","Washington",NULL
+1689,"47.3","-122.9","United States","Washington",NULL
+1690,"48.8","-117.4","United States","Washington",NULL
+1691,"48.7","-117.4","United States","Washington",NULL
+1692,"48.7","-117.3","United States","Washington",NULL
+1693,"46.9","-122.7","United States","Washington",NULL
+1694,"47.0","-121.5","United States","Washington",NULL
+1695,"47.4","-122.8","United States","Washington",NULL
+1696,"46.7","-122.2","United States","Washington",NULL
+1697,"48.4","-122.3","United States","Washington",NULL
+1698,"45.7","-122.0","United States","Washington",NULL
+1699,"46.4","-122.1","United States","Washington",NULL
+1700,"46.3","-122.2","United States","Washington",NULL
+1701,"46.2","-122.2","United States","Washington",NULL
+1702,"45.6","-122.0","United States","Washington",NULL
+1703,"45.7","-122.2","United States","Washington",NULL
+1704,"48.2","-121.9","United States","Washington",NULL
+1705,"48.1","-122.1","United States","Washington",NULL
+1706,"48.1","-121.4","United States","Washington",NULL
+1707,"47.8","-121.7","United States","Washington",NULL
+1708,"46.8","-122.4","United States","Washington",NULL
+1709,"47.0","-122.8","United States","Washington",NULL
+1710,"47.0","-122.2","United States","Washington",NULL
+1711,"46.7","-120.7","United States","Washington",NULL
+1712,"47.0","-121.1","United States","Washington",NULL
+1713,"46.2","-120.9","United States","Washington",NULL
+1714,"45.7","-121.8","United States","Oregon",NULL
+1715,"48.2","-121.7","United States","Washington",NULL
+1716,"47.9","-123.8","United States","Washington",NULL
+1717,"47.2","-122.2","United States","Washington",NULL
+1718,"48.8","-122.2","United States","Washington",NULL
+1719,"46.6","-122.3","United States","Washington",NULL
+1720,"48.1","-121.8","United States","Washington",NULL
+1721,"48.4","-120.1","United States","Washington",NULL
+1722,"46.2","-119.3","United States","Washington","Richland"
+1723,"46.6","-122.4","United States","Washington",NULL
+1724,"48.3","-121.3","United States","Washington",NULL
+1725,"47.4","-120.3","United States","Washington",NULL
+1726,"46.1","-118.1","United States","Washington",NULL
+1727,"46.9","-122.4","United States","Washington",NULL
+1728,"47.0","-123.6","United States","Washington",NULL
+1729,"49.0","-119.7","United States","Washington",NULL
+1730,"45.8","-122.5","United States","Washington",NULL
+1731,"46.1","-121.3","United States","Washington",NULL
+1732,"48.5","-121.3","United States","Washington",NULL
+1733,"47.3","-121.2","United States","Washington",NULL
+1734,"46.7","-121.6","United States","Washington",NULL
+1735,"47.0","-122.7","United States","Washington",NULL
+1736,"46.8","-122.2","United States","Washington",NULL
+1737,"48.9","-121.7","United States","Washington",NULL
+1738,"46.3","-122.5","United States","Washington",NULL
+1739,"47.6","-121.9","United States","Washington",NULL
+1740,"46.2","-123.2","United States","Washington",NULL
+1741,"46.4","-122.6","United States","Washington",NULL
+1742,"47.6","-121.3","United States","Washington",NULL
+1743,"46.7","-123.0","United States","Washington",NULL
+1744,"45.8","-121.9","United States","Washington",NULL
+1745,"46.3","-122.0","United States","Washington",NULL
+1746,"48.5","-121.7","United States","Washington",NULL
+1747,"47.3","-122.0","United States","Washington",NULL
+1748,"46.5","-122.4","United States","Washington",NULL
+1749,"47.8","-123.2","United States","Washington",NULL
+1750,"47.0","-121.6","United States","Washington",NULL
+1751,"45.9","-121.0","United States","Washington",NULL
+1752,"46.3","-123.5","United States","Washington",NULL
+1753,"48.8","-117.3","United States","Washington",NULL
+1754,"47.9","-122.8","United States","Washington",NULL
+1755,"46.5","-120.4","United States","Washington",NULL
+1756,"46.4","-123.6","United States","Washington",NULL
+1757,"45.8","-122.4","United States","Washington",NULL
+1758,"46.8","-121.1","United States","Washington",NULL
+1759,"47.4","-123.2","United States","Washington",NULL
+1760,"47.9","-121.6","United States","Washington",NULL
+1761,"46.0","-122.8","United States","Washington",NULL
+1762,"46.1","-118.0","United States","Washington",NULL
+1763,"47.8","-122.5","United States","Washington",NULL
+1764,"46.8","-124.1","United States","Washington",NULL
+1765,"47.4","-122.2","United States","Washington",NULL
+1766,"46.3","-121.9","United States","Washington",NULL
+1767,"47.9","-121.9","United States","Washington",NULL
+1768,"47.1","-122.2","United States","Washington",NULL
+1769,"48.7","-122.4","United States","Washington",NULL
+1770,"46.0","-122.0","United States","Washington",NULL
+1771,"47.6","-117.4","United States","Washington","Spokane"
+1772,"47.5","-121.5","United States","Washington",NULL
+1773,"43.7","-121.6","United States","Oregon",NULL
+1774,"47.2","-122.3","United States","Washington",NULL
+1775,"48.3","-120.1","United States","Washington",NULL
+1776,"47.0","-123.8","United States","Washington",NULL
+1777,"48.4","-121.9","United States","Washington",NULL
+1778,"47.1","-122.3","United States","Washington",NULL
+1779,"47.4","-124.0","United States","Washington",NULL
+1780,"47.7","-122.0","United States","Washington",NULL
+1781,"48.2","-120.8","United States","Washington",NULL
+1782,"47.7","-122.5","United States","Washington",NULL
+1783,"48.3","-119.2","United States","Washington",NULL
+1784,"46.8","-122.3","United States","Washington",NULL
+1785,"47.0","-122.0","United States","Washington",NULL
+1786,"48.4","-122.6","United States","Washington",NULL
+1787,"46.6","-123.4","United States","Washington",NULL
+1788,"47.0","-123.3","United States","Washington",NULL
+1789,"48.3","-120.7","United States","Washington",NULL
+1790,"46.5","-122.3","United States","Washington",NULL
+1791,"47.5","-123.2","United States","Washington",NULL
+1792,"47.0","-123.2","United States","Washington",NULL
+1793,"46.8","-122.1","United States","Washington",NULL
+1794,"47.5","-123.8","United States","Washington",NULL
+1795,"47.8","-122.2","United States","Washington",NULL
+1796,"47.4","-121.8","United States","Washington",NULL
+1797,"46.4","-123.8","United States","Washington",NULL
+1798,"47.5","-121.7","United States","Washington",NULL
+1799,"46.9","-121.2","United States","Washington",NULL
+1800,"46.9","-123.8","United States","Washington",NULL
+1801,"47.1","-121.9","United States","Washington",NULL
+1802,"47.7","-121.2","United States","Washington",NULL
+1803,"46.3","-122.3","United States","Washington",NULL
+1804,"47.6","-121.7","United States","Washington",NULL
+1805,"48.3","-122.2","United States","Washington",NULL
+1806,"48.3","-121.7","United States","Washington",NULL
+1807,"47.3","-124.2","United States","Washington",NULL
+1808,"47.1","-121.5","United States","Washington",NULL
+1809,"46.6","-122.8","United States","Washington",NULL
+1810,"46.0","-121.6","United States","Washington",NULL
+1811,"48.1","-123.4","United States","Washington",NULL
+1812,"47.1","-122.6","United States","Washington",NULL
+1813,"48.9","-122.3","United States","Washington",NULL
+1814,"46.8","-122.8","United States","Washington",NULL
+1815,"47.9","-124.4","United States","Washington",NULL
+1816,"45.9","-121.5","United States","Washington",NULL
+1817,"48.0","-121.7","United States","Washington",NULL
+1818,"46.5","-122.2","United States","Washington",NULL
+1819,"47.1","-123.7","United States","Washington",NULL
+1820,"47.1","-122.4","United States","Washington",NULL
+1821,"47.1","-122.5","United States","Washington",NULL
+1822,"48.1","-122.3","United States","Washington",NULL
+1823,"48.0","-122.9","United States","Washington",NULL
+1824,"47.1","-124.1","United States","Washington",NULL
+1825,"48.9","-122.0","United States","Washington",NULL
+1826,"46.8","-122.0","United States","Washington",NULL
+1827,"47.2","-121.0","United States","Washington",NULL
+1828,"47.4","-123.3","United States","Washington",NULL
+1829,"48.6","-118.4","United States","Washington",NULL
+1830,"48.6","-119.8","United States","Washington",NULL
+1831,"46.3","-122.4","United States","Washington",NULL
+1832,"48.0","-117.5","United States","Washington",NULL
+1833,"47.3","-122.7","United States","Washington",NULL
+1834,"48.9","-118.6","United States","Washington",NULL
+1835,"46.4","-121.8","United States","Washington",NULL
+1836,"47.8","-120.8","United States","Washington",NULL
+1837,"47.8","-124.2","United States","Washington",NULL
+1838,"48.5","-121.4","United States","Washington",NULL
+1839,"46.5","-121.9","United States","Washington",NULL
+1840,"48.0","-118.2","United States","Washington",NULL
+1841,"48.9","-122.2","United States","Washington",NULL
+1842,"46.2","-122.9","United States","Washington",NULL
+1843,"47.1","-124.2","United States","Washington",NULL
+1844,"47.7","-124.4","United States","Washington",NULL
+1845,"47.5","-122.7","United States","Washington","Bremerton"
+1846,"48.0","-117.7","United States","Washington",NULL
+1847,"46.9","-123.3","United States","Washington",NULL
+1848,"45.8","-121.5","United States","Washington",NULL
+1849,"44.8","-88.5","United States","Wisconsin",NULL
+1850,"45.5","-91.7","United States","Wisconsin",NULL
+1851,"44.7","-90.0","United States","Wisconsin",NULL
+1852,"45.9","-89.7","United States","Wisconsin",NULL
+1853,"45.3","-88.2","United States","Wisconsin",NULL
+1854,"45.8","-90.5","United States","Wisconsin",NULL
+1855,"45.2","-89.7","United States","Wisconsin",NULL
+1856,"45.6","-88.8","United States","Wisconsin",NULL
+1857,"45.5","-89.2","United States","Wisconsin",NULL
+1858,"45.8","-90.4","United States","Wisconsin",NULL
+1859,"45.1","-92.5","United States","Wisconsin",NULL
+1860,"44.4","-90.7","United States","Wisconsin",NULL
+1861,"45.1","-90.0","United States","Wisconsin",NULL
+1862,"44.4","-91.3","United States","Wisconsin",NULL
+1863,"46.1","-91.5","United States","Wisconsin",NULL
+1864,"45.7","-90.4","United States","Wisconsin",NULL
+1865,"45.0","-87.7","United States","Wisconsin",NULL
+1866,"44.8","-92.0","United States","Wisconsin",NULL
+1867,"45.6","-88.0","United States","Wisconsin",NULL
+1868,"45.4","-88.0","United States","Wisconsin",NULL
+1869,"45.6","-91.6","United States","Wisconsin",NULL
+1870,"45.1","-89.1","United States","Wisconsin",NULL
+1871,"43.1","-89.3","United States","Wisconsin","Madison"
+1872,"45.1","-87.7","United States","Michigan",NULL
+1873,"45.6","-88.1","United States","Wisconsin",NULL
+1874,"45.6","-92.1","United States","Wisconsin",NULL
+1875,"45.6","-90.0","United States","Wisconsin",NULL
+1876,"43.3","-88.3","United States","Wisconsin",NULL
+1877,"45.9","-90.4","United States","Wisconsin",NULL
+1878,"39.5","-80.4","United States","West Virginia",NULL
+1879,"39.5","-80.1","United States","West Virginia",NULL
+1880,"38.9","-79.3","United States","West Virginia",NULL
+1881,"39.0","-79.4","United States","West Virginia",NULL
+1882,"38.1","-82.6","United States","West Virginia",NULL
+1883,"38.3","-80.6","United States","West Virginia",NULL
+1884,"39.2","-81.2","United States","West Virginia",NULL
+1885,"40.1","-80.7","United States","West Virginia",NULL
+1886,"39.0","-81.9","United States","Ohio",NULL
+1887,"37.7","-80.8","United States","West Virginia",NULL
+1888,"38.7","-80.0","United States","West Virginia",NULL
+1889,"37.6","-81.3","United States","West Virginia",NULL
+1890,"39.5","-77.9","United States","West Virginia",NULL
+1891,"39.7","-79.5","United States","West Virginia",NULL
+1892,"38.2","-81.7","United States","West Virginia",NULL
+1893,"39.5","-78.5","United States","Maryland",NULL
+1894,"39.0","-80.0","United States","West Virginia",NULL
+1895,"37.3","-81.1","United States","West Virginia",NULL
+1896,"37.5","-80.0","United States","Virginia",NULL
+1897,"38.8","-79.4","United States","West Virginia",NULL
+1898,"38.3","-80.5","United States","West Virginia",NULL
+1899,"38.9","-79.5","United States","West Virginia",NULL
+1900,"37.5","-80.6","United States","West Virginia",NULL
+1901,"39.3","-78.9","United States","West Virginia",NULL
+1902,"38.2","-81.6","United States","West Virginia",NULL
+1903,"37.7","-81.1","United States","West Virginia",NULL
+1904,"39.3","-79.0","United States","West Virginia",NULL
+1905,"37.8","-80.9","United States","West Virginia",NULL
+1906,"38.0","-80.4","United States","West Virginia",NULL
+1907,"37.4","-80.2","United States","Virginia",NULL
+1908,"37.3","-81.7","United States","West Virginia",NULL
+1909,"39.1","-79.5","United States","West Virginia",NULL
+1910,"38.2","-82.3","United States","West Virginia",NULL
+1911,"37.9","-80.7","United States","West Virginia",NULL
+1912,"39.2","-80.2","United States","West Virginia",NULL
+1913,"39.0","-80.3","United States","West Virginia",NULL
+1914,"38.2","-80.1","United States","West Virginia",NULL
+1915,"38.3","-81.5","United States","West Virginia",NULL
+1916,"38.1","-81.1","United States","West Virginia",NULL
+1917,"38.4","-82.4","United States","West Virginia",NULL
+1918,"38.1","-80.7","United States","West Virginia",NULL
+1919,"38.9","-79.6","United States","West Virginia",NULL
+1920,"38.4","-79.1","United States","Virginia",NULL
+1921,"37.3","-81.8","United States","West Virginia",NULL
+1922,"38.1","-81.8","United States","West Virginia",NULL
+1923,"44.5","-110.0","United States","Wyoming",NULL
+1924,"44.5","-109.8","United States","Wyoming",NULL
+1925,"44.5","-109.7","United States","Wyoming",NULL
+1926,"44.5","-109.5","United States","Wyoming",NULL
+1927,"46.8","-110.4","United States","Montana",NULL
+1928,"44.6","-110.5","United States","Wyoming",NULL
+1929,"41.2","-111.0","United States","Utah",NULL
+1930,"41.2","-110.5","United States","Wyoming",NULL
+1931,"43.0","-108.9","United States","Wyoming",NULL
+1932,"55.5","-132.7","United States","Alaska",NULL
+1933,"57.8","-156.0","United States","Alaska",NULL
+1934,"64.0","-142.8","United States","Alaska",NULL
+1935,"33.7","-85.6","United States","Alabama",NULL
+1936,"33.5","-85.8","United States","Alabama",NULL
+1937,"32.4","-86.6","United States","Alabama",NULL
+1938,"31.3","-86.3","United States","Alabama",NULL
+1939,"33.0","-86.0","United States","Alabama",NULL
+1940,"33.6","-86.3","United States","Alabama",NULL
+1941,"31.9","-85.9","United States","Alabama",NULL
+1942,"32.0","-87.3","United States","Alabama",NULL
+1943,"30.5","-88.3","United States","Alabama",NULL
+1944,"32.7","-85.2","United States","Alabama",NULL
+1945,"33.1","-86.9","United States","Alabama",NULL
+1946,"31.4","-85.7","United States","Alabama",NULL
+1947,"33.5","-85.9","United States","Alabama",NULL
+1948,"31.2","-87.5","United States","Alabama",NULL
+1949,"34.6","-86.6","United States","Alabama",NULL
+1950,"34.9","-88.0","United States","Alabama",NULL
+1951,"31.3","-85.6","United States","Alabama",NULL
+1952,"33.2","-87.3","United States","Alabama",NULL
+1953,"34.6","-85.8","United States","Alabama",NULL
+1954,"34.0","-85.9","United States","Alabama",NULL
+1955,"33.1","-85.5","United States","Alabama",NULL
+1956,"33.9","-87.4","United States","Alabama",NULL
+1957,"31.8","-87.6","United States","Alabama",NULL
+1958,"34.2","-85.1","United States","Georgia",NULL
+1959,"33.2","-85.8","United States","Alabama",NULL
+1960,"30.3","-87.6","United States","Alabama",NULL
+1961,"35.1","-90.2","United States","Arkansas","West Memphis"
+1962,"33.3","-93.8","United States","Arkansas",NULL
+1963,"36.3","-94.1","United States","Arkansas",NULL
+1964,"34.5","-92.7","United States","Arkansas",NULL
+1965,"34.5","-92.6","United States","Arkansas",NULL
+1966,"35.8","-92.9","United States","Arkansas",NULL
+1967,"34.4","-93.2","United States","Arkansas",NULL
+1968,"36.4","-92.6","United States","Arkansas",NULL
+1969,"35.8","-92.4","United States","Arkansas",NULL
+1970,"36.1","-93.9","United States","Arkansas",NULL
+1971,"35.2","-94.1","United States","Arkansas",NULL
+1972,"35.1","-92.0","United States","Arkansas",NULL
+1973,"35.0","-91.0","United States","Arkansas",NULL
+1974,"35.1","-93.5","United States","Arkansas",NULL
+1975,"35.2","-93.4","United States","Arkansas",NULL
+1976,"33.9","-94.1","United States","Arkansas",NULL
+1977,"34.6","-92.2","United States","Arkansas",NULL
+1978,"34.1","-94.3","United States","Arkansas",NULL
+1979,"33.4","-91.5","United States","Arkansas",NULL
+1980,"36.2","-93.6","United States","Arkansas",NULL
+1981,"35.6","-93.2","United States","Arkansas",NULL
+1982,"34.6","-94.2","United States","Arkansas",NULL
+1983,"34.4","-111.0","United States","Arizona",NULL
+1984,"35.0","-111.5","United States","Arizona",NULL
+1985,"32.6","-110.2","United States","Arizona",NULL
+1986,"35.1","-111.6","United States","Arizona","Flagstaff"
+1987,"33.9","-109.4","United States","Arizona",NULL
+1988,"36.0","-109.2","United States","Arizona",NULL
+1989,"34.8","-111.9","United States","Arizona",NULL
+1990,"34.3","-111.0","United States","Arizona",NULL
+1991,"36.3","-109.1","United States","Arizona",NULL
+1992,"34.7","-112.0","United States","Arizona",NULL
+1993,"36.4","-112.0","United States","Arizona",NULL
+1994,"34.5","-111.1","United States","Arizona",NULL
+1995,"35.1","-111.7","United States","Arizona",NULL
+1996,"36.7","-112.2","United States","Arizona",NULL
+1997,"34.4","-111.4","United States","Arizona",NULL
+1998,"35.3","-111.7","United States","Arizona",NULL
+1999,"34.6","-111.4","United States","Arizona",NULL
+2000,"31.6","-110.2","United States","Arizona",NULL
+2001,"33.8","-110.9","United States","Arizona",NULL
+2002,"36.3","-112.1","United States","Arizona",NULL
+2003,"34.5","-112.5","United States","Arizona",NULL
+2004,"32.7","-110.0","United States","Arizona",NULL
+2005,"34.0","-110.5","United States","Arizona",NULL
+2006,"36.2","-109.1","United States","Arizona",NULL
+2007,"34.5","-113.5","United States","Arizona",NULL
+2008,"34.3","-110.8","United States","Arizona",NULL
+2009,"36.6","-112.2","United States","Arizona",NULL
+2010,"34.5","-111.4","United States","Arizona",NULL
+2011,"34.4","-111.1","United States","Arizona",NULL
+2012,"32.7","-109.9","United States","Arizona",NULL
+2013,"34.2","-110.6","United States","Arizona",NULL
+2014,"32.4","-109.6","United States","Arizona",NULL
+2015,"34.0","-109.7","United States","Arizona",NULL
+2016,"34.7","-111.7","United States","Arizona",NULL
+2017,"34.4","-111.3","United States","Arizona",NULL
+2018,"41.7","-120.3","United States","California",NULL
+2019,"41.2","-123.9","United States","California",NULL
+2020,"38.1","-119.7","United States","California",NULL
+2021,"39.0","-120.8","United States","California",NULL
+2022,"38.3","-120.7","United States","California",NULL
+2023,"37.9","-120.0","United States","California",NULL
+2024,"35.8","-118.4","United States","California",NULL
+2025,"38.3","-119.7","United States","California",NULL
+2026,"39.9","-121.0","United States","California",NULL
+2027,"41.5","-120.5","United States","California",NULL
+2028,"38.2","-120.1","United States","California",NULL
+2029,"38.1","-120.1","United States","California",NULL
+2030,"40.5","-121.9","United States","California",NULL
+2031,"41.3","-124.1","United States","California",NULL
+2032,"37.7","-119.0","United States","California",NULL
+2033,"38.3","-120.3","United States","California",NULL
+2034,"38.0","-120.3","United States","California",NULL
+2035,"37.8","-119.1","United States","California",NULL
+2036,"36.2","-118.7","United States","California",NULL
+2037,"39.3","-120.7","United States","California",NULL
+2038,"37.3","-119.0","United States","California",NULL
+2039,"38.9","-121.1","United States","California",NULL
+2040,"40.6","-122.4","United States","California","Redding"
+2041,"41.4","-123.7","United States","California",NULL
+2042,"38.5","-120.0","United States","California",NULL
+2043,"40.5","-121.7","United States","California",NULL
+2044,"38.2","-120.2","United States","California",NULL
+2045,"39.4","-123.8","United States","California",NULL
+2046,"36.1","-118.5","United States","California",NULL
+2047,"39.6","-121.3","United States","California",NULL
+2048,"37.1","-119.0","United States","California",NULL
+2049,"37.7","-119.4","United States","California",NULL
+2050,"40.9","-123.6","United States","California",NULL
+2051,"35.6","-118.6","United States","California",NULL
+2052,"33.8","-116.7","United States","California",NULL
+2053,"41.8","-124.2","United States","California","Crescent City"
+2054,"35.5","-118.3","United States","California",NULL
+2055,"38.2","-120.4","United States","California",NULL
+2056,"41.3","-123.2","United States","California",NULL
+2057,"38.8","-119.8","United States","California",NULL
+2058,"39.0","-120.2","United States","California",NULL
+2059,"40.1","-123.2","United States","California",NULL
+2060,"35.4","-118.6","United States","California",NULL
+2061,"38.8","-120.6","United States","California",NULL
+2062,"36.5","-118.6","United States","California",NULL
+2063,"40.2","-123.5","United States","California",NULL
+2064,"38.5","-123.2","United States","California",NULL
+2065,"37.8","-119.9","United States","California",NULL
+2066,"41.0","-122.7","United States","California",NULL
+2067,"39.1","-121.4","United States","California",NULL
+2068,"39.1","-120.5","United States","California",NULL
+2069,"39.6","-120.8","United States","California",NULL
+2070,"41.2","-123.7","United States","California",NULL
+2071,"41.0","-122.9","United States","California",NULL
+2072,"41.7","-122.6","United States","California",NULL
+2073,"38.3","-120.4","United States","California",NULL
+2074,"38.4","-122.6","United States","California",NULL
+2075,"39.8","-123.1","United States","California",NULL
+2076,"40.9","-121.7","United States","California",NULL
+2077,"39.5","-121.5","United States","California",NULL
+2078,"38.4","-120.5","United States","California",NULL
+2079,"39.6","-121.5","United States","California",NULL
+2080,"38.8","-122.7","United States","California",NULL
+2081,"39.2","-123.2","United States","California",NULL
+2082,"37.8","-119.5","United States","California",NULL
+2083,"40.9","-123.7","United States","California",NULL
+2084,"36.2","-118.2","United States","California",NULL
+2085,"38.6","-120.0","United States","California",NULL
+2086,"35.3","-119.0","United States","California","Bakersfield"
+2087,"34.6","-120.0","United States","California",NULL
+2088,"37.5","-120.1","United States","California",NULL
+2089,"41.8","-123.4","United States","California",NULL
+2090,"34.2","-118.2","United States","California",NULL
+2091,"34.3","-117.8","United States","California",NULL
+2092,"40.4","-120.7","United States","California",NULL
+2093,"39.4","-120.9","United States","California",NULL
+2094,"39.1","-120.2","United States","California",NULL
+2095,"40.9","-122.2","United States","California",NULL
+2096,"40.3","-124.2","United States","California",NULL
+2097,"39.1","-123.4","United States","California",NULL
+2098,"38.4","-119.8","United States","California",NULL
+2099,"39.4","-120.4","United States","California",NULL
+2100,"37.1","-121.8","United States","California",NULL
+2101,"37.1","-118.9","United States","California",NULL
+2102,"37.3","-118.9","United States","California",NULL
+2103,"37.9","-119.2","United States","California",NULL
+2104,"38.8","-120.1","United States","California",NULL
+2105,"37.2","-118.4","United States","California",NULL
+2106,"39.0","-121.0","United States","California",NULL
+2107,"41.2","-123.3","United States","California",NULL
+2108,"35.7","-118.0","United States","California",NULL
+2109,"36.1","-118.2","United States","California",NULL
+2110,"37.8","-118.5","United States","California",NULL
+2111,"40.4","-124.0","United States","California",NULL
+2112,"38.1","-120.0","United States","California",NULL
+2113,"33.7","-116.7","United States","California",NULL
+2114,"38.4","-120.1","United States","California",NULL
+2115,"34.0","-117.0","United States","California",NULL
+2116,"38.0","-119.2","United States","California",NULL
+2117,"35.6","-118.4","United States","California",NULL
+2118,"36.0","-118.4","United States","California",NULL
+2119,"41.8","-124.1","United States","California",NULL
+2120,"35.2","-118.6","United States","California",NULL
+2121,"38.0","-120.0","United States","California",NULL
+2122,"33.8","-116.6","United States","California","Palm Springs"
+2123,"40.8","-122.6","United States","California",NULL
+2124,"34.3","-116.8","United States","California",NULL
+2125,"41.1","-122.7","United States","California",NULL
+2126,"34.7","-118.5","United States","California",NULL
+2127,"35.1","-118.3","United States","California",NULL
+2128,"32.8","-116.4","United States","California",NULL
+2129,"40.6","-122.6","United States","California",NULL
+2130,"35.8","-118.6","United States","California",NULL
+2131,"38.8","-120.4","United States","California",NULL
+2132,"34.3","-117.2","United States","California",NULL
+2133,"40.8","-122.1","United States","California",NULL
+2134,"37.2","-118.5","United States","California",NULL
+2135,"33.0","-116.6","United States","California",NULL
+2136,"40.0","-123.9","United States","California",NULL
+2137,"39.8","-121.0","United States","California",NULL
+2138,"38.0","-119.1","United States","California",NULL
+2139,"36.6","-118.8","United States","California",NULL
+2140,"40.0","-123.8","United States","California",NULL
+2141,"41.0","-123.7","United States","California",NULL
+2142,"41.1","-124.1","United States","California",NULL
+2143,"40.4","-120.8","United States","California",NULL
+2144,"38.8","-121.0","United States","California",NULL
+2145,"40.6","-121.6","United States","California",NULL
+2146,"55.3","-119.9","Canada","Alberta",NULL
+2147,"54.9","-112.7","Canada","Alberta",NULL
+2148,"53.5","-119.2","Canada","Alberta",NULL
+2149,"55.4","-119.2","Canada","Alberta",NULL
+2150,"50.7","-112.8","Canada","Alberta",NULL
+2151,"50.0","-112.9","Canada","Alberta",NULL
+2152,"54.3","-113.5","Canada","Alberta",NULL
+2153,"51.0","-114.8","Canada","Alberta",NULL
+2154,"51.4","-115.1","Canada","Alberta",NULL
+2155,"54.7","-117.2","Canada","Alberta",NULL
+2156,"51.2","-114.8","Canada","Alberta",NULL
+2157,"53.1","-117.8","Canada","Alberta",NULL
+2158,"50.6","-115.1","Canada","British Columbia","Area A (Upper Flathead/Elk Valley)"
+2159,"51.0","-115.1","Canada","Alberta",NULL
+2160,"52.8","-116.4","Canada","Alberta",NULL
+2161,"50.8","-114.8","Canada","Alberta",NULL
+2162,"52.8","-118.2","Canada","Alberta",NULL
+2163,"49.7","-125.3","Canada","British Columbia","Area C (Puntledge/Black Creek)"
+2164,"49.5","-125.2","Canada","British Columbia","Area C (Puntledge/Black Creek)"
+2165,"50.5","-116.1","Canada","British Columbia","Area F (Columbia Lake/Windermere Lake)"
+2166,"53.2","-120.1","Canada","British Columbia","Area H (Robson Valley/Canoe)"
+2167,"53.5","-124.3","Canada","British Columbia","Area F (Chilako Valley/Dog Creek)"
+2168,"49.2","-121.8","Canada","British Columbia","Kent"
+2169,"50.1","-125.6","Canada","British Columbia","Area A (Kyuquot/Nootka/Sayward)"
+2170,"49.8","-117.1","Canada","British Columbia","Area D (Lardeau Valley/Duncan Lake)"
+2171,"49.3","-121.8","Canada","British Columbia","Kent"
+2172,"50.7","-120.1","Canada","British Columbia","Area P (Rivers and the Peaks)"
+2173,"58.5","-122.5","Canada","British Columbia",NULL
+2174,"49.7","-119.7","Canada","British Columbia","Area F (Trout Creek Valley)"
+2175,"51.3","-117.0","Canada","British Columbia",NULL
+2176,"50.6","-119.1","Canada","British Columbia","Area F (Grindrod/Ashton Creek/Mabel Lake)"
+2177,"51.3","-116.2","Canada","British Columbia","Area G (Forster Creek/Mount Assiniboine)"
+2178,"49.7","-122.8","Canada","British Columbia","Area F (McConnell Creek/Hatzic Prairie)"
+2179,"49.5","-123.8","Canada","British Columbia","Area B (Halfmoon Bay)"
+2180,"51.0","-121.6","Canada","British Columbia","Area E (Bonaparte Plateau)"
+2181,"50.0","-119.5","Canada","British Columbia","West Central Okanagan Electoral Area"
+2182,"50.2","-118.8","Canada","British Columbia","Area D (Trinity/West Creighton)"
+2183,"48.9","-123.9","Canada","British Columbia","Area F (Cowichan Lake South / Skutz Falls)"
+2184,"50.1","-121.0","Canada","British Columbia","Area N (Beautiful Nicola Valley - South)"
+2185,"49.3","-121.6","Canada","British Columbia","Area B (South Fraser Canyon/Sunshine Valley)"
+2186,"50.4","-119.1","Canada","British Columbia","Area C (Silver Star)"
+2187,"56.5","-129.4","Canada","British Columbia","Area A (Nass Valley/Bell Irving)"
+2188,"49.5","-122.3","Canada","British Columbia","Area F (McConnell Creek/Hatzic Prairie)"
+2189,"49.5","-121.3","Canada","British Columbia","Area B (South Fraser Canyon/Sunshine Valley)"
+2190,"43.3","-119.5","United States","Oregon",NULL
+2191,"55.9","-120.7","Canada","British Columbia","Area D (Kiskatinaw Valley)"
+2192,"49.6","-125.4","Canada","British Columbia","Area D (Sproat Lake)"
+2193,"50.9","-121.9","Canada","British Columbia","Area B (Cayoosh/Pavilion)"
+2194,"49.0","-123.9","Canada","British Columbia","Area A (Cassidy/Cedar)"
+2195,"50.6","-117.9","Canada","British Columbia","Area B (Shelter Bay/Mica Creek)"
+2196,"49.8","-122.3","Canada","British Columbia","Area C (Sasquatch Country)"
+2197,"50.2","-124.4","Canada","British Columbia","Area A (Malaspina/Toba)"
+2198,"49.2","-121.6","Canada","British Columbia","Area E (Chilliwack River Valley)"
+2199,"50.4","-119.2","Canada","British Columbia","Spallumcheen"
+2200,"49.1","-125.5","Canada","British Columbia","Area C (Long Beach)"
+2201,"49.1","-121.3","Canada","British Columbia","Area B (South Fraser Canyon/Sunshine Valley)"
+2202,"50.4","-118.8","Canada","British Columbia","Area D (Trinity/West Creighton)"
+2203,"49.1","-124.2","Canada","British Columbia","Area C (Arrowsmith-Benson)"
+2204,"48.7","-124.2","Canada","British Columbia","Area F (Cowichan Lake South / Skutz Falls)"
+2205,"50.5","-119.6","Canada","British Columbia","Area D (Falkland/Silver Creek)"
+2206,"54.8","-127.2","Canada","British Columbia",NULL
+2207,"50.2","-122.3","Canada","British Columbia","Area C (Pemberton Valley/Mount Currie/D'Arcy)"
+2208,"49.5","-124.9","Canada","British Columbia","Area A (Baynes Sound)"
+2209,"50.5","-125.9","Canada","British Columbia","Area B (Discovery Islands/Mainland Inlets)"
+2210,"49.6","-124.8","Canada","British Columbia","Area A (Baynes Sound)"
+2211,"50.8","-120.1","Canada","British Columbia","Area P (Rivers and the Peaks)"
+2212,"50.1","-100.8","Canada","Manitoba",NULL
+2213,"50.9","-95.3","Canada","Manitoba",NULL
+2214,"50.1","-95.3","Canada","Manitoba",NULL
+2215,"50.9","-95.4","Canada","Manitoba",NULL
+2216,"53.7","-101.5","Canada","Manitoba",NULL
+2217,"49.8","-100.1","Canada","Manitoba","Rural Municipality of Whitehead"
+2218,"45.9","-64.4","Canada","New Brunswick / Nouveau-Brunswick",NULL
+2219,"44.9","-63.8","Canada","Nova Scotia",NULL
+2220,"44.1","-77.5","Canada","Ontario","Quinte West"
+2221,"48.8","-88.6","Canada","Ontario",NULL
+2222,"48.6","-93.3","United States","Minnesota",NULL
+2223,"46.3","-79.4","Canada","Ontario","North Bay"
+2224,"46.3","-83.7","Canada","Ontario","Plummer Additional Township"
+2225,"45.3","-76.0","Canada","Ontario","Ottawa"
+2226,"47.1","-79.7","Canada","Ontario",NULL
+2227,"44.8","-76.1","Canada","Ontario","Elizabethtown-Kitley"
+2228,"49.8","-92.8","Canada","Ontario","Dryden"
+2229,"45.5","-78.9","Canada","Ontario","Unorganized South Nipissing"
+2230,"47.6","-84.7","Canada","Ontario","Unorganized North Algoma"
+2231,"48.0","-84.7","Canada","Ontario",NULL
+2232,"44.2","-78.5","Canada","Ontario","Cavan-Monaghan"
+2233,"45.7","-78.9","Canada","Ontario","Unorganized South Nipissing"
+2234,"48.6","-90.4","Canada","Ontario","Unorganized Thunder Bay District"
+2235,"44.4","-80.6","Canada","Ontario","Grey Highlands"
+2236,"44.7","-76.9","Canada","Ontario","Central Frontenac"
+2237,"48.4","-89.3","Canada","Ontario","Thunder Bay"
+2238,"45.6","-78.9","Canada","Ontario","Unorganized South Nipissing"
+2239,"48.1","-91.4","Canada","Ontario","Unorganized Rainy River"
+2240,"46.1","-83.5","Canada","Ontario",NULL
+2241,"48.6","-89.2","Canada","Ontario","Unorganized Thunder Bay District"
+2242,"44.7","-76.4","Canada","Ontario","Rideau Lakes"
+2243,"44.8","-76.4","Canada","Ontario","Tay Valley"
+2244,"45.5","-77.9","Canada","Ontario","South Algonquin Township"
+2245,"57.8","-69.5","Canada","Québec","Rivière-Koksoak"
+2246,"45.7","-76.6","Canada","Québec",NULL
+2247,"47.4","-78.6","Canada","Québec",NULL
+2248,"46.0","-76.9","Canada","Québec",NULL
+2249,"49.8","-110.1","Canada","Alberta",NULL
+2250,"52.9","-106.1","Canada","Saskatchewan",NULL
+2251,"54.3","-107.7","Canada","Saskatchewan",NULL
+2252,"53.7","-105.9","Canada","Saskatchewan",NULL
+2253,"52.6","-103.9","Canada","Saskatchewan",NULL
+2254,"62.1","-136.3","Canada","Yukon",NULL
+2255,"38.5","-107.7","United States","Colorado",NULL
+2256,"37.1","-106.4","United States","Colorado",NULL
+2257,"39.2","-106.1","United States","Colorado",NULL
+2258,"40.0","-105.4","United States","Colorado",NULL
+2259,"37.2","-107.2","United States","Colorado",NULL
+2260,"38.9","-105.5","United States","Colorado",NULL
+2261,"38.6","-106.3","United States","Colorado",NULL
+2262,"38.7","-105.2","United States","Colorado",NULL
+2263,"38.9","-105.4","United States","Colorado",NULL
+2264,"38.9","-107.6","United States","Colorado",NULL
+2265,"39.2","-106.0","United States","Colorado",NULL
+2266,"38.7","-105.0","United States","Colorado",NULL
+2267,"39.1","-105.0","United States","Colorado",NULL
+2268,"37.7","-108.0","United States","Colorado",NULL
+2269,"37.4","-108.1","United States","Colorado",NULL
+2270,"37.4","-107.5","United States","Colorado",NULL
+2271,"40.6","-106.7","United States","Colorado",NULL
+2272,"39.4","-105.1","United States","Colorado",NULL
+2273,"39.3","-106.1","United States","Colorado",NULL
+2274,"40.0","-107.4","United States","Colorado",NULL
+2275,"37.9","-107.2","United States","Colorado",NULL
+2276,"39.0","-106.8","United States","Colorado",NULL
+2277,"40.3","-107.9","United States","Colorado",NULL
+2278,"40.5","-106.8","United States","Colorado",NULL
+2279,"37.3","-106.3","United States","Colorado",NULL
+2280,"39.0","-108.1","United States","Colorado",NULL
+2281,"37.2","-106.5","United States","Colorado",NULL
+2282,"39.9","-106.7","United States","Colorado",NULL
+2283,"37.3","-107.5","United States","Colorado",NULL
+2284,"38.9","-105.3","United States","Colorado",NULL
+2285,"37.6","-105.3","United States","Colorado",NULL
+2286,"40.3","-105.6","United States","Colorado",NULL
+2287,"38.8","-105.9","United States","Colorado",NULL
+2288,"40.3","-105.8","United States","Colorado",NULL
+2289,"39.4","-105.7","United States","Colorado",NULL
+2290,"40.3","-105.2","United States","Colorado",NULL
+2291,"39.3","-105.7","United States","Colorado",NULL
+2292,"38.7","-106.2","United States","Colorado",NULL
+2293,"38.0","-107.2","United States","Colorado",NULL
+2294,"41.5","-72.5","United States","Connecticut",NULL
+2295,"41.9","-73.0","United States","Connecticut",NULL
+2296,"41.7","-73.4","United States","Connecticut",NULL
+2297,"41.4","-72.3","United States","Connecticut",NULL
+2298,"41.4","-72.0","United States","Connecticut",NULL
+2299,"41.8","-73.2","United States","Connecticut",NULL
+2300,"42.0","-73.0","United States","Connecticut",NULL
+2301,"42.0","-73.3","United States","Connecticut",NULL
+2302,"41.7","-72.9","United States","Connecticut",NULL
+2303,"41.8","-73.5","United States","Connecticut",NULL
+2304,"41.5","-73.3","United States","Connecticut",NULL
+2305,"38.9","-75.4","United States","Delaware",NULL
+2306,"38.7","-75.4","United States","Delaware",NULL
+2307,"38.7","-75.2","United States","Delaware",NULL
+2308,"29.1","-82.8","United States","Florida",NULL
+2309,"29.0","-82.0","United States","Florida",NULL
+2310,"29.0","-80.9","United States","Florida","New Smyrna Beach"
+2311,"28.7","-81.3","United States","Florida",NULL
+2312,"25.8","-81.1","United States","Florida",NULL
+2313,"25.8","-81.3","United States","Florida",NULL
+2314,"28.0","-82.0","United States","Florida",NULL
+2315,"30.3","-85.4","United States","Florida",NULL
+2316,"26.7","-81.9","United States","Florida",NULL
+2317,"30.1","-81.4","United States","Florida",NULL
+2318,"28.4","-82.1","United States","Florida",NULL
+2319,"29.1","-82.6","United States","Florida",NULL
+2320,"29.8","-85.1","United States","Florida",NULL
+2321,"27.2","-82.2","United States","Florida",NULL
+2322,"27.8","-81.3","United States","Florida",NULL
+2323,"26.7","-81.6","United States","Florida",NULL
+2324,"29.8","-81.5","United States","Florida",NULL
+2325,"28.6","-82.1","United States","Florida",NULL
+2326,"29.0","-81.5","United States","Florida",NULL
+2327,"26.5","-81.6","United States","Florida",NULL
+2328,"30.3","-85.6","United States","Florida","Panama City"
+2329,"26.1","-81.7","United States","Florida",NULL
+2330,"27.4","-81.0","United States","Florida",NULL
+2331,"28.9","-81.9","United States","Florida",NULL
+2332,"26.1","-81.4","United States","Florida",NULL
+2333,"30.3","-81.5","United States","Florida","Jacksonville"
+2334,"27.9","-81.9","United States","Florida",NULL
+2335,"25.9","-81.1","United States","Florida",NULL
+2336,"28.5","-81.6","United States","Florida",NULL
+2337,"26.2","-81.0","United States","Florida",NULL
+2338,"27.9","-81.6","United States","Florida",NULL
+2339,"26.3","-80.3","United States","Florida","Coral Springs"
+2340,"27.4","-82.4","United States","Florida",NULL
+2341,"27.9","-82.1","United States","Florida",NULL
+2342,"26.0","-81.4","United States","Florida",NULL
+2343,"29.0","-81.8","United States","Florida",NULL
+2344,"26.8","-81.9","United States","Florida",NULL
+2345,"26.3","-81.3","United States","Florida",NULL
+2346,"30.1","-85.1","United States","Florida",NULL
+2347,"30.3","-82.8","United States","Florida",NULL
+2348,"28.5","-82.1","United States","Florida",NULL
+2349,"28.8","-81.5","United States","Florida",NULL
+2350,"30.8","-85.7","United States","Florida",NULL
+2351,"30.1","-82.4","United States","Florida",NULL
+2352,"25.2","-80.9","United States","Florida",NULL
+2353,"30.9","-86.7","United States","Florida",NULL
+2354,"29.6","-82.1","United States","Florida",NULL
+2355,"30.8","-86.7","United States","Florida",NULL
+2356,"28.5","-81.1","United States","Florida",NULL
+2357,"29.8","-81.9","United States","Florida",NULL
+2358,"26.9","-80.5","United States","Florida",NULL
+2359,"30.4","-82.3","United States","Florida",NULL
+2360,"30.6","-83.6","United States","Florida",NULL
+2361,"30.3","-81.9","United States","Florida","Jacksonville"
+2362,"31.0","-87.3","United States","Florida",NULL
+2363,"30.0","-82.0","United States","Florida",NULL
+2364,"27.1","-82.0","United States","Florida",NULL
+2365,"29.2","-81.8","United States","Florida",NULL
+2366,"30.1","-83.9","United States","Florida",NULL
+2367,"28.8","-82.2","United States","Florida",NULL
+2368,"28.9","-82.3","United States","Florida",NULL
+2369,"29.3","-82.9","United States","Florida",NULL
+2370,"29.0","-81.4","United States","Florida","DeLand"
+2371,"29.4","-81.1","United States","Florida",NULL
+2372,"29.3","-82.6","United States","Florida",NULL
+2373,"26.2","-81.7","United States","Florida",NULL
+2374,"30.6","-83.5","United States","Florida",NULL
+2375,"29.9","-82.2","United States","Florida",NULL
+2376,"30.1","-83.0","United States","Florida",NULL
+2377,"28.4","-81.6","United States","Florida",NULL
+2378,"26.9","-82.0","United States","Florida","Punta Gorda"
+2379,"29.5","-81.8","United States","Florida",NULL
+2380,"28.9","-81.3","United States","Florida",NULL
+2381,"28.1","-81.0","United States","Florida",NULL
+2382,"30.4","-81.4","United States","Florida","Jacksonville"
+2383,"29.0","-81.2","United States","Florida",NULL
+2384,"28.6","-81.0","United States","Florida",NULL
+2385,"28.5","-80.9","United States","Florida",NULL
+2386,"27.0","-80.3","United States","Florida",NULL
+2387,"25.7","-80.5","United States","Florida",NULL
+2388,"28.9","-82.0","United States","Florida",NULL
+2389,"27.1","-82.3","United States","Florida",NULL
+2390,"28.1","-81.4","United States","Florida",NULL
+2391,"26.0","-81.6","United States","Florida",NULL
+2392,"30.0","-81.4","United States","Florida","Saint Augustine"
+2393,"27.3","-81.0","United States","Florida",NULL
+2394,"28.5","-81.0","United States","Florida",NULL
+2395,"30.5","-85.5","United States","Florida",NULL
+2396,"28.7","-81.7","United States","Florida",NULL
+2397,"27.5","-80.8","United States","Florida",NULL
+2398,"28.1","-81.5","United States","Florida",NULL
+2399,"30.0","-81.6","United States","Florida",NULL
+2400,"29.1","-82.7","United States","Florida",NULL
+2401,"28.2","-81.5","United States","Florida",NULL
+2402,"30.2","-85.8","United States","Florida",NULL
+2403,"28.6","-82.6","United States","Florida",NULL
+2404,"27.9","-81.7","United States","Florida",NULL
+2405,"27.4","-82.1","United States","Florida",NULL
+2406,"30.6","-83.4","United States","Florida",NULL
+2407,"26.2","-81.2","United States","Florida",NULL
+2408,"30.2","-84.7","United States","Florida",NULL
+2409,"30.8","-86.6","United States","Florida",NULL
+2410,"29.2","-81.3","United States","Florida",NULL
+2411,"27.8","-82.2","United States","Florida",NULL
+2412,"34.0","-84.7","United States","Georgia",NULL
+2413,"34.0","-84.2","United States","Georgia",NULL
+2414,"32.0","-84.4","United States","Georgia",NULL
+2415,"34.7","-85.4","United States","Georgia",NULL
+2416,"34.4","-84.6","United States","Georgia",NULL
+2417,"32.0","-81.9","United States","Georgia",NULL
+2418,"33.4","-82.1","United States","Georgia","Augusta"
+2419,"34.2","-84.5","United States","Georgia",NULL
+2420,"34.8","-85.3","United States","Georgia",NULL
+2421,"32.0","-80.9","United States","Georgia",NULL
+2422,"32.3","-82.2","United States","Georgia",NULL
+2423,"34.7","-83.8","United States","Georgia",NULL
+2424,"32.8","-84.3","United States","Georgia",NULL
+2425,"34.7","-85.3","United States","Georgia",NULL
+2426,"31.1","-83.1","United States","Georgia",NULL
+2427,"34.4","-83.8","United States","Georgia",NULL
+2428,"34.0","-85.4","United States","Georgia",NULL
+2429,"31.2","-82.8","United States","Georgia",NULL
+2430,"34.7","-83.6","United States","Georgia",NULL
+2431,"34.4","-83.6","United States","Georgia",NULL
+2432,"32.1","-81.3","United States","Georgia",NULL
+2433,"33.8","-85.2","United States","Georgia",NULL
+2434,"31.6","-81.5","United States","Georgia",NULL
+2435,"34.9","-84.6","United States","Georgia",NULL
+2436,"33.9","-82.5","United States","Georgia",NULL
+2437,"34.5","-85.1","United States","Georgia",NULL
+2438,"34.7","-84.0","United States","Georgia",NULL
+2439,"31.3","-84.0","United States","Georgia",NULL
+2440,"34.9","-83.2","United States","Georgia",NULL
+2441,"31.3","-82.7","United States","Georgia",NULL
+2442,"30.8","-84.8","United States","Georgia",NULL
+2443,"31.9","-83.6","United States","Georgia",NULL
+2444,"34.6","-85.4","United States","Georgia",NULL
+2445,"34.1","-84.8","United States","Georgia",NULL
+2446,"31.6","-84.2","United States","Georgia",NULL
+2447,"32.7","-82.2","United States","Georgia",NULL
+2448,"34.8","-84.3","United States","Georgia",NULL
+2449,"31.7","-84.6","United States","Georgia",NULL
+2450,"33.1","-83.7","United States","Georgia",NULL
+2451,"33.9","-85.0","United States","Georgia",NULL
+2452,"32.4","-82.3","United States","Georgia",NULL
+2453,"32.9","-83.1","United States","Georgia",NULL
+2454,"41.5","-96.0","United States","Iowa",NULL
+2455,"40.4","-91.4","United States","Iowa",NULL
+2456,"41.0","-92.7","United States","Iowa",NULL
+2457,"42.6","-96.5","United States","Iowa","Sioux City"
+2458,"41.7","-90.6","United States","Iowa",NULL
+2459,"45.9","-91.8","United States","Wisconsin",NULL
+2460,"41.8","-90.6","United States","Iowa",NULL
+2461,"41.8","-91.6","United States","Iowa",NULL
+2462,"43.3","-92.1","United States","Iowa",NULL
+2463,"42.5","-90.8","United States","Iowa",NULL
+2464,"43.5","-95.1","United States","Iowa",NULL
+2465,"42.1","-94.0","United States","Iowa",NULL
+2466,"43.0","-91.2","United States","Iowa",NULL
+2467,"42.2","-94.9","United States","Iowa",NULL
+2468,"40.7","-95.7","United States","Iowa",NULL
+2469,"42.5","-92.0","United States","Iowa",NULL
+2470,"43.2","-92.2","United States","Iowa",NULL
+2471,"46.2","-115.2","United States","Idaho",NULL
+2472,"43.8","-113.8","United States","Idaho",NULL
+2473,"44.1","-114.9","United States","Idaho",NULL
+2474,"44.3","-112.6","United States","Idaho",NULL
+2475,"48.2","-116.2","United States","Idaho",NULL
+2476,"47.1","-116.3","United States","Idaho",NULL
+2477,"47.9","-116.6","United States","Idaho",NULL
+2478,"44.1","-115.3","United States","Idaho",NULL
+2479,"45.2","-115.8","United States","Idaho",NULL
+2480,"45.0","-114.7","United States","Idaho",NULL
+2481,"43.6","-111.4","United States","Idaho",NULL
+2482,"47.7","-116.2","United States","Idaho",NULL
+2483,"48.3","-116.7","United States","Idaho",NULL
+2484,"44.9","-116.5","United States","Idaho",NULL
+2485,"42.4","-111.5","United States","Idaho",NULL
+2486,"44.4","-115.9","United States","Idaho",NULL
+2487,"47.6","-117.0","United States","Idaho",NULL
+2488,"48.7","-116.8","United States","Idaho",NULL
+2489,"44.6","-115.2","United States","Idaho",NULL
+2490,"48.4","-116.9","United States","Idaho",NULL
+2491,"44.6","-115.7","United States","Idaho",NULL
+2492,"42.1","-112.2","United States","Idaho",NULL
+2493,"48.8","-116.7","United States","Idaho",NULL
+2494,"43.9","-111.9","United States","Idaho",NULL
+2495,"45.3","-113.8","United States","Idaho",NULL
+2496,"46.8","-115.9","United States","Idaho",NULL
+2497,"48.0","-116.5","United States","Idaho",NULL
+2498,"48.2","-116.9","United States","Idaho",NULL
+2499,"48.7","-116.9","United States","Idaho",NULL
+2500,"47.2","-116.1","United States","Idaho",NULL
+2501,"44.5","-116.3","United States","Idaho",NULL
+2502,"47.2","-115.6","United States","Idaho",NULL
+2503,"47.2","-116.7","United States","Idaho",NULL
+2504,"46.8","-116.4","United States","Idaho",NULL
+2505,"47.5","-115.9","United States","Idaho",NULL
+2506,"43.7","-115.4","United States","Idaho",NULL
+2507,"45.6","-116.0","United States","Idaho",NULL
+2508,"37.5","-88.3","United States","Illinois",NULL
+2509,"38.0","-89.3","United States","Illinois",NULL
+2510,"37.1","-89.2","United States","Illinois",NULL
+2511,"40.0","-90.1","United States","Illinois",NULL
+2512,"38.9","-88.0","United States","Illinois",NULL
+2513,"41.9","-89.3","United States","Illinois",NULL
+2514,"42.1","-88.5","United States","Illinois",NULL
+2515,"40.6","-89.6","United States","Illinois",NULL
+2516,"41.6","-90.1","United States","Illinois",NULL
+2517,"37.6","-88.5","United States","Illinois",NULL
+2518,"41.6","-88.4","United States","Illinois",NULL
+2519,"37.6","-88.9","United States","Illinois",NULL
+2520,"40.2","-87.7","United States","Illinois",NULL
+2521,"37.7","-88.9","United States","Illinois",NULL
+2522,"39.0","-89.0","United States","Illinois",NULL
+2523,"38.1","-89.4","United States","Illinois",NULL
+2524,"37.8","-89.5","United States","Illinois",NULL
+2525,"37.5","-88.7","United States","Illinois",NULL
+2526,"37.2","-88.7","United States","Illinois",NULL
+2527,"42.2","-88.1","United States","Illinois",NULL
+2528,"40.7","-89.0","United States","Illinois",NULL
+2529,"38.9","-89.8","United States","Illinois",NULL
+2530,"40.6","-90.3","United States","Illinois",NULL
+2531,"41.9","-89.4","United States","Illinois",NULL
+2532,"39.7","-89.6","United States","Illinois",NULL
+2533,"41.6","-87.8","United States","Illinois",NULL
+2534,"41.9","-88.2","United States","Illinois",NULL
+2535,"37.2","-88.8","United States","Illinois",NULL
+2536,"39.8","-88.6","United States","Illinois",NULL
+2537,"39.7","-89.7","United States","Illinois",NULL
+2538,"39.6","-89.7","United States","Illinois",NULL
+2539,"41.2","-88.0","United States","Illinois",NULL
+2540,"40.8","-89.6","United States","Illinois",NULL
+2541,"40.0","-90.0","United States","Illinois",NULL
+2542,"38.9","-89.5","United States","Illinois",NULL
+2543,"38.7","-90.1","United States","Illinois",NULL
+2544,"40.1","-90.7","United States","Illinois",NULL
+2545,"41.7","-90.2","United States","Illinois",NULL
+2546,"39.1","-87.8","United States","Illinois",NULL
+2547,"38.4","-88.1","United States","Illinois",NULL
+2548,"38.2","-88.8","United States","Illinois",NULL
+2549,"41.6","-87.9","United States","Illinois",NULL
+2550,"40.8","-88.5","United States","Illinois",NULL
+2551,"41.3","-88.7","United States","Illinois",NULL
+2552,"40.5","-90.2","United States","Illinois",NULL
+2553,"39.4","-87.7","United States","Illinois",NULL
+2554,"42.0","-89.4","United States","Illinois",NULL
+2555,"40.6","-90.8","United States","Illinois",NULL
+2556,"39.8","-89.7","United States","Illinois","Springfield"
+2557,"41.5","-87.5","United States","Illinois",NULL
+2558,"38.1","-90.1","United States","Illinois",NULL
+2559,"38.9","-90.5","United States","Illinois",NULL
+2560,"38.9","-87.9","United States","Illinois",NULL
+2561,"41.7","-87.9","United States","Illinois",NULL
+2562,"39.2","-90.0","United States","Illinois",NULL
+2563,"39.8","-88.5","United States","Illinois",NULL
+2564,"41.7","-87.8","United States","Illinois",NULL
+2565,"38.8","-87.6","United States","Illinois",NULL
+2566,"38.3","-89.2","United States","Illinois",NULL
+2567,"38.4","-89.8","United States","Illinois",NULL
+2568,"41.5","-87.6","United States","Illinois",NULL
+2569,"40.1","-87.7","United States","Illinois",NULL
+2570,"41.0","-89.5","United States","Illinois",NULL
+2571,"38.7","-89.9","United States","Illinois",NULL
+2572,"38.3","-89.0","United States","Illinois",NULL
+2573,"37.6","-86.1","United States","Kentucky",NULL
+2574,"42.4","-88.4","United States","Illinois",NULL
+2575,"37.4","-88.4","United States","Illinois",NULL
+2576,"41.7","-89.9","United States","Illinois",NULL
+2577,"41.0","-86.9","United States","Indiana",NULL
+2578,"38.4","-86.2","United States","Indiana",NULL
+2579,"39.2","-86.1","United States","Indiana",NULL
+2580,"38.2","-87.4","United States","Indiana",NULL
+2581,"40.7","-85.5","United States","Indiana",NULL
+2582,"39.1","-85.0","United States","Indiana",NULL
+2583,"38.7","-85.8","United States","Indiana",NULL
+2584,"39.7","-86.8","United States","Indiana",NULL
+2585,"39.7","-86.9","United States","Indiana",NULL
+2586,"39.9","-87.1","United States","Indiana",NULL
+2587,"40.4","-87.1","United States","Indiana",NULL
+2588,"40.0","-85.3","United States","Indiana",NULL
+2589,"40.7","-85.6","United States","Indiana",NULL
+2590,"39.0","-86.5","United States","Indiana",NULL
+2591,"38.4","-86.0","United States","Indiana",NULL
+2592,"39.0","-86.4","United States","Indiana",NULL
+2593,"39.4","-86.4","United States","Indiana",NULL
+2594,"38.0","-85.6","United States","Kentucky",NULL
+2595,"38.7","-86.0","United States","Indiana",NULL
+2596,"37.4","-95.4","United States","Kansas",NULL
+2597,"37.6","-98.1","United States","Kansas",NULL
+2598,"37.8","-97.4","United States","Kansas",NULL
+2599,"37.8","-95.0","United States","Kansas",NULL
+2600,"37.4","-94.8","United States","Kansas",NULL
+2601,"39.1","-95.5","United States","Kansas",NULL
+2602,"38.8","-95.7","United States","Kansas",NULL
+2603,"38.4","-97.6","United States","Kansas",NULL
+2604,"39.1","-96.4","United States","Kansas",NULL
+2605,"37.4","-97.6","United States","Kansas",NULL
+2606,"38.2","-97.6","United States","Kansas",NULL
+2607,"39.4","-94.5","United States","Missouri",NULL
+2608,"38.6","-94.5","United States","Missouri",NULL
+2609,"38.2","-95.3","United States","Kansas",NULL
+2610,"37.3","-94.9","United States","Kansas",NULL
+2611,"37.2","-87.4","United States","Kentucky",NULL
+2612,"38.3","-82.9","United States","Kentucky",NULL
+2613,"38.1","-85.9","United States","Kentucky","Louisville"
+2614,"38.2","-82.6","United States","Kentucky",NULL
+2615,"37.3","-83.5","United States","Kentucky",NULL
+2616,"37.4","-85.3","United States","Kentucky",NULL
+2617,"37.5","-82.4","United States","Kentucky",NULL
+2618,"37.1","-86.0","United States","Kentucky",NULL
+2619,"37.3","-83.2","United States","Kentucky",NULL
+2620,"37.4","-86.1","United States","Kentucky",NULL
+2621,"37.7","-85.4","United States","Kentucky",NULL
+2622,"36.8","-86.1","United States","Kentucky",NULL
+2623,"37.8","-85.7","United States","Kentucky",NULL
+2624,"36.9","-83.2","United States","Kentucky",NULL
+2625,"37.2","-82.8","United States","Kentucky",NULL
+2626,"38.6","-85.0","United States","Kentucky",NULL
+2627,"37.7","-83.8","United States","Kentucky",NULL
+2628,"37.3","-87.6","United States","Kentucky",NULL
+2629,"37.2","-82.7","United States","Kentucky",NULL
+2630,"36.9","-82.9","United States","Kentucky",NULL
+2631,"37.3","-82.1","United States","Virginia",NULL
+2632,"38.0","-82.4","United States","West Virginia",NULL
+2633,"36.9","-84.1","United States","Kentucky",NULL
+2634,"37.6","-86.4","United States","Kentucky",NULL
+2635,"38.3","-85.0","United States","Kentucky",NULL
+2636,"38.2","-85.0","United States","Kentucky",NULL
+2637,"38.7","-84.6","United States","Kentucky",NULL
+2638,"36.8","-86.6","United States","Kentucky",NULL
+2639,"36.9","-86.7","United States","Kentucky",NULL
+2640,"36.4","-84.2","United States","Tennessee",NULL
+2641,"37.3","-84.2","United States","Kentucky",NULL
+2642,"38.1","-82.5","United States","Kentucky",NULL
+2643,"37.5","-83.5","United States","Kentucky",NULL
+2644,"36.9","-88.1","United States","Kentucky",NULL
+2645,"38.0","-83.2","United States","Kentucky",NULL
+2646,"38.2","-82.9","United States","Kentucky",NULL
+2647,"30.8","-92.6","United States","Louisiana",NULL
+2648,"32.4","-93.4","United States","Louisiana",NULL
+2649,"31.0","-91.1","United States","Louisiana",NULL
+2650,"30.5","-90.7","United States","Louisiana",NULL
+2651,"32.5","-93.4","United States","Louisiana",NULL
+2652,"31.1","-91.8","United States","Louisiana",NULL
+2653,"30.9","-89.8","United States","Louisiana",NULL
+2654,"42.1","-71.0","United States","Massachusetts",NULL
+2655,"41.7","-70.5","United States","Massachusetts",NULL
+2656,"42.2","-70.8","United States","Massachusetts",NULL
+2657,"41.6","-71.0","United States","Massachusetts",NULL
+2658,"41.8","-70.9","United States","Massachusetts",NULL
+2659,"42.5","-71.8","United States","Massachusetts","Leominster"
+2660,"42.1","-72.8","United States","Massachusetts",NULL
+2661,"42.1","-72.9","United States","Massachusetts",NULL
+2662,"42.6","-72.9","United States","Massachusetts",NULL
+2663,"42.3","-73.2","United States","Massachusetts",NULL
+2664,"41.9","-71.0","United States","Massachusetts",NULL
+2665,"42.1","-73.5","United States","Massachusetts",NULL
+2666,"42.6","-73.2","United States","Massachusetts",NULL
+2667,"42.1","-71.8","United States","Massachusetts",NULL
+2668,"42.1","-73.4","United States","Massachusetts",NULL
+2669,"42.4","-73.2","United States","Massachusetts",NULL
+2670,"42.3","-72.4","United States","Massachusetts",NULL
+2671,"42.3","-72.5","United States","Massachusetts",NULL
+2672,"39.0","-76.5","United States","Maryland",NULL
+2673,"39.2","-77.5","United States","Maryland",NULL
+2674,"38.8","-76.5","United States","Maryland",NULL
+2675,"38.6","-75.8","United States","Maryland",NULL
+2676,"39.6","-78.3","United States","Maryland",NULL
+2677,"39.7","-76.7","United States","Maryland",NULL
+2678,"39.1","-77.3","United States","Maryland",NULL
+2679,"39.5","-79.2","United States","Maryland",NULL
+2680,"46.1","-68.8","United States","Maine","Trout Brook Township"
+2681,"44.7","-69.4","United States","Maine",NULL
+2682,"43.7","-70.6","United States","Maine",NULL
+2683,"45.0","-71.0","United States","Maine","Parkertown Township"
+2684,"43.2","-70.8","United States","Maine",NULL
+2685,"45.0","-68.6","United States","Maine",NULL
+2686,"44.8","-68.2","United States","Maine",NULL
+2687,"44.3","-70.7","United States","Maine",NULL
+2688,"46.7","-85.4","United States","Michigan",NULL
+2689,"47.2","-88.2","United States","Michigan",NULL
+2690,"46.5","-85.5","United States","Michigan",NULL
+2691,"46.9","-89.3","United States","Michigan",NULL
+2692,"46.0","-86.8","United States","Michigan",NULL
+2693,"41.8","-84.5","United States","Michigan",NULL
+2694,"44.6","-83.5","United States","Michigan",NULL
+2695,"43.1","-86.1","United States","Michigan",NULL
+2696,"42.0","-86.5","United States","Michigan",NULL
+2697,"44.8","-84.5","United States","Michigan",NULL
+2698,"42.2","-83.6","United States","Michigan",NULL
+2699,"42.4","-83.9","United States","Michigan",NULL
+2700,"43.6","-85.3","United States","Michigan",NULL
+2701,"44.6","-85.8","United States","Michigan",NULL
+2702,"41.8","-84.2","United States","Michigan",NULL
+2703,"44.5","-84.2","United States","Michigan",NULL
+2704,"44.6","-86.1","United States","Michigan",NULL
+2705,"44.5","-85.9","United States","Michigan",NULL
+2706,"46.3","-87.3","United States","Michigan",NULL
+2707,"46.0","-86.0","United States","Michigan",NULL
+2708,"44.1","-86.4","United States","Michigan",NULL
+2709,"42.5","-86.0","United States","Michigan",NULL
+2710,"46.5","-87.5","United States","Michigan",NULL
+2711,"46.5","-86.5","United States","Michigan",NULL
+2712,"46.2","-86.6","United States","Michigan",NULL
+2713,"46.3","-88.8","United States","Michigan",NULL
+2714,"41.8","-85.8","United States","Michigan",NULL
+2715,"45.3","-85.2","United States","Michigan",NULL
+2716,"42.2","-83.7","United States","Michigan",NULL
+2717,"44.5","-85.7","United States","Michigan",NULL
+2718,"41.8","-86.0","United States","Michigan",NULL
+2719,"44.2","-85.6","United States","Michigan",NULL
+2720,"44.6","-83.6","United States","Michigan",NULL
+2721,"44.3","-84.0","United States","Michigan",NULL
+2722,"42.4","-84.3","United States","Michigan",NULL
+2723,"44.7","-85.8","United States","Michigan",NULL
+2724,"46.4","-87.0","United States","Michigan",NULL
+2725,"43.3","-85.3","United States","Michigan",NULL
+2726,"46.1","-88.5","United States","Michigan",NULL
+2727,"45.0","-83.8","United States","Michigan",NULL
+2728,"45.1","-83.5","United States","Michigan",NULL
+2729,"43.4","-86.4","United States","Michigan",NULL
+2730,"43.9","-85.3","United States","Michigan",NULL
+2731,"43.8","-84.4","United States","Michigan",NULL
+2732,"44.7","-85.4","United States","Michigan",NULL
+2733,"43.7","-86.4","United States","Michigan",NULL
+2734,"44.2","-84.0","United States","Michigan",NULL
+2735,"45.1","-83.9","United States","Michigan",NULL
+2736,"43.2","-85.6","United States","Michigan",NULL
+2737,"42.2","-86.4","United States","Michigan",NULL
+2738,"42.0","-83.4","United States","Michigan",NULL
+2739,"43.3","-84.9","United States","Michigan",NULL
+2740,"44.4","-84.5","United States","Michigan",NULL
+2741,"43.5","-86.3","United States","Michigan",NULL
+2742,"44.7","-86.1","United States","Michigan",NULL
+2743,"45.3","-84.3","United States","Michigan",NULL
+2744,"44.4","-84.6","United States","Michigan",NULL
+2745,"42.2","-84.1","United States","Michigan",NULL
+2746,"44.7","-84.0","United States","Michigan",NULL
+2747,"44.1","-84.5","United States","Michigan",NULL
+2748,"44.7","-83.6","United States","Michigan",NULL
+2749,"44.8","-85.7","United States","Michigan",NULL
+2750,"43.2","-85.7","United States","Michigan",NULL
+2751,"45.8","-87.3","United States","Michigan",NULL
+2752,"44.3","-85.9","United States","Michigan",NULL
+2753,"45.2","-84.2","United States","Michigan",NULL
+2754,"45.7","-87.1","United States","Michigan",NULL
+2755,"46.2","-89.5","United States","Michigan",NULL
+2756,"42.2","-84.5","United States","Michigan",NULL
+2757,"45.9","-87.1","United States","Michigan",NULL
+2758,"45.7","-87.9","United States","Wisconsin",NULL
+2759,"46.0","-84.7","United States","Michigan",NULL
+2760,"44.5","-83.9","United States","Michigan",NULL
+2761,"44.4","-83.4","United States","Michigan",NULL
+2979,"39.9","-83.6","United States","Ohio",NULL
+2762,"44.5","-83.4","United States","Michigan",NULL
+2763,"46.1","-87.2","United States","Michigan",NULL
+2764,"45.7","-87.7","United States","Michigan",NULL
+2765,"46.2","-85.8","United States","Michigan",NULL
+2766,"46.7","-92.5","United States","Minnesota",NULL
+2767,"47.9","-95.0","United States","Minnesota",NULL
+2768,"47.5","-94.6","United States","Minnesota",NULL
+2769,"47.3","-94.1","United States","Minnesota",NULL
+2770,"47.3","-93.9","United States","Minnesota",NULL
+2771,"46.4","-92.8","United States","Minnesota",NULL
+2772,"48.1","-90.6","United States","Minnesota",NULL
+2773,"48.5","-96.3","United States","Minnesota",NULL
+2774,"47.2","-94.8","United States","Minnesota",NULL
+2775,"46.7","-94.8","United States","Minnesota",NULL
+2776,"46.0","-94.9","United States","Minnesota",NULL
+2777,"46.0","-92.9","United States","Minnesota",NULL
+2778,"47.5","-92.6","United States","Minnesota",NULL
+2779,"48.2","-92.1","United States","Minnesota",NULL
+2780,"47.3","-93.3","United States","Minnesota",NULL
+2781,"46.8","-93.8","United States","Minnesota",NULL
+2782,"48.1","-92.3","United States","Minnesota",NULL
+2783,"47.7","-93.8","United States","Minnesota",NULL
+2784,"46.7","-94.7","United States","Minnesota",NULL
+2785,"48.9","-96.0","United States","Minnesota",NULL
+2786,"46.1","-90.1","United States","Wisconsin",NULL
+2787,"47.4","-94.4","United States","Minnesota",NULL
+2788,"47.5","-95.1","United States","Minnesota",NULL
+2789,"47.5","-92.8","United States","Minnesota",NULL
+2790,"47.8","-94.1","United States","Minnesota",NULL
+2791,"47.5","-94.9","United States","Minnesota",NULL
+2792,"46.7","-92.4","United States","Minnesota",NULL
+2793,"36.6","-93.3","United States","Missouri",NULL
+2794,"38.7","-94.3","United States","Missouri",NULL
+2795,"38.4","-91.6","United States","Missouri",NULL
+2796,"38.5","-93.9","United States","Missouri",NULL
+2797,"39.1","-91.4","United States","Missouri",NULL
+2798,"37.6","-90.2","United States","Missouri",NULL
+2799,"37.5","-93.4","United States","Missouri",NULL
+2800,"37.8","-93.5","United States","Missouri",NULL
+2801,"37.3","-92.0","United States","Missouri",NULL
+2802,"36.8","-92.2","United States","Missouri",NULL
+2803,"36.7","-93.5","United States","Missouri",NULL
+2804,"38.1","-91.2","United States","Missouri",NULL
+2805,"38.5","-90.7","United States","Missouri",NULL
+2806,"37.6","-91.4","United States","Missouri",NULL
+2807,"38.2","-90.5","United States","Missouri",NULL
+2808,"38.6","-94.3","United States","Missouri",NULL
+2809,"37.2","-94.5","United States","Missouri",NULL
+2810,"37.2","-91.3","United States","Missouri",NULL
+2811,"38.4","-90.7","United States","Missouri",NULL
+2812,"38.0","-91.6","United States","Missouri",NULL
+2813,"37.2","-93.7","United States","Missouri",NULL
+2814,"36.7","-93.6","United States","Missouri",NULL
+2815,"36.5","-94.2","United States","Missouri",NULL
+2816,"37.7","-90.9","United States","Missouri",NULL
+2817,"39.1","-92.3","United States","Missouri",NULL
+2818,"36.6","-90.2","United States","Missouri",NULL
+2819,"37.6","-92.1","United States","Missouri",NULL
+2820,"37.2","-90.5","United States","Missouri",NULL
+2821,"38.1","-91.1","United States","Missouri",NULL
+2822,"37.8","-95.3","United States","Kansas",NULL
+2823,"37.5","-92.2","United States","Missouri",NULL
+2824,"36.5","-92.2","United States","Arkansas",NULL
+2825,"39.0","-94.1","United States","Missouri",NULL
+2826,"37.9","-94.3","United States","Missouri",NULL
+2827,"37.5","-93.9","United States","Missouri",NULL
+2828,"38.5","-90.6","United States","Missouri",NULL
+2829,"40.6","-93.6","United States","Missouri",NULL
+2830,"37.9","-91.3","United States","Missouri",NULL
+2831,"37.1","-90.9","United States","Missouri",NULL
+2832,"38.2","-92.8","United States","Missouri",NULL
+2833,"38.0","-91.4","United States","Missouri",NULL
+2834,"39.0","-94.3","United States","Missouri","Blue Springs"
+2835,"36.6","-93.4","United States","Missouri",NULL
+2836,"38.2","-92.3","United States","Missouri",NULL
+2837,"37.6","-90.5","United States","Missouri",NULL
+2838,"36.7","-93.1","United States","Missouri",NULL
+2839,"37.5","-92.6","United States","Missouri",NULL
+2840,"38.4","-92.2","United States","Missouri",NULL
+2841,"39.8","-93.7","United States","Missouri",NULL
+2842,"30.4","-88.7","United States","Mississippi",NULL
+2843,"30.5","-89.7","United States","Mississippi",NULL
+2844,"32.1","-88.7","United States","Mississippi",NULL
+2845,"34.7","-88.3","United States","Mississippi",NULL
+2846,"32.5","-88.5","United States","Mississippi",NULL
+2847,"47.1","-112.6","United States","Montana",NULL
+2848,"46.2","-113.7","United States","Montana",NULL
+2849,"47.1","-112.0","United States","Montana",NULL
+2850,"46.1","-112.6","United States","Montana","Butte"
+2851,"48.3","-115.6","United States","Montana",NULL
+2852,"46.8","-114.1","United States","Montana",NULL
+2853,"48.7","-113.8","United States","Montana",NULL
+2854,"47.6","-113.8","United States","Montana",NULL
+2855,"45.1","-111.6","United States","Montana",NULL
+2856,"46.3","-113.1","United States","Montana",NULL
+2857,"45.3","-109.6","United States","Montana",NULL
+2858,"47.0","-114.1","United States","Montana",NULL
+2859,"47.6","-144.0",NULL,NULL,NULL
+2860,"46.5","-111.3","United States","Montana",NULL
+2861,"46.5","-113.6","United States","Montana",NULL
+2862,"46.6","-110.6","United States","Montana",NULL
+2863,"45.8","-111.4","United States","Montana",NULL
+2864,"45.6","-110.8","United States","Montana",NULL
+2865,"46.9","-113.8","United States","Montana",NULL
+2866,"46.2","-111.8","United States","Montana",NULL
+2867,"45.1","-111.1","United States","Montana",NULL
+2868,"35.9","-82.0","United States","North Carolina",NULL
+2869,"35.4","-82.5","United States","North Carolina",NULL
+2870,"36.3","-81.4","United States","North Carolina",NULL
+2871,"35.8","-81.8","United States","North Carolina",NULL
+2872,"35.9","-81.7","United States","North Carolina",NULL
+2873,"34.8","-77.6","United States","North Carolina",NULL
+2874,"34.4","-77.7","United States","North Carolina",NULL
+2875,"35.6","-83.5","United States","Tennessee",NULL
+2876,"35.7","-82.3","United States","North Carolina",NULL
+2877,"35.5","-83.6","United States","North Carolina",NULL
+2878,"35.4","-77.7","United States","North Carolina",NULL
+2879,"36.2","-79.0","United States","North Carolina",NULL
+2880,"35.8","-82.5","United States","North Carolina",NULL
+2881,"36.4","-80.5","United States","North Carolina",NULL
+2882,"35.2","-83.0","United States","North Carolina",NULL
+2883,"35.9","-83.3","United States","Tennessee",NULL
+2884,"36.1","-80.7","United States","North Carolina",NULL
+2885,"35.1","-83.2","United States","North Carolina",NULL
+2886,"35.9","-80.2","United States","North Carolina",NULL
+2887,"35.2","-81.4","United States","North Carolina",NULL
+2888,"35.1","-79.1","United States","North Carolina",NULL
+2889,"36.0","-80.2","United States","North Carolina",NULL
+2890,"36.5","-80.4","United States","North Carolina",NULL
+2891,"36.4","-81.6","United States","North Carolina",NULL
+2892,"35.1","-79.9","United States","North Carolina",NULL
+2893,"35.3","-80.0","United States","North Carolina",NULL
+2894,"36.0","-82.0","United States","North Carolina",NULL
+2895,"35.8","-82.9","United States","North Carolina",NULL
+2896,"34.8","-77.1","United States","North Carolina",NULL
+2897,"35.4","-80.7","United States","North Carolina","Kannapolis"
+2898,"35.6","-79.8","United States","North Carolina",NULL
+2899,"35.8","-81.2","United States","North Carolina",NULL
+2900,"35.4","-80.0","United States","North Carolina",NULL
+2901,"30.0","-83.5","United States","Florida",NULL
+2902,"35.5","-80.1","United States","North Carolina",NULL
+2903,"35.3","-79.9","United States","North Carolina",NULL
+2904,"35.3","-82.7","United States","North Carolina",NULL
+2905,"47.6","-102.7","United States","North Dakota",NULL
+2906,"41.2","-96.4","United States","Nebraska",NULL
+2907,"42.7","-103.0","United States","Nebraska",NULL
+2908,"42.5","-96.5","United States","Nebraska",NULL
+2909,"40.6","-97.1","United States","Nebraska",NULL
+2910,"42.2","-96.3","United States","Nebraska",NULL
+2911,"43.3","-71.5","United States","New Hampshire",NULL
+2912,"43.0","-70.9","United States","New Hampshire",NULL
+2913,"43.1","-71.4","United States","New Hampshire",NULL
+2914,"44.8","-71.2","United States","New Hampshire",NULL
+2915,"42.8","-71.8","United States","New Hampshire",NULL
+2916,"43.5","-71.1","United States","New Hampshire",NULL
+2917,"41.2","-74.6","United States","New Jersey","Wantage"
+2918,"39.7","-74.6","United States","New Jersey",NULL
+2919,"39.7","-74.3","United States","New Jersey",NULL
+2920,"40.8","-75.1","United States","New Jersey",NULL
+2921,"39.6","-75.5","United States","New Jersey",NULL
+2922,"39.8","-74.7","United States","New Jersey",NULL
+2923,"39.9","-74.4","United States","New Jersey",NULL
+2924,"40.8","-74.4","United States","New Jersey",NULL
+2925,"40.6","-74.8","United States","New Jersey",NULL
+2926,"40.9","-74.5","United States","New Jersey",NULL
+2927,"41.0","-74.8","United States","New Jersey","Green Township"
+2928,"40.1","-74.1","United States","New Jersey",NULL
+2929,"41.3","-74.7","United States","New Jersey",NULL
+2930,"41.1","-74.2","United States","New Jersey",NULL
+2931,"41.2","-74.5","United States","New Jersey",NULL
+2932,"39.9","-74.5","United States","New Jersey",NULL
+2933,"41.3","-74.6","United States","New Jersey","Wantage"
+2934,"40.9","-74.8","United States","New Jersey",NULL
+2935,"39.2","-74.7","United States","New Jersey",NULL
+2936,"39.7","-74.7","United States","New Jersey",NULL
+2937,"36.6","-105.4","United States","New Mexico",NULL
+2938,"36.9","-107.0","United States","New Mexico",NULL
+2939,"36.1","-107.0","United States","New Mexico",NULL
+2940,"36.2","-105.6","United States","New Mexico",NULL
+2941,"36.4","-107.2","United States","New Mexico",NULL
+2942,"36.9","-106.6","United States","New Mexico",NULL
+2943,"39.6","-120.0","United States","Nevada",NULL
+2944,"40.5","-118.2","United States","Nevada",NULL
+2945,"41.7","-74.1","United States","New York",NULL
+2946,"43.6","-74.8","United States","New York",NULL
+2947,"42.4","-76.2","United States","New York",NULL
+2948,"43.2","-78.2","United States","New York",NULL
+2949,"43.3","-77.7","United States","New York",NULL
+2950,"43.3","-78.3","United States","New York",NULL
+2951,"42.0","-73.7","United States","New York",NULL
+2952,"44.2","-73.8","United States","New York",NULL
+2953,"44.7","-73.7","United States","New York",NULL
+2954,"42.1","-75.4","United States","New York",NULL
+2955,"41.4","-73.9","United States","New York",NULL
+2956,"43.8","-74.0","United States","New York",NULL
+2957,"43.6","-73.5","United States","New York",NULL
+2958,"43.7","-73.5","United States","New York",NULL
+2959,"43.7","-73.6","United States","New York",NULL
+2960,"43.4","-73.7","United States","New York",NULL
+2961,"42.5","-77.4","United States","New York",NULL
+2962,"43.6","-75.6","United States","New York",NULL
+2963,"43.1","-74.3","United States","New York",NULL
+2964,"41.6","-73.6","United States","New York",NULL
+2965,"44.6","-75.6","United States","New York","City of Ogdensburg"
+2966,"43.1","-74.5","United States","New York",NULL
+2967,"43.3","-73.8","United States","New York",NULL
+2968,"43.2","-75.7","United States","New York",NULL
+2969,"41.2","-74.1","United States","New York",NULL
+2970,"42.2","-78.0","United States","New York",NULL
+2971,"43.3","-74.2","United States","New York",NULL
+2972,"43.4","-73.3","United States","New York",NULL
+2973,"43.0","-76.1","United States","New York",NULL
+2974,"41.5","-73.6","United States","New York",NULL
+2975,"42.7","-77.3","United States","New York",NULL
+2976,"44.4","-74.2","United States","New York",NULL
+2977,"40.0","-84.2","United States","Ohio",NULL
+2978,"41.1","-81.1","United States","Ohio",NULL
+2980,"40.0","-81.4","United States","Ohio",NULL
+2981,"38.9","-83.4","United States","Ohio",NULL
+2982,"40.3","-82.1","United States","Ohio",NULL
+2983,"40.2","-82.0","United States","Ohio",NULL
+2984,"41.7","-80.5","United States","Ohio",NULL
+2985,"41.4","-82.8","United States","Ohio",NULL
+2986,"40.4","-82.0","United States","Ohio",NULL
+2987,"41.1","-83.4","United States","Ohio",NULL
+2988,"40.3","-82.0","United States","Ohio",NULL
+2989,"40.3","-81.3","United States","Ohio",NULL
+2990,"41.3","-82.2","United States","Ohio",NULL
+2991,"39.8","-81.0","United States","Ohio",NULL
+2992,"41.3","-81.4","United States","Ohio",NULL
+2993,"41.2","-81.3","United States","Ohio",NULL
+2994,"39.6","-84.5","United States","Ohio",NULL
+2995,"40.7","-82.6","United States","Ohio",NULL
+2996,"38.8","-83.2","United States","Ohio",NULL
+2997,"40.6","-81.3","United States","Ohio",NULL
+2998,"40.5","-83.4","United States","Ohio",NULL
+2999,"39.3","-82.4","United States","Ohio",NULL
+3000,"40.6","-81.6","United States","Ohio",NULL
+3001,"41.3","-81.1","United States","Ohio",NULL
+3002,"41.1","-80.6","United States","Ohio",NULL
+3003,"41.3","-81.2","United States","Ohio",NULL
+3004,"40.5","-80.9","United States","Ohio",NULL
+3005,"40.3","-80.6","United States","Ohio",NULL
+3006,"41.2","-81.4","United States","Ohio","Kent"
+3007,"39.6","-81.4","United States","Ohio",NULL
+3008,"39.5","-82.6","United States","Ohio",NULL
+3009,"39.2","-82.3","United States","Ohio",NULL
+3010,"39.8","-84.2","United States","Ohio","Dayton"
+3011,"38.7","-83.1","United States","Ohio",NULL
+3012,"41.1","-82.4","United States","Ohio",NULL
+3013,"41.0","-82.4","United States","Ohio",NULL
+3014,"41.4","-81.6","United States","Ohio",NULL
+3015,"39.6","-81.5","United States","Ohio",NULL
+3016,"41.5","-83.1","United States","Ohio",NULL
+3017,"41.5","-81.3","United States","Ohio",NULL
+3018,"40.2","-81.1","United States","Ohio",NULL
+3019,"39.9","-81.2","United States","Ohio",NULL
+3020,"39.7","-89.3","United States","Illinois",NULL
+3021,"41.1","-80.9","United States","Ohio",NULL
+3022,"40.6","-80.9","United States","Ohio",NULL
+3023,"39.4","-81.4","United States","Ohio",NULL
+3024,"39.6","-82.6","United States","Ohio",NULL
+3025,"40.9","-81.3","United States","Ohio",NULL
+3026,"41.8","-80.8","United States","Ohio","Geneva"
+3027,"39.1","-83.4","United States","Ohio",NULL
+3028,"39.7","-83.8","United States","Ohio",NULL
+3029,"40.2","-81.2","United States","Ohio",NULL
+3030,"40.4","-81.2","United States","Ohio",NULL
+3031,"41.2","-82.3","United States","Ohio",NULL
+3032,"40.6","-82.1","United States","Ohio",NULL
+3033,"41.2","-81.0","United States","Ohio",NULL
+3034,"39.7","-84.7","United States","Ohio",NULL
+3035,"39.7","-83.7","United States","Ohio",NULL
+3036,"41.1","-80.1","United States","Pennsylvania",NULL
+3037,"41.2","-81.9","United States","Ohio",NULL
+3038,"41.1","-82.1","United States","Ohio",NULL
+3039,"39.1","-83.1","United States","Ohio",NULL
+3040,"40.0","-82.1","United States","Ohio",NULL
+3041,"39.0","-83.0","United States","Ohio",NULL
+3042,"41.9","-81.0","United States","Ohio",NULL
+3043,"39.7","-84.5","United States","Ohio",NULL
+3044,"41.2","-81.5","United States","Ohio",NULL
+3045,"39.9","-81.0","United States","Ohio",NULL
+3046,"40.7","-81.0","United States","Ohio",NULL
+3047,"39.3","-84.3","United States","Ohio",NULL
+3048,"39.6","-82.5","United States","Ohio",NULL
+3049,"38.6","-83.7","United States","Ohio",NULL
+3050,"38.8","-83.6","United States","Ohio",NULL
+3051,"40.4","-82.2","United States","Ohio",NULL
+3052,"40.1","-80.9","United States","Ohio",NULL
+3053,"40.2","-80.6","United States","West Virginia",NULL
+3054,"38.9","-82.4","United States","Ohio",NULL
+3055,"40.1","-81.1","United States","Ohio",NULL
+3056,"39.4","-84.1","United States","Ohio",NULL
+3057,"40.0","-81.3","United States","Ohio",NULL
+3058,"41.0","-81.7","United States","Ohio",NULL
+3059,"34.8","-95.0","United States","Oklahoma",NULL
+3060,"34.7","-99.8","United States","Oklahoma",NULL
+3061,"34.5","-94.9","United States","Oklahoma",NULL
+3062,"34.8","-94.6","United States","Oklahoma",NULL
+3063,"35.2","-97.2","United States","Oklahoma","Norman"
+3064,"36.4","-94.9","United States","Oklahoma",NULL
+3065,"35.0","-95.3","United States","Oklahoma",NULL
+3066,"34.7","-95.0","United States","Oklahoma",NULL
+3067,"34.5","-94.7","United States","Oklahoma",NULL
+3068,"34.5","-94.6","United States","Oklahoma",NULL
+3069,"35.6","-95.0","United States","Oklahoma",NULL
+3070,"34.5","-94.5","United States","Oklahoma",NULL
+3071,"35.0","-99.0","United States","Oklahoma",NULL
+3072,"34.6","-95.1","United States","Oklahoma",NULL
+3073,"35.1","-98.2","United States","Oklahoma",NULL
+3074,"35.5","-94.8","United States","Oklahoma",NULL
+3075,"36.2","-95.2","United States","Oklahoma",NULL
+3076,"35.8","-99.9","United States","Oklahoma",NULL
+3077,"36.9","-95.2","United States","Oklahoma",NULL
+3078,"35.7","-97.3","United States","Oklahoma",NULL
+3079,"36.4","-95.8","United States","Oklahoma",NULL
+3080,"34.1","-94.4","United States","Arkansas",NULL
+3081,"34.5","-95.1","United States","Oklahoma",NULL
+3082,"34.1","-94.7","United States","Oklahoma",NULL
+3083,"34.6","-94.5","United States","Oklahoma",NULL
+3084,"43.7","-122.4","United States","Oregon",NULL
+3085,"45.0","-122.5","United States","Oregon",NULL
+3086,"43.8","-124.0","United States","Oregon",NULL
+3087,"45.7","-123.5","United States","Oregon",NULL
+3088,"45.8","-119.6","United States","Oregon",NULL
+3089,"45.4","-122.3","United States","Oregon",NULL
+3090,"43.8","-123.5","United States","Oregon",NULL
+3091,"43.9","-121.4","United States","Oregon",NULL
+3092,"42.5","-122.3","United States","Oregon",NULL
+3093,"45.6","-121.8","United States","Oregon",NULL
+3094,"45.0","-122.3","United States","Oregon",NULL
+3095,"43.2","-122.4","United States","Oregon",NULL
+3096,"42.1","-122.7","United States","Oregon",NULL
+3097,"45.7","-123.6","United States","Oregon",NULL
+3098,"44.1","-123.4","United States","Oregon",NULL
+3099,"45.8","-123.4","United States","Oregon",NULL
+3100,"43.2","-123.5","United States","Oregon",NULL
+3101,"44.9","-123.4","United States","Oregon",NULL
+3102,"46.0","-123.9","United States","Oregon",NULL
+3103,"42.6","-123.3","United States","Oregon",NULL
+3104,"42.4","-122.2","United States","Oregon",NULL
+3105,"45.5","-121.8","United States","Oregon",NULL
+3106,"44.8","-122.6","United States","Oregon",NULL
+3107,"45.5","-122.2","United States","Oregon",NULL
+3108,"45.3","-121.6","United States","Oregon",NULL
+3109,"44.9","-122.3","United States","Oregon",NULL
+3110,"45.2","-121.9","United States","Oregon",NULL
+3111,"44.6","-121.8","United States","Oregon",NULL
+3112,"43.9","-118.8","United States","Oregon",NULL
+3113,"42.1","-123.4","United States","Oregon",NULL
+3114,"45.0","-123.6","United States","Oregon",NULL
+3115,"45.5","-123.3","United States","Oregon",NULL
+3116,"44.7","-122.8","United States","Oregon",NULL
+3117,"45.0","-122.8","United States","Oregon",NULL
+3118,"44.1","-121.3","United States","Oregon",NULL
+3119,"44.5","-118.6","United States","Oregon",NULL
+3120,"43.9","-121.9","United States","Oregon",NULL
+3121,"42.6","-124.0","United States","Oregon",NULL
+3122,"45.8","-123.3","United States","Oregon",NULL
+3123,"45.4","-121.4","United States","Oregon",NULL
+3124,"45.6","-121.6","United States","Oregon",NULL
+3125,"45.2","-122.4","United States","Oregon",NULL
+3126,"44.8","-123.6","United States","Oregon",NULL
+3127,"43.7","-122.8","United States","Oregon",NULL
+3128,"45.7","-123.0","United States","Oregon",NULL
+3129,"43.2","-124.4","United States","Oregon",NULL
+3130,"44.5","-122.0","United States","Oregon",NULL
+3131,"45.0","-122.4","United States","Oregon",NULL
+3132,"43.3","-122.6","United States","Oregon",NULL
+3133,"45.9","-123.5","United States","Oregon",NULL
+3134,"44.1","-120.3","United States","Oregon",NULL
+3135,"44.8","-118.8","United States","Oregon",NULL
+3136,"44.7","-123.2","United States","Oregon",NULL
+3137,"45.8","-118.1","United States","Oregon",NULL
+3138,"43.7","-122.0","United States","Oregon",NULL
+3139,"42.4","-124.4","United States","Oregon",NULL
+3140,"44.7","-122.2","United States","Oregon",NULL
+3141,"42.2","-121.9","United States","Oregon",NULL
+3142,"45.3","-122.0","United States","Oregon",NULL
+3143,"42.1","-123.3","United States","Oregon",NULL
+3144,"45.4","-118.6","United States","Oregon",NULL
+3145,"45.1","-122.8","United States","Oregon",NULL
+3146,"44.2","-122.0","United States","Oregon",NULL
+3147,"43.7","-123.3","United States","Oregon",NULL
+3148,"45.4","-121.5","United States","Oregon",NULL
+3149,"46.0","-123.5","United States","Oregon",NULL
+3150,"45.9","-117.9","United States","Oregon",NULL
+3151,"42.2","-123.8","United States","Oregon",NULL
+3152,"43.6","-123.5","United States","Oregon",NULL
+3153,"43.4","-122.9","United States","Oregon",NULL
+3154,"44.5","-123.6","United States","Oregon",NULL
+3155,"44.7","-118.1","United States","Oregon",NULL
+3156,"42.4","-121.4","United States","Oregon",NULL
+3157,"45.5","-118.8","United States","Oregon",NULL
+3158,"44.0","-121.8","United States","Oregon",NULL
+3159,"45.4","-117.7","United States","Oregon",NULL
+3160,"44.0","-121.5","United States","Oregon",NULL
+3161,"45.2","-122.1","United States","Oregon",NULL
+3162,"45.6","-123.6","United States","Oregon",NULL
+3163,"44.1","-122.9","United States","Oregon","Springfield"
+3164,"45.7","-118.7","United States","Oregon",NULL
+3165,"45.2","-121.7","United States","Oregon",NULL
+3166,"45.3","-121.3","United States","Oregon",NULL
+3167,"43.9","-122.7","United States","Oregon",NULL
+3168,"42.2","-123.0","United States","Oregon",NULL
+3169,"45.5","-118.3","United States","Oregon",NULL
+3170,"43.3","-124.0","United States","Oregon",NULL
+3171,"41.5","-79.3","United States","Pennsylvania","Green Township"
+3172,"41.3","-78.4","United States","Pennsylvania","Benezette Township"
+3173,"41.8","-77.7","United States","Pennsylvania","Hector Township"
+3174,"40.5","-80.2","United States","Pennsylvania",NULL
+3175,"40.6","-77.6","United States","Pennsylvania","Granville Township"
+3176,"41.7","-78.0","United States","Pennsylvania","Homer Township"
+3177,"41.8","-76.0","United States","Pennsylvania","Jessup Township"
+3178,"40.7","-78.5","United States","Pennsylvania","White Township"
+3179,"40.3","-79.9","United States","Pennsylvania",NULL
+3180,"41.3","-78.0","United States","Pennsylvania","Grove Township"
+3181,"39.7","-76.2","United States","Pennsylvania","Fulton Township"
+3182,"39.7","-76.0","United States","Pennsylvania","West Nottingham Township"
+3183,"41.5","-75.2","United States","Pennsylvania","Palmyra Township"
+3184,"40.4","-79.6","United States","Pennsylvania","Salem Township"
+3185,"40.9","-80.1","United States","Pennsylvania",NULL
+3186,"41.7","-78.9","United States","Pennsylvania","Hamilton Township"
+3187,"40.0","-80.3","United States","Pennsylvania","Morris Township"
+3188,"41.3","-75.7","United States","Pennsylvania",NULL
+3189,"40.6","-80.3","United States","Pennsylvania","Raccoon Township"
+3190,"40.3","-77.9","United States","Pennsylvania","Shirley Township"
+3191,"40.6","-79.2","United States","Pennsylvania","White Township"
+3192,"41.5","-71.6","United States","Rhode Island",NULL
+3193,"41.8","-71.7","United States","Rhode Island",NULL
+3194,"34.0","-80.8","United States","South Carolina","Columbia"
+3195,"32.9","-80.7","United States","South Carolina",NULL
+3196,"35.1","-81.9","United States","South Carolina",NULL
+3197,"34.4","-81.4","United States","South Carolina",NULL
+3198,"33.1","-79.9","United States","South Carolina",NULL
+3199,"33.5","-78.4",NULL,NULL,NULL
+3200,"34.4","-82.8","United States","Georgia",NULL
+3201,"32.8","-80.6","United States","South Carolina",NULL
+3202,"32.3","-81.0","United States","South Carolina",NULL
+3203,"33.0","-80.5","United States","South Carolina",NULL
+3204,"35.0","-82.8","United States","South Carolina",NULL
+3205,"34.4","-81.5","United States","South Carolina",NULL
+3206,"35.1","-81.6","United States","South Carolina",NULL
+3207,"35.1","-81.1","United States","South Carolina",NULL
+3208,"44.4","-103.6","United States","South Dakota",NULL
+3209,"44.2","-103.8","United States","South Dakota",NULL
+3210,"35.5","-89.9","United States","Tennessee",NULL
+3211,"36.1","-88.7","United States","Tennessee",NULL
+3212,"35.0","-89.4","United States","Tennessee",NULL
+3213,"36.4","-83.0","United States","Tennessee",NULL
+3214,"35.2","-86.9","United States","Tennessee",NULL
+3215,"35.8","-88.3","United States","Tennessee",NULL
+3216,"36.0","-88.8","United States","Tennessee",NULL
+3217,"35.9","-86.4","United States","Tennessee",NULL
+3218,"36.2","-83.7","United States","Tennessee",NULL
+3219,"35.5","-83.4","United States","North Carolina","Birdtown Community ᏥᏍᏉᎯ"
+3220,"35.2","-89.9","United States","Tennessee","Memphis"
+3221,"35.4","-84.1","United States","Tennessee",NULL
+3222,"35.2","-85.8","United States","Tennessee",NULL
+3223,"35.5","-85.0","United States","Tennessee",NULL
+3224,"35.4","-89.8","United States","Tennessee",NULL
+3225,"35.0","-87.2","United States","Tennessee",NULL
+3226,"36.4","-83.2","United States","Tennessee",NULL
+3227,"35.3","-87.3","United States","Tennessee",NULL
+3228,"36.0","-86.2","United States","Tennessee",NULL
+3229,"35.1","-84.8","United States","Tennessee","Cleveland"
+3230,"36.1","-82.3","United States","North Carolina",NULL
+3231,"36.4","-84.9","United States","Tennessee",NULL
+3232,"35.8","-87.4","United States","Tennessee",NULL
+3233,"35.9","-89.1","United States","Tennessee",NULL
+3234,"36.4","-82.3","United States","Tennessee","Bluff City"
+3235,"36.1","-87.0","United States","Tennessee","Nashville-Davidson"
+3236,"36.5","-83.9","United States","Tennessee",NULL
+3237,"36.2","-87.1","United States","Tennessee",NULL
+3238,"35.5","-87.8","United States","Tennessee",NULL
+3239,"36.3","-83.9","United States","Tennessee",NULL
+3240,"35.5","-89.4","United States","Tennessee",NULL
+3241,"35.5","-85.1","United States","Tennessee",NULL
+3242,"36.1","-84.4","United States","Tennessee",NULL
+3243,"35.9","-84.9","United States","Tennessee",NULL
+3244,"33.2","-95.8","United States","Texas",NULL
+3245,"33.5","-101.5","United States","Texas",NULL
+3246,"31.6","-93.9","United States","Texas",NULL
+3247,"29.6","-98.0","United States","Texas",NULL
+3248,"33.4","-94.1","United States","Texas","Texarkana"
+3249,"30.3","-96.5","United States","Texas",NULL
+3250,"33.2","-94.3","United States","Texas",NULL
+3251,"28.7","-97.1","United States","Texas",NULL
+3252,"32.5","-96.8","United States","Texas","Red Oak"
+3253,"32.3","-96.7","United States","Texas",NULL
+3254,"33.8","-96.5","United States","Texas",NULL
+3255,"32.4","-94.8","United States","Texas",NULL
+3256,"31.4","-95.7","United States","Texas",NULL
+3257,"31.3","-94.3","United States","Texas",NULL
+3258,"31.8","-95.7","United States","Texas",NULL
+3259,"33.8","-95.6","United States","Texas",NULL
+3260,"33.8","-97.0","United States","Texas",NULL
+3261,"29.4","-97.8","United States","Texas",NULL
+3262,"33.6","-100.8","United States","Texas",NULL
+3263,"32.5","-98.0","United States","Texas",NULL
+3264,"33.6","-96.3","United States","Texas",NULL
+3265,"31.0","-95.6","United States","Texas",NULL
+3266,"33.3","-95.5","United States","Texas",NULL
+3267,"33.3","-95.2","United States","Texas",NULL
+3268,"32.3","-94.9","United States","Texas",NULL
+3269,"32.5","-95.4","United States","Texas",NULL
+3270,"31.8","-100.5","United States","Texas",NULL
+3271,"32.6","-94.4","United States","Texas",NULL
+3272,"32.9","-94.6","United States","Texas",NULL
+3273,"31.9","-96.2","United States","Texas",NULL
+3274,"28.8","-96.0","United States","Texas",NULL
+3275,"32.8","-98.4","United States","Texas",NULL
+3276,"30.5","-95.7","United States","Texas",NULL
+3277,"30.4","-95.4","United States","Texas",NULL
+3278,"29.2","-100.4","United States","Texas",NULL
+3279,"30.5","-96.6","United States","Texas",NULL
+3280,"30.6","-95.1","United States","Texas",NULL
+3281,"30.7","-94.6","United States","Texas",NULL
+3282,"29.0","-95.5","United States","Texas",NULL
+3283,"30.3","-94.0","United States","Texas",NULL
+3284,"30.1","-95.5","United States","Texas","The Woodlands"
+3285,"30.5","-95.8","United States","Texas",NULL
+3286,"30.6","-100.5","United States","Texas",NULL
+3287,"31.5","-95.2","United States","Texas",NULL
+3288,"31.4","-97.6","United States","Texas",NULL
+3289,"31.4","-100.4","United States","Texas","San Angelo"
+3290,"31.5","-98.5","United States","Texas",NULL
+3291,"30.8","-95.8","United States","Texas",NULL
+3292,"33.3","-97.0","United States","Texas",NULL
+3293,"33.8","-95.9","United States","Texas",NULL
+3294,"33.8","-96.8","United States","Texas",NULL
+3295,"33.1","-94.5","United States","Texas",NULL
+3296,"32.5","-97.8","United States","Texas",NULL
+3297,"32.8","-97.4","United States","Texas","Fort Worth"
+3298,"32.8","-98.0","United States","Texas",NULL
+3299,"29.3","-97.5","United States","Texas",NULL
+3300,"30.7","-94.0","United States","Texas",NULL
+3301,"29.8","-98.2","United States","Texas",NULL
+3302,"29.3","-98.6","United States","Texas","San Antonio"
+3303,"31.1","-94.2","United States","Texas",NULL
+3304,"33.3","-94.1","United States","Texas",NULL
+3305,"33.2","-98.4","United States","Texas",NULL
+3306,"33.4","-98.3","United States","Texas",NULL
+3307,"34.3","-99.3","United States","Texas",NULL
+3308,"32.4","-98.7","United States","Texas",NULL
+3309,"32.7","-97.0","United States","Texas","Grand Prairie"
+3310,"31.2","-95.9","United States","Texas",NULL
+3311,"30.6","-96.4","United States","Texas",NULL
+3312,"33.2","-97.0","United States","Texas","Denton"
+3313,"33.0","-97.2","United States","Texas",NULL
+3314,"32.9","-98.4","United States","Texas",NULL
+3315,"33.8","-96.6","United States","Texas",NULL
+3316,"34.1","-98.1","United States","Oklahoma",NULL
+3317,"33.2","-96.2","United States","Texas",NULL
+3318,"32.8","-94.7","United States","Texas",NULL
+3319,"32.2","-94.7","United States","Texas",NULL
+3320,"39.6","-111.2","United States","Utah",NULL
+3321,"40.3","-111.6","United States","Utah","Provo"
+3322,"40.4","-111.6","United States","Utah",NULL
+3323,"40.6","-110.0","United States","Utah",NULL
+3324,"40.9","-109.8","United States","Utah",NULL
+3325,"39.5","-111.2","United States","Utah",NULL
+3326,"40.9","-111.6","United States","Utah",NULL
+3327,"40.9","-109.7","United States","Utah",NULL
+3328,"40.8","-109.6","United States","Utah",NULL
+3329,"40.8","-110.8","United States","Utah",NULL
+3330,"40.8","-110.9","United States","Utah",NULL
+3331,"41.6","-111.6","United States","Utah",NULL
+3332,"40.6","-110.8","United States","Utah",NULL
+3333,"40.6","-110.4","United States","Utah",NULL
+3334,"41.4","-111.6","United States","Utah",NULL
+3335,"40.3","-111.7","United States","Utah",NULL
+3336,"41.5","-111.6","United States","Utah",NULL
+3337,"38.8","-111.7","United States","Utah",NULL
+3338,"39.6","-111.1","United States","Utah",NULL
+3339,"41.0","-111.8","United States","Utah",NULL
+3340,"40.6","-111.7","United States","Utah",NULL
+3341,"37.8","-109.3","United States","Utah",NULL
+3342,"40.5","-112.1","United States","Utah",NULL
+3343,"41.0","-110.4","United States","Utah",NULL
+3344,"38.5","-112.1","United States","Utah",NULL
+3345,"37.5","-79.5","United States","Virginia",NULL
+3346,"38.8","-77.3","United States","Virginia",NULL
+3347,"37.2","-76.8","United States","Virginia",NULL
+3348,"36.6","-76.3","United States","Virginia","Chesapeake"
+3349,"36.9","-82.4","United States","Virginia",NULL
+3350,"36.9","-80.0","United States","Virginia",NULL
+3351,"37.0","-80.9","United States","Virginia",NULL
+3352,"38.0","-78.9","United States","Virginia",NULL
+3353,"38.5","-79.2","United States","Virginia",NULL
+3354,"36.6","-79.1","United States","Virginia",NULL
+3355,"37.9","-75.7","United States","Virginia",NULL
+3356,"36.7","-76.4","United States","Virginia","Chesapeake"
+3357,"38.6","-79.1","United States","Virginia",NULL
+3358,"37.0","-79.9","United States","Virginia",NULL
+3359,"37.3","-78.2","United States","Virginia",NULL
+3360,"38.4","-79.7","United States","Virginia",NULL
+3361,"38.1","-77.2","United States","Virginia",NULL
+3362,"36.8","-76.0","United States","Virginia","Virginia Beach"
+3363,"36.9","-80.9","United States","Virginia",NULL
+3364,"36.9","-78.0","United States","Virginia",NULL
+3365,"37.1","-79.9","United States","Virginia",NULL
+3366,"39.0","-78.0","United States","Virginia",NULL
+3367,"36.8","-81.9","United States","Virginia",NULL
+3368,"38.3","-79.4","United States","Virginia",NULL
+3369,"37.6","-79.8","United States","Virginia",NULL
+3370,"37.2","-80.4","United States","Virginia",NULL
+3371,"37.4","-80.6","United States","Virginia",NULL
+3372,"38.9","-78.1","United States","Virginia",NULL
+3373,"36.7","-81.6","United States","Virginia",NULL
+3374,"38.5","-79.0","United States","Virginia",NULL
+3375,"37.8","-79.6","United States","Virginia",NULL
+3376,"37.2","-82.4","United States","Virginia",NULL
+3377,"43.2","-73.1","United States","Vermont",NULL
+3378,"43.4","-72.4","United States","Vermont",NULL
+3379,"42.9","-72.6","United States","Vermont",NULL
+3380,"48.6","-121.8","United States","Washington",NULL
+3381,"46.3","-117.7","United States","Washington",NULL
+3382,"46.0","-122.2","United States","Washington",NULL
+3383,"47.6","-123.2","United States","Washington",NULL
+3384,"47.0","-122.5","United States","Washington",NULL
+3385,"46.9","-121.3","United States","Washington",NULL
+3386,"48.6","-120.5","United States","Washington",NULL
+3387,"46.7","-122.3","United States","Washington",NULL
+3388,"45.9","-121.6","United States","Washington",NULL
+3389,"47.5","-120.8","United States","Washington",NULL
+3390,"47.8","-121.0","United States","Washington",NULL
+3391,"47.5","-120.7","United States","Washington",NULL
+3392,"48.0","-123.6","United States","Washington",NULL
+3393,"45.7","-122.3","United States","Washington",NULL
+3394,"48.0","-121.6","United States","Washington",NULL
+3395,"47.3","-120.3","United States","Washington",NULL
+3396,"47.0","-124.1","United States","Washington",NULL
+3397,"47.1","-120.8","United States","Washington",NULL
+3398,"47.0","-123.7","United States","Washington",NULL
+3399,"46.0","-117.9","United States","Washington",NULL
+3400,"47.5","-121.8","United States","Washington",NULL
+3401,"47.4","-121.5","United States","Washington",NULL
+3402,"47.3","-120.9","United States","Washington",NULL
+3403,"46.5","-122.9","United States","Washington",NULL
+3404,"46.6","-121.5","United States","Washington",NULL
+3405,"48.6","-120.1","United States","Washington",NULL
+3406,"48.7","-117.5","United States","Washington",NULL
+3407,"46.9","-122.8","United States","Washington",NULL
+3408,"47.3","-122.6","United States","Washington",NULL
+3409,"47.1","-121.8","United States","Washington",NULL
+3410,"47.4","-122.6","United States","Washington",NULL
+3411,"47.2","-122.4","United States","Washington",NULL
+3412,"46.1","-122.2","United States","Washington",NULL
+3413,"46.3","-121.8","United States","Washington",NULL
+3414,"46.2","-122.1","United States","Washington",NULL
+3415,"47.9","-121.8","United States","Washington",NULL
+3416,"48.8","-122.1","United States","Washington",NULL
+3417,"46.6","-121.1","United States","Washington",NULL
+3418,"47.9","-117.1","United States","Washington",NULL
+3419,"47.1","-122.1","United States","Washington",NULL
+3420,"46.1","-122.0","United States","Washington",NULL
+3421,"47.2","-121.7","United States","Washington",NULL
+3422,"47.4","-121.7","United States","Washington",NULL
+3423,"47.2","-120.3","United States","Washington",NULL
+3424,"46.1","-122.1","United States","Washington",NULL
+3425,"47.3","-121.1","United States","Washington",NULL
+3426,"46.8","-121.3","United States","Washington",NULL
+3427,"47.3","-123.2","United States","Washington",NULL
+3428,"46.1","-121.8","United States","Washington",NULL
+3429,"46.0","-121.7","United States","Washington",NULL
+3430,"48.1","-122.8","United States","Washington",NULL
+3431,"48.4","-119.0","United States","Washington",NULL
+3432,"48.0","-117.6","United States","Washington",NULL
+3433,"46.1","-121.7","United States","Washington",NULL
+3434,"48.3","-121.8","United States","Washington",NULL
+3435,"48.7","-121.6","United States","Washington",NULL
+3436,"47.4","-122.0","United States","Washington",NULL
+3437,"46.4","-122.8","United States","Washington",NULL
+3438,"46.5","-122.0","United States","Washington",NULL
+3439,"47.4","-121.1","United States","Washington",NULL
+3440,"47.5","-120.3","United States","Washington","Wenatchee"
+3441,"46.1","-121.9","United States","Washington",NULL
+3442,"47.8","-120.7","United States","Washington",NULL
+3443,"47.9","-119.0","United States","Washington",NULL
+3444,"45.9","-121.2","United States","Washington",NULL
+3445,"47.9","-124.5","United States","Washington",NULL
+3446,"47.9","-121.4","United States","Washington",NULL
+3447,"46.2","-121.9","United States","Washington",NULL
+3448,"48.9","-119.7","United States","Washington",NULL
+3449,"47.5","-123.9","United States","Washington",NULL
+3450,"46.7","-121.7","United States","Washington",NULL
+3451,"47.6","-123.1","United States","Washington",NULL
+3452,"47.2","-123.5","United States","Washington",NULL
+3453,"47.2","-122.9","United States","Washington",NULL
+3454,"47.5","-121.4","United States","Washington",NULL
+3455,"47.9","-122.9","United States","Washington",NULL
+3456,"48.2","-122.7","United States","Washington",NULL
+3457,"47.4","-121.6","United States","Washington",NULL
+3458,"48.2","-122.0","United States","Washington",NULL
+3459,"47.3","-121.4","United States","Washington",NULL
+3460,"47.2","-121.9","United States","Washington",NULL
+3461,"48.1","-123.7","United States","Washington",NULL
+3462,"46.4","-122.3","United States","Washington",NULL
+3463,"47.2","-123.4","United States","Washington",NULL
+3464,"47.0","-123.9","United States","Washington",NULL
+3465,"47.6","-124.3","United States","Washington",NULL
+3466,"46.8","-123.2","United States","Washington",NULL
+3467,"47.3","-120.2","United States","Washington",NULL
+3468,"46.7","-121.4","United States","Washington",NULL
+3469,"47.9","-123.9","United States","Washington",NULL
+3470,"46.9","-124.2","United States","Washington",NULL
+3471,"47.8","-121.2","United States","Washington",NULL
+3472,"48.7","-121.4","United States","Washington",NULL
+3473,"47.7","-120.7","United States","Washington",NULL
+3474,"46.1","-122.3","United States","Washington",NULL
+3475,"48.5","-120.2","United States","Washington",NULL
+3476,"48.9","-117.4","United States","Washington",NULL
+3477,"46.1","-121.6","United States","Washington",NULL
+3478,"48.7","-119.1","United States","Washington",NULL
+3479,"48.2","-121.6","United States","Washington",NULL
+3480,"48.4","-119.8","United States","Washington",NULL
+3481,"48.9","-119.5","United States","Washington",NULL
+3482,"48.2","-122.3","United States","Washington",NULL
+3483,"46.2","-167.1",NULL,NULL,NULL
+3484,"47.7","-122.1","United States","Washington",NULL
+3485,"46.7","-121.8","United States","Washington",NULL
+3486,"46.7","-122.0","United States","Washington",NULL
+3487,"46.4","-121.9","United States","Washington",NULL
+3488,"47.9","-121.7","United States","Washington",NULL
+3489,"48.1","-121.9","United States","Washington",NULL
+3490,"47.6","-121.5","United States","Washington",NULL
+3491,"48.0","-123.0","United States","Washington",NULL
+3492,"48.1","-122.0","United States","Washington",NULL
+3493,"46.4","-123.7","United States","Washington",NULL
+3494,"46.0","-121.5","United States","Washington",NULL
+3495,"46.6","-123.2","United States","Washington",NULL
+3496,"47.2","-124.0","United States","Washington",NULL
+3497,"46.4","-122.0","United States","Washington",NULL
+3498,"45.9","-121.7","United States","Washington",NULL
+3499,"47.7","-123.1","United States","Washington",NULL
+3500,"48.2","-122.5","United States","Washington",NULL
+3501,"48.5","-118.6","United States","Washington",NULL
+3502,"46.5","-122.6","United States","Washington",NULL
+3503,"46.5","-121.3","United States","Washington",NULL
+3504,"48.8","-118.6","United States","Washington",NULL
+3505,"49.0","-118.4","United States","Washington",NULL
+3506,"48.0","-121.4","United States","Washington",NULL
+3507,"46.3","-124.0","United States","Washington",NULL
+3508,"46.0","-121.8","United States","Washington",NULL
+3509,"46.5","-122.5","United States","Washington",NULL
+3510,"48.3","-124.7","United States","Washington",NULL
+3511,"46.5","-123.0","United States","Washington",NULL
+3512,"47.3","-123.1","United States","Washington",NULL
+3513,"46.8","-123.7","United States","Washington",NULL
+3514,"47.9","-123.5","United States","Washington",NULL
+3515,"47.8","-122.6","United States","Washington",NULL
+3516,"47.0","-122.6","United States","Washington",NULL
+3517,"46.7","-123.4","United States","Washington",NULL
+3518,"48.7","-119.8","United States","Washington",NULL
+3519,"48.6","-120.8","United States","Washington",NULL
+3520,"46.6","-122.5","United States","Washington",NULL
+3521,"49.0","-120.6","United States","Washington",NULL
+3522,"46.5","-122.7","United States","Washington",NULL
+3523,"47.2","-124.2","United States","Washington",NULL
+3524,"47.0","-121.4","United States","Washington",NULL
+3525,"47.8","-120.5","United States","Washington",NULL
+3526,"44.8","-120.6","United States","Oregon",NULL
+3527,"48.6","-119.7","United States","Washington",NULL
+3528,"47.7","-123.0","United States","Washington",NULL
+3529,"47.0","-124.2","United States","Washington",NULL
+3530,"48.1","-121.5","United States","Washington",NULL
+3531,"46.5","-121.5","United States","Washington",NULL
+3532,"48.1","-121.7","United States","Washington",NULL
+3533,"47.8","-122.1","United States","Washington",NULL
+3534,"47.3","-122.1","United States","Washington",NULL
+3535,"47.9","-120.7","United States","Washington",NULL
+3536,"46.7","-121.3","United States","Washington",NULL
+3537,"48.4","-119.9","United States","Washington",NULL
+3538,"48.5","-120.8","United States","Washington",NULL
+3539,"47.0","-122.4","United States","Washington",NULL
+3540,"47.8","-121.1","United States","Washington",NULL
+3541,"48.4","-121.3","United States","Washington",NULL
+3542,"47.6","-117.2","United States","Washington",NULL
+3543,"48.6","-119.2","United States","Washington",NULL
+3544,"46.9","-122.3","United States","Washington",NULL
+3545,"48.2","-118.0","United States","Washington",NULL
+3546,"48.4","-117.9","United States","Washington",NULL
+3547,"48.4","-119.1","United States","Washington",NULL
+3548,"48.8","-117.6","United States","Washington",NULL
+3549,"47.2","-122.1","United States","Washington",NULL
+3550,"47.7","-117.2","United States","Washington",NULL
+3551,"46.7","-121.5","United States","Washington",NULL
+3552,"48.3","-117.5","United States","Washington",NULL
+3553,"48.5","-117.1","United States","Washington",NULL
+3554,"45.9","-121.8","United States","Washington",NULL
+3555,"48.5","-122.2","United States","Washington",NULL
+3556,"48.4","-121.8","United States","Washington",NULL
+3557,"45.8","-122.3","United States","Washington",NULL
+3558,"48.6","-121.9","United States","Washington",NULL
+3559,"47.4","-123.8","United States","Washington",NULL
+3560,"46.6","-121.2","United States","Washington",NULL
+3561,"47.0","-121.7","United States","Washington",NULL
+3562,"46.4","-122.2","United States","Washington",NULL
+3563,"48.1","-124.6","United States","Washington",NULL
+3564,"46.3","-122.1","United States","Washington",NULL
+3565,"47.8","-117.5","United States","Washington",NULL
+3566,"47.2","-120.6","United States","Washington",NULL
+3567,"47.7","-117.5","United States","Washington",NULL
+3568,"48.6","-117.6","United States","Washington",NULL
+3569,"47.6","-120.6","United States","Washington",NULL
+3570,"47.8","-120.6","United States","Washington",NULL
+3571,"47.2","-120.9","United States","Washington",NULL
+3572,"46.8","-123.0","United States","Washington",NULL
+3573,"47.4","-121.3","United States","Washington",NULL
+3574,"45.5","-91.9","United States","Wisconsin",NULL
+3575,"45.4","-88.1","United States","Wisconsin",NULL
+3576,"43.1","-90.2","United States","Wisconsin",NULL
+3577,"46.1","-92.3","United States","Wisconsin",NULL
+3578,"45.7","-89.9","United States","Wisconsin",NULL
+3579,"45.8","-92.7","United States","Wisconsin",NULL
+3580,"43.2","-88.1","United States","Wisconsin",NULL
+3581,"46.0","-89.7","United States","Wisconsin",NULL
+3582,"45.9","-90.5","United States","Wisconsin",NULL
+3583,"46.6","-91.2","United States","Wisconsin",NULL
+3584,"44.5","-90.7","United States","Wisconsin",NULL
+3585,"46.6","-90.9","United States","Wisconsin",NULL
+3586,"44.7","-87.5","United States","Wisconsin",NULL
+3587,"46.3","-91.1","United States","Wisconsin",NULL
+3588,"45.0","-88.5","United States","Wisconsin",NULL
+3589,"43.9","-89.2","United States","Wisconsin",NULL
+3590,"43.0","-88.4","United States","Wisconsin",NULL
+3591,"46.0","-88.4","United States","Wisconsin",NULL
+3592,"45.1","-87.6","United States","Wisconsin",NULL
+3593,"44.4","-89.8","United States","Wisconsin",NULL
+3594,"45.0","-89.0","United States","Wisconsin",NULL
+3595,"42.5","-87.5","United States","Wisconsin",NULL
+3596,"43.1","-90.3","United States","Wisconsin",NULL
+3597,"43.9","-87.9","United States","Wisconsin",NULL
+3598,"42.9","-87.8","United States","Wisconsin",NULL
+3599,"43.0","-89.7","United States","Wisconsin",NULL
+3600,"45.9","-89.2","United States","Wisconsin",NULL
+3601,"42.8","-90.2","United States","Wisconsin",NULL
+3602,"43.9","-89.8","United States","Wisconsin",NULL
+3603,"46.2","-89.3","United States","Wisconsin",NULL
+3604,"43.4","-88.7","United States","Wisconsin",NULL
+3605,"43.2","-90.7","United States","Wisconsin",NULL
+3606,"45.4","-92.7","United States","Minnesota",NULL
+3607,"46.4","-91.2","United States","Wisconsin",NULL
+3608,"46.7","-90.9","United States","Wisconsin",NULL
+3609,"43.2","-88.3","United States","Wisconsin",NULL
+3610,"46.0","-91.3","United States","Wisconsin",NULL
+3611,"46.1","-89.9","United States","Wisconsin",NULL
+3612,"46.1","-91.2","United States","Wisconsin",NULL
+3613,"39.1","-79.3","United States","West Virginia",NULL
+3614,"38.0","-81.0","United States","West Virginia",NULL
+3615,"38.4","-82.5","United States","West Virginia",NULL
+3616,"37.5","-81.6","United States","West Virginia",NULL
+3617,"38.5","-82.1","United States","West Virginia",NULL
+3618,"38.5","-82.3","United States","West Virginia",NULL
+3619,"37.8","-81.1","United States","West Virginia",NULL
+3620,"38.8","-82.1","United States","West Virginia",NULL
+3621,"38.7","-79.8","United States","West Virginia",NULL
+3622,"38.7","-79.6","United States","West Virginia",NULL
+3623,"38.9","-79.4","United States","West Virginia",NULL
+3624,"38.1","-80.2","United States","West Virginia",NULL
+3625,"39.6","-81.1","United States","Ohio",NULL
+3626,"39.7","-80.6","United States","West Virginia",NULL
+3627,"38.7","-79.5","United States","West Virginia",NULL
+3628,"39.5","-81.0","United States","West Virginia",NULL
+3629,"38.8","-81.6","United States","West Virginia",NULL
+3630,"38.2","-80.2","United States","West Virginia",NULL
+3631,"38.7","-81.0","United States","West Virginia",NULL
+3632,"39.7","-79.9","United States","West Virginia",NULL
+3633,"37.8","-82.0","United States","West Virginia",NULL
+3634,"39.9","-79.7","United States","Pennsylvania","North Union Township"
+3635,"38.9","-80.0","United States","West Virginia",NULL
+3636,"38.3","-80.4","United States","West Virginia",NULL
+3637,"38.5","-80.0","United States","West Virginia",NULL
+3638,"38.8","-79.5","United States","West Virginia",NULL
+3639,"39.4","-80.9","United States","West Virginia",NULL
+3640,"37.5","-81.8","United States","West Virginia",NULL
+3641,"38.3","-82.4","United States","West Virginia",NULL
+3642,"38.6","-79.2","United States","West Virginia",NULL
+3643,"38.5","-79.3","United States","West Virginia",NULL
+3644,"38.6","-79.3","United States","West Virginia",NULL
+3645,"38.9","-79.7","United States","West Virginia",NULL
+3646,"39.5","-78.1","United States","West Virginia",NULL
+3647,"38.2","-80.3","United States","West Virginia",NULL
+3648,"39.0","-79.8","United States","West Virginia",NULL
+3649,"44.5","-109.6","United States","Wyoming",NULL
+3650,"42.5","-110.6","United States","Wyoming",NULL
+3651,"42.5","-111.0","United States","Wyoming",NULL
+3652,"44.4","-104.2","United States","Wyoming",NULL
+3653,"33.9","-86.2","United States","Alabama",NULL
+3654,"34.1","-86.7","United States","Alabama",NULL
+3655,"33.1","-92.3","United States","Arkansas",NULL
+3656,"32.7","-117.2","United States","California","San Diego"
+3657,"28.2","-82.5","United States","Florida",NULL
+3658,"37.7","-89.4","United States","Illinois",NULL
+3659,"37.8","-89.0","United States","Illinois",NULL
+3660,"38.5","-88.9","United States","Illinois",NULL
+3661,"38.8","-89.9","United States","Illinois","Edwardsville"
+3662,"47.2","-112.0","United States","Montana",NULL
+3663,"48.0","-105.9","United States","Montana",NULL
+3664,"31.9","-94.9","United States","Texas",NULL
+3665,"31.2","-95.0","United States","Texas",NULL
+3666,"47.5","-121.0","United States","Washington",NULL
+3667,"47.5","-122.0","United States","Washington",NULL
+3668,"44.0","-91.3","United States","Wisconsin",NULL

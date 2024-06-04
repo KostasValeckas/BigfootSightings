@@ -1,12 +1,13 @@
 DROP TABLE IF EXISTS Sightings CASCADE;
 
 CREATE TABLE IF NOT EXISTS Sightings(
-    nr int,
+    nr SERIAL PRIMARY KEY,
     username text,
     title text,
-    t_stamp timestamp,
-
-    PRIMARY KEY (nr)
+    report_time TIMESTAMPTZ,
+    latitude float,
+    longitude float,
+    location_id int
 );
 
 DELETE FROM Sightings;

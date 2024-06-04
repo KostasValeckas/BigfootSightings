@@ -5,6 +5,11 @@
 
 {% block css %}
     <link rel="stylesheet" href="{{ url_for('static', filename='css/sighting.css') }}">
+    <style>
+        .sightings {
+            margin-top:700px;
+        }
+    </style>
 {% endblock %}
 
 {% block title %}ALL SIGHTINGS{% endblock %}
@@ -24,10 +29,67 @@
             </div>
 
             <div class="form-group">
-                {{ form.submit(class="btn btn--full") }}
+                {{ form.username.label }}
+                {{ form.username }}
+
+                {{ form_errors(form.username.errors) }}
             </div>
 
             <div class="form-group">
+                {{ form.lat.label }}
+                {{ form.lat }}
+
+                {{ form_errors(form.lat.errors) }}
+            </div>
+
+
+            <div class="form-group">
+                {{ form.long.label }}
+                {{ form.long }}
+
+                {{ form_errors(form.long.errors) }}
+            </div>
+
+            <div class="form-group">
+                {{ form.location_id.label }}
+                {{ form.location_id }}
+
+                {{ form_errors(form.location_id.errors) }}
+            </div>
+
+            <div class="form-group">
+                {{ form.date.label }}
+                {{ form.date}}
+
+                {{ form_errors(form.date.errors) }}
+            </div>
+
+            <div class="form-group">
+                {{ form.country.label }}
+                {{ form.country}}
+
+                {{ form_errors(form.country.errors) }}
+            </div>
+
+            <div class="form-group">
+                {{ form.state.label }}
+                {{ form.state}}
+
+                {{ form_errors(form.state.errors) }}
+            </div>
+
+
+
+            <div class="form-group">
+                {{ form.city.label }}
+                {{ form.city}}
+
+                {{ form_errors(form.city.errors) }}
+            </div>
+        
+
+            <div class="form-group">
+                {{ form.submit(class="btn btn--full") }}
                 {{ form.reset(class="btn btn--full") }}
             </div>
 
@@ -35,13 +97,12 @@
     </section>
 
 
-
     <div class="sightings">
         {% for sighting in sightings %}
-            {{ sighting_card(sighting=sighting) }}
+            {{ sighting_card(sighting=sighting, timezone=timezone) }}
         {% endfor %}
     </div>
 
-
-
 {% endblock %}
+
+

@@ -17,12 +17,19 @@
 
 
 
-{% macro sighting_card (sighting=None) %}
+{% macro sighting_card (sighting=None, timezone=None) %}
     <div class="card">
         <div class="card__info">
-            <p>Title: {{ sighting.title|format_data }}</p>
+            <p>Nr.: {{ sighting.nr }}</p>
+            <p>Reported by: {{ sighting.username }}</p>
+            <p>Description: {{ sighting.title }}</p>
+            <p>Report time in local time ({{ timezone }}) +/- offset  from UTC: {{ sighting.report_time }}</p>
             <p>Latitude: {{ sighting.latitude}}</p>
             <p>Longitude: {{ sighting.longitude}}</p>
+            <p>Location id: {{sighting.location_id}}</p>
+            <p>Country: {{sighting.country}}</p>
+            <p>State: {{sighting.state_name}}</p>
+            <p>City: {{sighting.city}}</p>
         </div>
 
     </div>

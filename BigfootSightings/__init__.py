@@ -9,20 +9,20 @@ from psycopg2.extras import RealDictCursor
 load_dotenv()
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
+app.config["SECRET_KEY"] = os.getenv("SECRET_KEY")
 
 conn = psycopg2.connect(
     host="localhost",
-    database=os.getenv('DB_NAME'),
-    user=os.getenv('DB_USERNAME'),
-    password=os.getenv('DB_PASSWORD')
+    database=os.getenv("DB_NAME"),
+    user=os.getenv("DB_USERNAME"),
+    password=os.getenv("DB_PASSWORD"),
 )
 
 db_cursor = conn.cursor(cursor_factory=RealDictCursor)
 
 login_manager = LoginManager(app)
-login_manager.login_view = 'Login.login'
-login_manager.login_message_category = 'info'
+login_manager.login_view = "Login.login"
+login_manager.login_message_category = "info"
 
 from BigfootSightings import filters
 from BigfootSightings.blueprints.Login.routes import Login
@@ -30,5 +30,3 @@ from BigfootSightings.blueprints.Sightings.routes import Sightings
 
 app.register_blueprint(Login)
 app.register_blueprint(Sightings)
-
-print("Init_done")

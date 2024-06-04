@@ -1,10 +1,10 @@
 DROP TABLE IF EXISTS Locations CASCADE;
 
 CREATE TABLE IF NOT EXISTS Locations(
-    lng Decimal(9,6),
-    lat Decimal(8,6), 
-    stateName text,
+    id SERIAL PRIMARY KEY,
+    latitude_rounded Decimal(3,1),
+    longitude_rounded Decimal(4,1),
     country text,
-
-    PRIMARY KEY (lng, lat)
+    state_name text, --state is a protected keyword
+    city text
 );
